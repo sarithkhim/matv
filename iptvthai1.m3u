@@ -53,8 +53,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/T Sports 7-OTT.png",T-Sports7🇹🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TPTV-OTT.png",TPTV🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
