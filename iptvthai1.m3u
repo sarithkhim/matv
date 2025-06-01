@@ -165,6 +165,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://yt3.googleusercontent.com/2_PEHaZfpfk1p_8zFmOfIP6QqOOPRMbqACyFs1vnCnTwXpgfMsTzWYis0nFuCRnvlk4cEdCapw=s900-c-k-c0x00ffffff-no-rj",PSI Saradee 99🇹🇭
+http://103.120.113.107:80/Saradee/index.m3u8
 
 
 <========================= TV China ====================================>
@@ -254,7 +256,7 @@ http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 
 #EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Vietnam-Wiseplay.png" group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/VTV1-OTT.png",VTV 1HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://ott1.nethubtv.vn/live/vtv1/chunklist_1.m3u8
+http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/VTV2-OTT.png",VTV 2HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -2162,50 +2164,86 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DreamWorks.png",451-DreamWorks China Sub🇨🇳
+<=============== Kids Channels =====================>
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids Channels" tvg-id="Cartoon Network" , Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DreamWorks.png",-DreamWorks China Sub🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-http://37.27.111.214:8080/live/57/hls.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Happy Kids-ott.png",-Happy KIDS HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://z02.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/ONMovies-khichTV.png",452-ON MOVIES HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8 
-https://thvip.site/360/181/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn1.tvmienphi.xyz:8444/sctv/oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://www.transvision.co.id/img/channel/cn.png",-Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids Channels",-ZooMoo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids Channels" tvg-id="Nickelodeon.id", Nickelodeon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
+https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids Channels" tvg-id="NickJr.id" , Nickelodeon Junior
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="IndiKids" tvg-name="IndiKids" group-title="Kids Channels" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109",-Fun Planet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="Kids Channels",-Dreamworks HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+
+#EXTINF:-1 group-title="Kids Channels" tvg-id="Animax.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",-Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  group-title="Kids Channels" tvg-id="ANIPLUS HD.sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png",-ANIPLUS
+https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",-Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",-Cartoonito
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Viettel TV - ON Style TV-OTT.png",453-ON Style HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8 
-https://thvip.site/360/184/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn1.tvmienphi.xyz:8444/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
-https://cdn1.tvmienphi.xyz:8444/sctv/oipf0znpmnliv.vcdn.cloud/hls/vtvcab12/index.m3u8
+<=============== Movies Channels =====================>
 
-#EXTINF:-1 group-title="Kids" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Happy Kids-ott.png",454-Happy KIDS HD🇻🇳
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/48.m3u8
-
-#EXTINF:-1 group-title="CHANNEL THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TVB HD Thai-OTT.png",455-TVB THAI HD🇹🇭
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Mediacorp-Channel8.png",456-CTV 8 HD🇨🇳
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CTI+OTT.png",457-CTI+ HD🇨🇳
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png",458-HBO Asia China Sub🇨🇳
+#EXTINF:-1 group-title="Movies Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png",458-HBO Asia China Sub🇨🇳
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2213,14 +2251,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png",459-HBO SIGNATURE HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png",459-HBO SIGNATURE
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2296,33 +2328,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU",468-Cartoon TV Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU",469-Cartoon TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU",470-Cartoon TV Classics
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.transvision.co.id/img/channel/cn.png",471-Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
