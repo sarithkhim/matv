@@ -255,11 +255,11 @@ http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 
 
 #EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Vietnam-Wiseplay.png" group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-1-vn.png",DaNang TV1HD🇻🇳
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+#EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-2-vn.png",DaNang TV2HD🇻🇳
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+#EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kien-giang-tv-vn.png",KGHD/Kiên Giang HD🇻🇳
