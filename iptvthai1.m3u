@@ -839,7 +839,7 @@ http://originhd-1.dens.tv/h/h14/index.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/982/49982-SNAPSHOT-l.png" group-title="MOVIES",-Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",-Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
@@ -897,7 +897,7 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-thaifilm-th.png",-True ThaiFilm
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",-True AsianMore
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-asian-more-th.png",-True AsianMore
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-movie-hits-th.png",-True MovieHit
@@ -943,11 +943,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png",-Rock Action HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/BxmsoapXSvg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5xg3tnBJtDvjJohpGx5pf5dK43g",-Rock Action HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/007/50007-SNAPSHOT-l.png",-RockEntertainment
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnnyEyllo1FfYcvx7CJThCCALOSn60JfDB3hIuZCaqhShLs91666Fm-L63J4CnRBge_Q&usqp=CAU",-RockEntertainment
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
 
@@ -991,7 +991,7 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 <===================================== KNOWLEDGE TV =================================>
 
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="KNOWLEDGE TV",Animal Planet
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="KNOWLEDGE TV",-Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
@@ -999,7 +999,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="KNOWLEDGE TV",Animal Planet
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="KNOWLEDGE TV",-Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
@@ -1038,7 +1038,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 tvg-id="History.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/XIfDbGX.png" group-title="KNOWLEDGE TV",History HD
+#EXTINF:-1 tvg-id="History.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/XIfDbGX.png" group-title="KNOWLEDGE TV",-History HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
@@ -1050,13 +1050,13 @@ http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="KNOWLEDGE TV",Asian Food Network
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="KNOWLEDGE TV",-Asian Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="KNOWLEDGE TV",Food Network
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="KNOWLEDGE TV",-Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
@@ -1084,7 +1084,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png",264-Dmax HD BACKUP
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png",-Dmax HD BACKUP
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://s6.hopslan.com/dmax1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -1110,7 +1110,7 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png",295-Discovery Asia HD
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png",-Discovery Asia HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/chunklist_w2107660725_b844100_sleng.m3u8
 https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
@@ -1122,17 +1122,24 @@ https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://sv1.picz.in.th/images/2023/10/31/ddnV0Yy.png",-WILD LIFE HD
-https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://sv1.picz.in.th/images/2023/10/31/ddnVWX1.png",-WILD PLANET HD
-https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist1080p.m3u8
-
-
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/zjP1b0U.png",-Wild planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 #EXTVLCOPT:http-referrer=OTH
 https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png",-Dens Food Channel
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
+http://210.210.155.35/uq2663/h/h248/index.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_life.png",-True Explore Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_sci.png",-True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png",-True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 
 <===================================== MUSIC & FASHION =================================>
@@ -1806,90 +1813,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://seeklogo.com/images/1/8tv-media-prima-malaysia-logo-D55E64675A-seeklogo.com.png",493-8TV🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://th.bing.com/th/id/OIP.87Kp9RBGwnOQxNyp-dh3iQHaDn?rs=1&pid=ImgDetMain",494-Astro PRIMA FHD🇲🇾
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1
-http://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://th.bing.com/th/id/OIP.g2mBzavAxXI2oDf5urOM3wHaDn?rs=1&pid=ImgDetMain",495-Astro WARNA FHD🇲🇾
-http://perfecttv.net:8080/Perfecttv/Perfecttv/2
-http://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png",496-Astro Ria🇲🇾
-https://cutt.ly/BeL9thYB
-http://perfecttv.net:8080/Perfecttv/Perfecttv/3
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://i.imgur.com/77KYgbz.png",497-Citra Dangdut
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png",498-Chinese Drama🇨🇳
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",499-Berita Satu Siang (BTV)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/beritasatu/index.m3u8
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CABLE TV-China.jpeg",500-CABLE TV2 China🇨🇳
-http://37.27.111.214:8080/live/108/hls.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CABLE TV-China.jpeg",501-CABLE TV3 China🇨🇳
-http://37.27.111.214:8080/live/109/hls.m3u8
-
-#EXTINF:-1 group-title="CHANNEL CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CABLE TV-China.jpeg",502-CABLE TV4 China🇨🇳
-http://37.27.111.214:8080/live/111/hls.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onlife5_1675158869.webp",503-ON Life HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
-https://thvip.site/360/188/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/infopng1.jpg",504-ON INFO HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
-https://thvip.site/360/189/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://i.imgur.com/R82M53x.png",505-ON VFamily HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
-https://thvip.site/360/187/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/echanelmoi2.jpg",506-ON E Channel HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
-https://thvip.site/360/182/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onviegiaitri150x906.jpg",507-ON Vie GIAITRI HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
-https://thvip.site/360/180/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onviedrama150x901.jpg",508-ON Vie DRAMAS HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8 
-https://thvip.site/360/177/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/cab10_filmtv_Logo_150x902_1675158860.webp",509-ON CINE HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8 
-https://thvip.site/360/176/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL VIETNAM TV🇻🇳" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ontreding1.jpg",510-ON Trengding HD🇻🇳
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8 
-https://thvip.site/360/186/index.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png",511-Dens Food Channel
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmlive.ddns.net:5000/live/KuN5g/KuN5g2024/43.m3u8
-http://210.210.155.35/uq2663/h/h248/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",512-Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
