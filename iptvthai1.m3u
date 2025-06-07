@@ -839,20 +839,15 @@ http://originhd-1.dens.tv/h/h14/index.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/982/49982-SNAPSHOT-l.png" group-title="MOVIES",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/982/49982-SNAPSHOT-l.png" group-title="MOVIES",-Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MONO29-OTT.png",180-MONO29 HD Inter Sub
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MONO29-OTT.png",-MONO29 HD Inter Sub
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720EN.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png",181-Celestial Classic Movies-天映经典频道
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48091
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48091
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/71046
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",-My CINEMA FHD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -877,7 +872,7 @@ http://originhd-1.dens.tv/h/h194/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h07/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-url="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",-KIX HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",-KIX Backup
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
@@ -936,81 +931,34 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://sv1.picz.in.th/images/2023/11/27/d0we148.png",202-Dragon MoviesHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
-#EXTVLCOPT:http-referrer=OTH
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0159/HLS/V0159.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" group-title="MOVIES" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049351-.png",203-Citra Drama
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png",-Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png",-Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png",204-Rock Action HD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1506
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.ts
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/RockAction.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png",-Rock Action HD
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/007/50007-SNAPSHOT-l.png",205-RockEntertainment
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/811
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/RockEntertainment.m3u8
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/007/50007-SNAPSHOT-l.png",-RockEntertainment
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317",206-Star Movies Select HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317",-Star Movies Select HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",207-Bollywood-hd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",-Bollywood-HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://sv1.picz.in.th/images/2023/07/01/M7wxBz.png",208-IN THE BOX HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://sv1.picz.in.th/images/2023/06/25/Im4951.png",209-HOLLYWOOD CLASSIC
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://sv1.picz.in.th/images/2023/08/02/MH1Fnq.png",210-Bollywood-classic
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.incomod.info/wp-content/uploads/2020/09/Bollywood-Clasic-online-live-gratuit.jpg",-Bollywood-classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png",211-AXN ASIA
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
-https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/73.m3u8
-https://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
-http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/4231
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png",212-EBC Movies HD 东森电影🇨🇳
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/20/hls.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png",213-EBC Movies HD 東森洋片🇨🇳
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/20/hls.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",214-IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/R.541b62e264243c4d714ab7b4e89eb5a2?rik=MU9YTSq2rbG7jg&riu=http%3a%2f%2fastrobyondinfo.weebly.com%2fuploads%2f5%2f1%2f2%2f5%2f5125023%2fpublished%2ftvn-movies-horizontal-logo.jpg%3f1501942269&ehk=zj5AHza7TWGwR4nBhodQb8xueUY6jp6r7SsUs6l0%2ffQ%3d&risl=&pid=ImgRaw&r=0",215-tvN MoviesHD
-http://31.42.187.37:25461/live/watchpad13158/1234/103.ts
-http://31.42.187.37:25461/live/watchpad13158/1234/103.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0togcQ.png",216-Celestial Classic Movies HD BACKUP
-http://31.42.187.37:25461/live/watchpad13158/1234/22.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png",217-CINEMAX HD Eng Sub
 http://125.227.210.55:8151/VideoInput/play.ts
@@ -1019,42 +967,25 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png",218-CINEMAX HD Eng Sub
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-cinemax.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",219-Mediacorp Entertainment English
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",-Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/3ab7b01b-332d-485c-894a-9137cb4723ea/1.m3u8
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",220-Mediacorp Entertainment Tamil
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",-Mediacorp Entertainment Tamil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/f2efb035-19e3-4fcd-bb63-23f028ef723f/1.m3u8
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",221-Mediacorp Entertainment China
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",-Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/61b19519-d0b6-49a5-a3de-679d3a00628d/1.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/61b19519-d0b6-49a5-a3de-679d3a00628d/0.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CinemaWorld.png",235-Cinema World HD
-http://210.210.155.35/uq2663/h/h202/index2.m3u8
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/lifetime.png",237-lifetime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 <===================================== KNOWLEDGE TV =================================>
@@ -1179,25 +1110,13 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/cgM2m1n.png",-True Explore Sci
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/rPEeUvA.png",-True Explife
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://sv1.picz.in.th/images/2023/05/26/FoTnja.png",-Animalshow HD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png",295-Discovery Asia HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/chunklist_w2107660725_b844100_sleng.m3u8
 https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png",297-Animal Planet HD
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png",-Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
