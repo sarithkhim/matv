@@ -744,12 +744,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 <========================= MOVIES Channels ====================================>
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png",-HBO Asia Thai Sub🇹🇭
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",-HBO Asia Thai Sub🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png",-HBO HD ASIA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-chile-us-cl.png",-HBO HD ASIA
 http://125.227.210.55:8153/VideoInput/play.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBO.m3u8
@@ -761,31 +761,31 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png",-AXN Asia Indo Sub
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia Indo Sub
 https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png",-CINEMAX HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",-CINEMAX HD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png",-HBO SIGNATURE HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",-HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png",-HBO HITS FHD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",-HBO HITS FHD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png",-HBO Family HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",-HBO Family HD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
@@ -881,7 +881,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h07/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/ONE-HD-OTT.png",-One TV HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png",-One TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -922,12 +922,12 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WarnerTV.png",-Warner TV HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV HD
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/WarnerTV.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WarnerTV.png",-Warner TV HD BACKUP
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV HD BACKUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
