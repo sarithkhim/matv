@@ -336,21 +336,21 @@ https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 <========================= TV BREAKING NEWS ====================================>
 
 
-#EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png",TV5 Monde ASIE
+#EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png",TV5 Monde ASIE SD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h121/index.m3u8
 http://originhd-1.dens.tv/h/h121/index.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="BREAKING NEWS" tvg-id="" ,RAI Italia
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="BREAKING NEWS" tvg-id="" ,RAI Italia SD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/tRFnV9M.png",107-TOP NEWS
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/tRFnV9M.png",107-TOP NEWS HD
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png",108-CNN NEWS ASIA FHD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png",108-CNN NEWS ASIA HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
@@ -384,7 +384,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png",112-CCTV-4HD 中文国际🇨🇳
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png",113-CGTN English SD🇨🇳
