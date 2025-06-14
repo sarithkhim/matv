@@ -771,6 +771,13 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png",-CINEMAX HD China Sub
+http://125.227.210.55:8151/VideoInput/play.ts
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",-HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -910,13 +917,13 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True Xzyte
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="MOVIES",-Hits Now
+#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png" group-title="MOVIES",-Hits Now
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/mce.png",-MCE HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://village-emploi.fr/wp-content/uploads/2020/05/Logo-MCETV-header.png",-MCE HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
@@ -960,13 +967,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.incomod.info/wp-content/uploads/2020/09/Bollywood-Clasic-online-live-gratuit.jpg",-Bollywood-classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png",217-CINEMAX HD Eng Sub
-http://125.227.210.55:8151/VideoInput/play.ts
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",-Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
