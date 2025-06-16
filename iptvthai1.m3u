@@ -1564,62 +1564,62 @@ https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
 https://playtvthai.github.io/m3u8/sports/epl4.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD4-OTT.png",368-True Premier Football SD4 BACKUP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD4-OTT.png",-True Premier Football SD4 BACKUP
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",369-True Premier Football HD5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",-True Premier Football HD5
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
 https://playtvthai.github.io/m3u8/sports/epl5.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",370-True Premier Football SD5 BACKUP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",-True Premier Football SD5 BACKUP
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports HD-OTT.png",375-True Sport HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports HD-OTT.png",-True Sport HD
 https://iptv2.wirdy.workers.dev/02_2sporthd1_720p/chunklist.m3u8
 http://myserver.myphuket.net:25461/test2/test2/58
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 2HD-OTT.png",376-True Sport HD2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 2HD-OTT.png",-True Sport HD2
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8
 https://playtvthai.github.io/m3u8/sports/tsp2b.m3u8
 https://iptv2.wirdy.workers.dev/02_2sporthd2_720p/chunklist.m3u8
 http://myserver.myphuket.net:25461/test2/test2/59
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 3HD-OTT.png",377-True Sport HD3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 3HD-OTT.png",-True Sport HD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sport 4HD-OTT.png",378-True Sport HD4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sport 4HD-OTT.png",-True Sport HD4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport4_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sportd 5SD-OTT.png",379-True Sport SD5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sportd 5SD-OTT.png",-True Sport SD5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 7SD-OTT.png",380-True Sport SD7
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 7SD-OTT.png",-True Sport SD7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League-new.png",381-True Premier Football HD1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League-new.png",-True Premier Football HD1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League2-new.png",382-True Premier Football HD2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League2-new.png",-True Premier Football HD2
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein1.jpg",383-beIN Sports 1TH
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein1.jpg",-beIN Sports 1🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
@@ -1629,12 +1629,12 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
 https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://219.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein2.jpg",384-beIN Sports 2TH
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein2.jpg",-beIN Sports 2🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein3.jpg",385-beIN Sports 3TH
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein3.jpg",-beIN Sports 3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
@@ -1850,18 +1850,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.transvision.co.id/img/channel/cn.png",471-Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png",472-博斯高球-1-GOLFTOUR
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/13/hls.m3u8
@@ -1997,13 +1985,6 @@ https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",519-Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/eatngo_1670395212.png" group-title="KNOWLEDGE TV",520-Eat & Go
-https://cdn09jtedge.indihometv.com/joss/134/eatgo720/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Animax.png",521-ANIMAX HD (Indo)
-https://cdn09jtedge.indihometv.com/joss/130/animax/playlist.m3u8
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",522-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
