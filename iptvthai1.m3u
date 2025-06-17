@@ -577,6 +577,9 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",153-Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",-ANIPLUS
+https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
+
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://i.imgur.com/i1XpLH7.png",154-TOONEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=xxx
@@ -1010,12 +1013,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="KNOWLEDGE TV",-Animal Planet
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png",-TLC HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1028,12 +1025,6 @@ http://103.120.113.107:80/Saradee/index.m3u8
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="KNOWLEDGE TV",-Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="KNOWLEDGE TV",-Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
@@ -1066,12 +1057,6 @@ https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
-
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="KNOWLEDGE TV",-Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png",-BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1120,12 +1105,6 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png",-Discovery Asia HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/chunklist_w2107660725_b844100_sleng.m3u8
-https://cdn13jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png",-Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1393,10 +1372,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/BERITA RTM-OTT.png",328-BERITA RTM🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/BERITA RTM-OTT.png",-BERITA RTM🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8?id=4
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sukan_RTM_1_April.png",329-SUKAN RTM🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sukan_RTM_1_April.png",-SUKAN RTM🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=5
 
 #EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/RTB_Aneka.png",330-RTB ANEKA🇲🇾
@@ -1955,38 +1934,41 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://seeklogo.com/images/1/8tv-media-prima-malaysia-logo-D55E64675A-seeklogo.com.png",493-8TV🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
+<=============== INDONESIA TV🇮🇩 =====================>
 
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",512-Nusantara TV
+#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/indo-wiseplay.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",-Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",513-ANTV (INDIHOME)
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",-ANTV (INDIHOME)
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg",514-DAAI TV (INDIHOME)
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-id.png",-BERITA SATU🇲🇾
+https://op-group1-densxvisionhd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg",-DAAI TV (INDIHOME)
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA TV🇮🇩",515-CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA TV🇮🇩",-CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA TV🇮🇩",516-CNN Indonesia
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA TV🇮🇩",-CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/87/f8/41/87f84145-0df7-f4fa-a8f2-4292d77e32bc/App_Icon-marketing.lsr/600x600bb.jpg",517-WION NEWSHD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/87/f8/41/87f84145-0df7-f4fa-a8f2-4292d77e32bc/App_Icon-marketing.lsr/600x600bb.jpg",-WION NEWSHD
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://news.udx.workers.dev/wion/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png",518-Indonesia Movie Channel
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png",-Indonesia Movie Channel
 https://cdn09jtedge.indihometv.com/joss/130/imc/playlist.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",519-Cooking Channel
+#EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",-Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",522-beIN Sports Xtrañ
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="SONY ONE" tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg",523-Sony One FILM
