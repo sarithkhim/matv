@@ -104,7 +104,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MCOT-OTT.png",MCOT30 FHD🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
@@ -551,7 +550,6 @@ https://streaming.livescorethai.net/iptv/fr-tv5pacific.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
-
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png",-ABC AUSTRALIA HD
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -1714,13 +1712,13 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",404-EUROSPORT 1HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",-EUROSPORT 1HD UK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",405-EUROSPORT 2HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",-EUROSPORT 2HD UK
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.m3u8
 http://supersonictv.live:8080/686554/799757/40452
@@ -1731,25 +1729,59 @@ http://iptvtree.net:8080/paulthom01/fb97ea32/1555
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",417-SPOTV HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tG2DW.png",-FS 1HD US
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134045&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tGrVD.png",-FS 2HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134046&extension=m3u8
+https://fl4.moveonjoy.com/FOX_Sports_2/index.m3u8
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",-EUROSPORT 1HD US
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",-EUROSPORT 2HD US
+http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",-SPOTV HD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV2-HD-OTT.png",418-SPOTV 2HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV2-HD-OTT.png",-SPOTV 2HD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LFCTV-OTT.png",422-LFCTV HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",-SPOTV HD Indo
+https://cdngb196.indihometv.com/joss/133/beib1/chunklist_w1245805113_b1544100_sleng.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV2-HD-OTT.png",-SPOTV 2HD Indo
+https://cdngb196.indihometv.com/joss/133/beib2/chunklist_w638649508_b1544100_sleng.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LFCTV-OTT.png",-LFCTV HD
 #EXTVLCOPT:http-referrer=https://dooballkub.com/
 https://r3-sn-5fo-c37ed9.googleuservideo.com/lfctv/playlist.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MUTV-HD-OTT.png",423-MUTV HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MUTV-HD-OTT.png",-MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 
 <=============== Kids Channels =====================>
@@ -1829,63 +1861,53 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png",472-博斯高球-1-GOLFTOUR
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/13/hls.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png",473-博斯無限-SANOOKER
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/15/hls.m3u8
+<=============== INDONESIA TV🇮🇩 =====================>
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png",474-博斯网球
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/indo-wiseplay.png" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",-Nusantara TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",475-SPOTV HD Indo
-https://cdngb196.indihometv.com/joss/133/beib1/chunklist_w1245805113_b1544100_sleng.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/110
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV2-HD-OTT.png",476-SPOTV 2HD Indo
-https://cdngb196.indihometv.com/joss/133/beib2/chunklist_w638649508_b1544100_sleng.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",477-Indosiar
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TRANS TV.png",478-Trans TV
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TRANS TV.png",-Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn09jtedge.indihometv.com/atm/hlsv3/transtv/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Trans 7-1.png",479-Trans7 TV
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TRANS TV.png",-Trans TV Backup
+https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Trans 7-1.png",-Trans7 TV
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn09jtedge.indihometv.com/atm/hlsv3/trans7/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/METRO NEWS-OTT.png",480-Metro TV
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Trans 7-1.png",-Trans7 TV Backup
+https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",-Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV One-1.png",481-TV One
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/index.m3u8
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",-Metro TV Backup
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/sctv-hd-ott.png",482-SCTV
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV One-1.png",-TV One HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/september_04_rcti-1.png",483-RCTI HD
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV One-1.png",-TV One HD Backup
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/sctv-hd-ott.png",-SCTV
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/september_04_rcti-1.png",-RCTI HD
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1895,53 +1917,49 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/kompas tv.png",484-Kompas TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/kompas tv.png",-Kompas TV HD
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Logo NET TV.png",485-NET TV
-https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv-id.svg",-ANTV HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tG2DW.png",486-FS 1HD US
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134045&extension=m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moji-id.svg" group-title="INDONESIA TV🇮🇩",-MOJI TV
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tGrVD.png",487-FS 2HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134046&extension=m3u8
-https://fl4.moveonjoy.com/FOX_Sports_2/index.m3u8
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",488-EUROSPORT 1HD US
-http://185.189.225.157/EuroSport1/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA TV🇮🇩",RTV
+https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",489-EUROSPORT 2HD US
-http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",490-MOJI TV (INDIHOME)
-https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.oribalon.com/wp-content/uploads/2018/09/TvOne_logo_2010.png",491-TVOne (INDIHOME)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA TV🇮🇩",RTV
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",492-TV3🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://seeklogo.com/images/1/8tv-media-prima-malaysia-logo-D55E64675A-seeklogo.com.png",493-8TV🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-
-<=============== INDONESIA TV🇮🇩 =====================>
-
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/indo-wiseplay.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",-Nusantara TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",-ANTV (INDIHOME)
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-id.png",-BERITA SATU🇲🇾
 https://op-group1-densxvisionhd-1.dens.tv/h/h209/index.m3u8
@@ -1968,124 +1986,10 @@ https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",-Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="SONY ONE" tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg",523-Sony One FILM
-https://linear-823.frequency.stream/mt/studio/823/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",524-Sony one thriller
-https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",525-Movies TV ENGLISH
-https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",526-Movies channel English
-https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",527-Movies 1080p English
-https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",528-Sony one hits action
-https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",529-Sony one comedie
-https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",530-Sony one series comedie
-https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",531-Sony one Favoris
-https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",532-Sony one exitos
-https://linear-832.frequency.stream/mt/studio/832/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",533-Sony one s&c
-https://linear-831.frequency.stream/mt/studio/831/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",534-Sony one serie
-https://linear-825.frequency.stream/mt/studio/825/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",535-Sony one pop
-https://linear-826.frequency.stream/mt/studio/826/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",536-Sony one serie Thirll
-https://linear-827.frequency.stream/mt/studio/827/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",537-Sony one shark tank
-https://linear-828.frequency.stream/mt/studio/828/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",538-Sony one thriller Tv
-https://linear-816.frequency.stream/mt/studio/816/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",539-Sony one best of
-https://linear-815.frequency.stream/mt/studio/815/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",540-Sony one hits action
-https://linear-829.frequency.stream/mt/studio/829/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",541-Sony one  hits comedie
-https://linear-830.frequency.stream/mt/studio/830/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",542-Sony one comedy tv
-https://linear-814.frequency.stream/mt/studio/814/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",543-Sony one comedy hits
-https://linear-813.frequency.stream/mt/studio/813/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",544-Sony one action hits
-https://linear-812.frequency.stream/mt/studio/812/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",545-Sony one dragons den
-https://linear-811.frequency.stream/mt/studio/811/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",546-Sony one dragons den 1
-https://linear-810.frequency.stream/mt/studio/810/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",547-Sony one thriller tv
-https://linear-809.frequency.stream/mt/studio/809/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",548-Sony one thriller
-https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",549-Sony one faves
-https://linear-807.frequency.stream/mt/studio/807/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",550-Sony one faves 1
-https://linear-806.frequency.stream/mt/studio/806/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",551-Sony one comedy tv
-https://linear-805.frequency.stream/mt/studio/805/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",552-Sony one comedy tv 2
-https://linear-804.frequency.stream/mt/studio/804/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",553-Sony one comedy hits 2
-https://linear-803.frequency.stream/mt/studio/803/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",554-Sony one comedy hits 3
-https://linear-802.frequency.stream/mt/studio/802/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",555-Sony one action hits 2
-https://linear-801.frequency.stream/mt/studio/801/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",556-Sony one action hits 3
-https://linear-800.frequency.stream/mt/studio/800/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",557-West tv
-https://linear-799.frequency.stream/mt/studio/799/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",558-Movies 1080p English
-https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",559-Sony one s&t
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist_1024x576.m3u8
-https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dealabsmag.com/wp-content/uploads/2024/04/sony-one-logo.jpg" group-title="SONY ONE",560-Sony one blacklist
-https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://i.ytimg.com/vi/xR3VFzylmTw/maxresdefault.jpg",561-SBS 낭만닥터 김사부 시즌2🇰🇷
 https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8
