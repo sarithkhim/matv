@@ -254,7 +254,7 @@ http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 http://125.227.210.55:8175/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CCTV11-OTT.png",-CCTV-5+ 体育赛事🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CCTV5+-OTT.png",-CCTV-5+ 体育赛事🇨🇳
 http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
