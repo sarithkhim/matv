@@ -521,18 +521,25 @@ https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 http://202.147.193.244/live/eds/FoxNews/sa_dash/FoxNews.mpd
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png",134-EURONEWS HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-EURONEWS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png",135-Bloomberg News
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
+#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-Euronews Backup
+https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
+
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png",-Bloomberg News
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png",136-Bloomberg News Backup
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png",-Bloomberg News Backup
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
@@ -540,17 +547,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/34/hls.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png",137-CGTN Documentary HD
-http://202.147.193.244/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png",138-NHK WORLD FHD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png",139-NHK WORLD FHD BACKUP
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-nhkworld.stream/chunks.m3u8
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png",-CGTN Documentary HD
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/rt_news_channel_logo1.png",-Russia Today HD
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -570,7 +572,7 @@ https://news.udx.workers.dev/zeenews/index.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://th.bing.com/th/id/OIP.UCuUd2QgHW8GYHxOWPXSPQAAAA?rs=1&pid=ImgDetMain",144-Astro AWANI HD
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://sv1.picz.in.th/images/2023/06/25/IevHRv.png",145-TV5 Monde BACKUP
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsobHhWXmBplQa5tK1h3nWXvXEOPA90m_Ry8EBvPH7Bq38GkqRbd-qPUZP3LcrQ9m5w&usqp=CAU",145-TV5 Monde Info
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
@@ -1540,7 +1542,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134030&extension=
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134037&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Fight Sports-OTT.png",-FIGHT SPORTS SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png",-FIGHT SPORTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h05/01.m3u8
@@ -1648,14 +1650,6 @@ https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League-new.png",-True Premier Football HD1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro Premier League2-new.png",-True Premier Football HD2
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein1.jpg",-beIN Sports 1🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
@@ -1687,14 +1681,6 @@ https://goal-th.com/ช่องรายการทีวี/?id=539&tv=AstroS
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Astro_Grandstand.png",387-True Premier Football HD4
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/astro-sport-plus-new.png",388-True Premier Football HD5
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sky Sports Premier League-OTT.png",389-SKY SPORTS PREMIER LEAGUE HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
 
@@ -1707,7 +1693,7 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extensio
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/sky sports main event-OTT.png",391-SKY SPORTS MAIN EVENT HD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175175&extension=ts
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://seeklogo.com/images/T/tvri-sport-2022-logo-641159E08B-seeklogo.com.png",392-TVRI SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/T/tvri-sport-2022-logo-641159E08B-seeklogo.com.png",392-TVRI SPORTS HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://210.210.155.35/uq2663/h/h238/index.m3u8
@@ -1730,10 +1716,10 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83453&extensio
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SKY BundesligaUHD-OTT.png",397-SKY Sports+ HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83455&extension=m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sky sports new-new.png",398-SKY SPORTS NEWS HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sky sports new-new.png",-SKY SPORTS NEWS HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extension=m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sky sports new-new.png",SKY SPORTS Racing HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sky sports new-new.png",-SKY SPORTS Racing HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",399-SONY SPORTS 1HD
@@ -1772,36 +1758,28 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",-EUROSPORT 1HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",-EUROSPORT 2HD UK
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.m3u8
-http://supersonictv.live:8080/686554/799757/40452
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/215.m3u8
-http://iptvtree.net:8080/paulthom01/fb97ea32/1555
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",-EUROSPORT 2HD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=98264&extension=ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tG2DW.png",-FS 1HD US
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",-FS 1HD US
 https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134045&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tGrVD.png",-FS 2HD US
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png",-FS 2HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134046&extension=m3u8
 https://fl4.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 1-OTT.png",-EUROSPORT 1HD US
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD US
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/EUROSPORT 2 HD-NEW-OTT.png",-EUROSPORT 2HD US
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",-EUROSPORT 2HD US
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",-SPOTV HD
@@ -1812,21 +1790,15 @@ https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey               
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV-HD-OTT.png",-SPOTV HD Indo
-https://cdngb196.indihometv.com/joss/133/beib1/chunklist_w1245805113_b1544100_sleng.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/110
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey  
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/SPOTV2-HD-OTT.png",-SPOTV 2HD Indo
-https://cdngb196.indihometv.com/joss/133/beib2/chunklist_w638649508_b1544100_sleng.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LFCTV-OTT.png",-LFCTV HD
 #EXTVLCOPT:http-referrer=https://dooballkub.com/
