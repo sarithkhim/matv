@@ -880,7 +880,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720EN.stream/pl
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 group-title="MOVIES" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png",-Galaxy
+#EXTINF:-1 group-title="MOVIES" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png",-Galaxy
 https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -960,7 +960,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True Xzyte
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png" group-title="MOVIES",-Hits Now
+#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-now-sg.png" group-title="MOVIES",-Hits Now
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
@@ -994,22 +994,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",-Rock Action HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",-Rock Action Backup
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action Backup
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png",-Rock Entertainment
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",-Rock Entertainment
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png",-Rock Entertainment Backup
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",-Rock Entertainment Backup
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
