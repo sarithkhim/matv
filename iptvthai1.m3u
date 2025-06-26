@@ -357,7 +357,7 @@ http://originhd-1.dens.tv/h/h121/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/tRFnV9M.png",-TOP NEWS HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/top-news-th.png",-TOP NEWS HD
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD
@@ -372,7 +372,7 @@ https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
 http://125.227.210.55:8166/VideoInput/play.ts
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",110-BBC NEWS HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
@@ -428,7 +428,7 @@ https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD
 http://202.147.193.244/live/eds/DW/sa_dash/DW.mpd
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",120-DW English FHD BACKUP
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD BACKUP
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
@@ -556,25 +556,25 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/rt_news_channel_logo1.png",-Russia Today SD
 https://op-group1-densxvisionhd-1.dens.tv/h/h226/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png",141-DW ESPAÑOL HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png",-DW ESPAÑOL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://sv1.picz.in.th/images/2023/07/17/MxAv31.png",143-ZEE NEWS HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-news-in.png",-ZEE NEWS HD
 https://news.udx.workers.dev/zeenews/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://th.bing.com/th/id/OIP.UCuUd2QgHW8GYHxOWPXSPQAAAA?rs=1&pid=ImgDetMain",144-Astro AWANI HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://th.bing.com/th/id/OIP.UCuUd2QgHW8GYHxOWPXSPQAAAA?rs=1&pid=ImgDetMain",-Astro AWANI HD
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsobHhWXmBplQa5tK1h3nWXvXEOPA90m_Ry8EBvPH7Bq38GkqRbd-qPUZP3LcrQ9m5w&usqp=CAU",145-TV5 Monde Info
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsobHhWXmBplQa5tK1h3nWXvXEOPA90m_Ry8EBvPH7Bq38GkqRbd-qPUZP3LcrQ9m5w&usqp=CAU",-TV5 Monde Info
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/fr-tv5pacific.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png",-ABC NEWS Australia HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IjSkPjezek4r6de2fvyxdfo4qw6eNqjvqMpFVEOxz6XHhPhKGVn_P8DCyjPFujPzg_4&usqp=CAU",-ABC NEWS Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -582,13 +582,13 @@ https://streaming.livescorethai.net/iptv/fr-tv5pacific.stream/playlist.m3u8
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png",-ABC AUSTRALIA HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IjSkPjezek4r6de2fvyxdfo4qw6eNqjvqMpFVEOxz6XHhPhKGVn_P8DCyjPFujPzg_4&usqp=CAU",-ABC AUSTRALIA HD
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 https://tplay.dinesh29.com.np/live/tataplay-universal/australia-tv/index.ts
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV5 MODE Style-OTT.png",430-TV5 Monde style
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-style-fr.png",-TV5 Monde style
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h216/index.m3u8
 
