@@ -835,8 +835,8 @@ http://37.27.111.214:8080/live/94/hls.m3u8
 http://37.27.111.214:8080/live/28/hls.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://op-group1-densxvisionhd-1.dens.tv/h/h20/index.m3u8
+#EXTVLCOPT:http-referrer=https://m3u8player.org/
+https://op-group1-densxvisionhd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN HD Backup
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2250,6 +2250,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
