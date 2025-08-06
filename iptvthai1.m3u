@@ -919,7 +919,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",-KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 #EXTVLCOPT:http-referrer=https://m3u8player.org/
-https://op-group1-densxvisionhd-1.dens.tv/h/h07/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h07/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",-KIX Backup
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -994,7 +994,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action HD
 #EXTVLCOPT:http-referrer=https://m3u8player.org/
-https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h15/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action Backup
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1165,9 +1165,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png",-Dens Food Channel
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
-http://210.210.155.35/uq2663/h/h248/index.m3u8
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_life.png",-True Explore Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
@@ -2248,6 +2250,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
