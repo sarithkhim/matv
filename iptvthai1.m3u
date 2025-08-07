@@ -1,78 +1,39 @@
 #EXTM3U
-
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
-
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LAO-Wiseplay.png" group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO TV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://sv1.picz.in.th/images/2023/06/21/IaV7bZ.png",ไทไชโย🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao-star-la.png",LAO STAR HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/94.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latv-la.png",LATV HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/326.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lntv-1-la.png",LNTV 1🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/327.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_national_tv3.png",LNTV 3HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/327.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/estv.png",Lao ESTV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/328.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_ps_tv.png",Lao PSTV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/325.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/โอ้เมืองลาว-kun5g.png",โอ้เมืองลาว TV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-
 <========================= TV THAI ====================================>
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thailand-Wiseplay.png" group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/NBT2HD-OTT.png",NBT HD🇹🇭
+#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thailand-Wiseplay.png" group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/NBT2HD-OTT.png",001-NBT HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thai PBS-HD-OTT.png",THAI PBS HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thai PBS-HD-OTT.png",002-THAI PBS HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/ALTV4-OTT-NEW.png",ALTV4🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/ALTV4-OTT-NEW.png",003-ALTV4🇹🇭
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV5HD-OTT.png",CH5 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV5HD-OTT.png",004-CH5 HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/T Sports 7-OTT.png",T-Sports7🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/T Sports 7-OTT.png",005-T-Sports7🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TPTV-OTT.png",TPTV🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TPTV-OTT.png",006-TPTV🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TNN16-OTT.png",TNN16🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TNN16-OTT.png",007-TNN16🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/JKN-OTT.png",JNK18 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/JKN-OTT.png",008-JNK18 HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Nation 22-OTT.png",Nation22🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Nation 22-OTT.png",009-Nation22🇹🇭
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Workpoint TV-OTT.png",Workpoint23HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Workpoint TV-OTT.png",010-Workpoint23HD🇹🇭
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True 4U-OTT.png",TRUE4U 24HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True 4U-OTT.png",011-TRUE4U 24HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,7 +41,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/GMM25-OTT.png",GMM25 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/GMM25-OTT.png",012-GMM25 HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,7 +49,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/8CH HD-OTT.png",8Ch HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/8CH HD-OTT.png",013-8Ch HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -96,7 +57,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MONO29-OTT.png",MONO29 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MONO29-OTT.png",014-MONO29 FHD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -104,13 +65,13 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MCOT-OTT.png",MCOT30 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MCOT-OTT.png",015-MCOT30 FHD🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/1-ONE-OTT.png",ONE31HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/1-ONE-OTT.png",016-ONE31HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +80,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thairath 32HD-OTT.png",Thairath32HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thairath 32HD-OTT.png",017-Thairath32HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -127,7 +88,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/3HD-OTT.png",CH3HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/3HD-OTT.png",018-CH3HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -135,7 +96,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/34-AMARIN HD-OTT.png",AMARIN34HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/34-AMARIN HD-OTT.png",019-AMARIN34HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,7 +104,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/7HD-OTT.png",7CH HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/7HD-OTT.png",020-7CH HD🇹🇭
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -152,7 +113,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/36-PPTV HD-OTT.png",PPTV36HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/36-PPTV HD-OTT.png",021-PPTV36HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -160,101 +121,98 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CHANNEL 8-OTT.png",channel8 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CHANNEL 8-OTT.png",022-Channel8 FHD🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://yt3.googleusercontent.com/2_PEHaZfpfk1p_8zFmOfIP6QqOOPRMbqACyFs1vnCnTwXpgfMsTzWYis0nFuCRnvlk4cEdCapw=s900-c-k-c0x00ffffff-no-rj",PSI Saradee 99🇹🇭
-http://103.120.113.107:80/Saradee/index.m3u8
 
 
 <========================= CHINA TV🇨🇳 ====================================>
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/China-Wiseplay.png" group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV🇨🇳
+#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/China-Wiseplay.png" group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",023-Jiangsu TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",024-Hunan TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/TVB_Xing_He_2018.png/revision/latest/scale-to-width-down/1064?cb=20220222135559&path-prefix=vi",TVB Xing He🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png",025-TVB Xing He🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://w7.pngwing.com/pngs/10/901/png-transparent-zhejiang-icon-zhejiang-tv-column-icon-blue-angle-text-thumbnail.png",Zhejiang TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",026-Zhejiang TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-international-channel-cn.png",027-Anhui TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",028-Dragon TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",029-Shenzen TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest/scale-to-width-down/300?cb=20231003151627",TVBS News🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",030-TVBS News🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS Asia🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",031-TVBS Asia🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV 4🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",032-CCTV 4🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS News🇨🇳" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/TVBS_News.png/revision/latest/scale-to-width-down/405?cb=20230413120549&path-prefix=vi",TVBS News🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS News🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",033-TVBS News🇨🇳
 http://125.227.210.55:8186/VideoInput/play.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS Asia🇨🇳" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png",TVBS Asia🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS Asia🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",034-TVBS Asia🇨🇳
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",绍兴新闻综合🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",035-绍兴新闻综合🇨🇳
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/11/hls.m3u8
 http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CCTV4-OTT.png",-CCTV-4 中文国际🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",036-CCTV-4FHD 中文国际🇨🇳
 http://125.227.210.55:8175/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/CCTV5+-OTT.png",-CCTV-5+ 体育赛事🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png",037-CCTV-5+ 体育赛事🇨🇳
 http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
@@ -2272,6 +2230,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
