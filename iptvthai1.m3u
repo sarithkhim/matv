@@ -782,7 +782,10 @@ http://37.27.111.214:8080/live/94/hls.m3u8
 http://37.27.111.214:8080/live/28/hls.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN HD
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN HD Backup
@@ -813,7 +816,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h21/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/5q0nLwINeBs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDVXqacsItWZqw6FkwKjmPNWklE3A",-Cinema World HD
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h202/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",-Celestial Movies-天映频道
@@ -829,10 +835,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h14/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MONO29-OTT.png",-MONO29 HD Inter Sub
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720EN.stream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -850,19 +852,28 @@ https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/Galaxy
 https://legacy-global-cdn.visionplus.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",-My CINEMA FHD
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h192/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h80/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h192/01.m3u8
 http://originhd-1.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg",-My CINEMA ASIA FHD
-#EXTVLCOPT:http-referrer=https://m3u8player.org/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h193/index.m3u8
 http://originhd-1.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg",-My Family Channel FHD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h194/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h81/index.m3u8
 http://originhd-1.dens.tv/h/h194/index.m3u8
@@ -2220,6 +2231,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
