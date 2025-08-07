@@ -1,5 +1,4 @@
 #EXTM3U
-<========================= TV THAI ====================================>
 
 #EXTINF:-1 group-logo=" " group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiACNKWo0_2WELHmhf9ymlEuWnf0zDCkvsMbnQGoY9oJSEtxD47THBCRvepShJmqtQDZubll9a8YAKhueSPycVr9DCSVEB8J5tJPDAZK-IcytXv691TZvhGD9gKFQyShmn5Mll5ZJJeUy1gF_slobyQqQjEd6eGbxODohLLvjBOUmj7bSOXBbM_TDg1QaE/w300/NBT%202HD%20Logo%202025.png",001-NBT HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
@@ -762,11 +761,14 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/70/hls.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO 🇲🇾
+https://ott.udptv.xyz/stream/astro/boo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",Astro Showcase 🇲🇾
+https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="thrill" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",-thrill
-https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/4.m3u8
-https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/4.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="thrill" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",-thrill Backup
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1705,40 +1707,24 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extensio
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",399-SONY SPORTS 1HD
-https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.m3u8
-http://watchindia.net:8880/live/80817/80817/1756.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",400-SONY SPORTS 2HD
-https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/btsport1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",401-SONY SPORTS 3HD
-https://kodonolonz.serv00.net/tol/mbut/Sonyten3.m3u8
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/btsport2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",402-SONY SPORTS 4HD
-https://kodonolonz.serv00.net/tol/mbut/Sonyten4.m3u8
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/btsport3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",403-SONY SPORTS 5HD
-https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.m3u8
-https://psiiptv-b.sky-cdn.com/ttd24-playlist/tracks-v1a1/mono.m3u8
-https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2236,6 +2222,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
