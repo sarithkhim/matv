@@ -1,7 +1,7 @@
 #EXTM3U
 <========================= TV THAI ====================================>
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thailand-Wiseplay.png" group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/NBT2HD-OTT.png",001-NBT HD🇹🇭
+#EXTINF:-1 group-logo=" " group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/NBT2HD-OTT.png",001-NBT HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Thai PBS-HD-OTT.png",002-THAI PBS HD🇹🇭
@@ -128,7 +128,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
 <========================= CHINA TV🇨🇳 ====================================>
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/China-Wiseplay.png" group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",023-Jiangsu TV🇨🇳
+#EXTINF:-1 group-logo=" " group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",023-Jiangsu TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
@@ -2230,6 +2230,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
