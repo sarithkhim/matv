@@ -1547,7 +1547,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/94e91a48-98d0-46c4-a5ae-368f0f57fd75",-NBC Golf HD
+#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="GOLF & TENNIS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Astro Golf
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tQH0e.png",-NBC Golf HD English
@@ -2287,6 +2287,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
