@@ -1,38 +1,115 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo=" " group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiACNKWo0_2WELHmhf9ymlEuWnf0zDCkvsMbnQGoY9oJSEtxD47THBCRvepShJmqtQDZubll9a8YAKhueSPycVr9DCSVEB8J5tJPDAZK-IcytXv691TZvhGD9gKFQyShmn5Mll5ZJJeUy1gF_slobyQqQjEd6eGbxODohLLvjBOUmj7bSOXBbM_TDg1QaE/w300/NBT%202HD%20Logo%202025.png",001-NBT HD🇹🇭
+<=============== TV KHMER🇰🇭 =====================>
+
+#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/cambodia-wiseplay.png" group-title="TV KHMER🇰🇭" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",002-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayon_tv.png",003-ប៉ុស្តិ៍​ទូរទស្សន៍​ បាយ័ន HD🇰🇭
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png",004-ប៉ុស្តិ៍​ទូរទស្សន៍​ BTV NEWS🇰🇭
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png",005-ប៉ុស្តិ៍​ទូរទស្សន៍​ H.M.HDTV🇰🇭
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rasmey-hang-meas-hdtv-kh.png",006-ប៉ុស្តិ៍​ទូរទស្សន៍​ R.H.M.HDTV🇰🇭
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/town-tv-kh.png",007-ប៉ុស្តិ៍​ទូរទស្សន៍​ TOWN FHDTV🇰🇭
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png",008-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTN HD🇰🇭 
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png",009-ប៉ុស្តិ៍​ទូរទស្សន៍​ MyTV🇰🇭 
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc-kh.png",010-ប៉ុស្តិ៍​ទូរទស្សន៍​ CNC HD🇰🇭 
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/rnV0Ui1.png",011-ប៉ុស្តិ៍​ទូរទស្សន៍​ WIKI HD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/iMZLyoX.png",012-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV5 HD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png",013-ប៉ុស្តិ៍​ទូរទស្សន៍​ Fresh News🇰🇭
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moi-tv-kh.png",014-ប៉ុស្តិ៍​ទូរទស្សន៍​ MOI TVHD🇰🇭
+http://202.62.56.22:8080/hls/MOITV.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sea_tv.png",015-ប៉ុស្តិ៍​ទូរទស្សន៍​ SEATV🇰🇭
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara-tv-kh.png",016-ប៉ុស្តិ៍​ទូរទស្សន៍​ អប្សរា១១HD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png",017-ប៉ុស្តិ៍​ទូរទស្សន៍​ MSJTVHD🇰🇭
+http://124.248.165.18:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UipBqGYMDyxtbo-y4V4kmj1-WRcrfHHRZNnwrccMkSfkVCUH7mLpHnBN6W-qEZ864CA&usqp=CAU",018-ប៉ុស្តិ៍​ទូរទស្សន៍​ Khmer TVHD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-9-kh.png",019-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV9 CAMHD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
+https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://api.netlinkbroadcaster.com/uploads/netlink_9c548a0a4e.jpg",020-ប៉ុស្តិ៍​ទូរទស្សន៍​ NETLINKHD🇰🇭
+#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png",021-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTV8 HD🇰🇭
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+
+<=============== TV THAI🇹🇭 =====================>
+
+
+#EXTINF:-1 group-logo=" " group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiACNKWo0_2WELHmhf9ymlEuWnf0zDCkvsMbnQGoY9oJSEtxD47THBCRvepShJmqtQDZubll9a8YAKhueSPycVr9DCSVEB8J5tJPDAZK-IcytXv691TZvhGD9gKFQyShmn5Mll5ZJJeUy1gF_slobyQqQjEd6eGbxODohLLvjBOUmj7bSOXBbM_TDg1QaE/w300/NBT%202HD%20Logo%202025.png",022-NBT HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png",002-THAI PBS HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png",023-THAI PBS HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png",003-ALTV4🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png",024-ALTV4🇹🇭
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png",004-CH5 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png",025-CH5 HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png",005-T-Sports7🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png",026-T-Sports7🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tp-channel-th.png",006-TPTV🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tp-channel-th.png",027-TPTV🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png",007-TNN16🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png",028-TNN16🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jkn-18-th.png",008-JNK18 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jkn-18-th.png",029-JNK18 HD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nation-tv-th.png",009-Nation22🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nation-tv-th.png",030-Nation22🇹🇭
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ww/workpoint-23-th.png",010-Workpoint23HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ww/workpoint-23-th.png",031-Workpoint23HD🇹🇭
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",011-TRUE4U 24HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",032-TRUE4U 24HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,7 +117,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gmm-25-th.png",012-GMM25 HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gmm-25-th.png",033-GMM25 HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,7 +125,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png",013-8Ch HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png",034-8Ch HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,7 +133,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",014-MONO29 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",035-MONO29 FHD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -64,13 +141,13 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot-hd-th.png",015-MCOT30 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot-hd-th.png",036-MCOT30 FHD🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png",016-ONE31HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png",037-ONE31HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,7 +156,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png",017-Thairath32HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png",038-Thairath32HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,7 +164,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-3-th.png",018-CH3HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-3-th.png",039-CH3HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,7 +172,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/08/amarin-tv-vsn.jpg",019-AMARIN34HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/08/amarin-tv-vsn.jpg",040-AMARIN34HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,7 +180,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbtv-channel-7-th.png",020-7CH HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbtv-channel-7-th.png",041-7CH HD🇹🇭
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -112,7 +189,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png",021-PPTV36HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png",042-PPTV36HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,98 +197,98 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-8-th.png",022-Channel8 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-8-th.png",043-Channel8 FHD🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
 
 <========================= CHINA TV🇨🇳 ====================================>
 
-#EXTINF:-1 group-logo=" " group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",023-Jiangsu TV🇨🇳
+#EXTINF:-1 group-logo=" " group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",044-Jiangsu TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",024-Hunan TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",045-Hunan TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png",025-TVB Xing He🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png",046-TVB Xing He🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",026-Zhejiang TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",047-Zhejiang TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-international-channel-cn.png",027-Anhui TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-international-channel-cn.png",048-Anhui TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",028-Dragon TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",049-Dragon TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",029-Shenzen TV🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",050-Shenzen TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",030-TVBS News🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",051-TVBS News🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",031-TVBS Asia🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",052-TVBS Asia🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",032-CCTV 4🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",053-CCTV 4🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS News🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",033-TVBS News🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS News🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",054-TVBS News🇨🇳
 http://125.227.210.55:8186/VideoInput/play.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS Asia🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",034-TVBS Asia🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS Asia🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",055-TVBS Asia🇨🇳
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",035-绍兴新闻综合🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",056-绍兴新闻综合🇨🇳
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/11/hls.m3u8
 http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",036-CCTV-4FHD 中文国际🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",057-CCTV-4FHD 中文国际🇨🇳
 http://125.227.210.55:8175/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png",037-CCTV-5+ 体育赛事🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png",058-CCTV-5+ 体育赛事🇨🇳
 http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
@@ -221,72 +298,72 @@ http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livo
 <========================= TV VIETNAM ====================================>
 
 
-#EXTINF:-1 group-logo=" " group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-1-vn.png",038-DaNang TV1HD🇻🇳
+#EXTINF:-1 group-logo=" " group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-1-vn.png",059-DaNang TV1HD🇻🇳
 #EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-2-vn.png",039-DaNang TV2HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-nang-tv-2-vn.png",060-DaNang TV2HD🇻🇳
 #EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kien-giang-tv-vn.png",040-KGHD/Kiên Giang HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kien-giang-tv-vn.png",061-KGHD/Kiên Giang HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kien-giang-tv-1-vn.png",041-KG1HD/Kiên Giang 1HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kien-giang-tv-1-vn.png",062-KG1HD/Kiên Giang 1HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://tv.kgtv.vn/live/kgtv/kgtv1.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/hh/ha-noi-tv-1-vn.png",042-Ha Noi TV 1HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/hh/ha-noi-tv-1-vn.png",063-Ha Noi TV 1HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/hh/ha-noi-tv-2-vn.png",043-Ha Noi TV 2HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/hh/ha-noi-tv-2-vn.png",064-Ha Noi TV 2HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.u43XiQIWsVC8T-aOukPPgwHaHa?r=0&cb=thfvnext&pid=ImgDet&w=191&h=191&c=7&o=7&rm=3",044-VTV 1HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.u43XiQIWsVC8T-aOukPPgwHaHa?r=0&cb=thfvnext&pid=ImgDet&w=191&h=191&c=7&o=7&rm=3",065-VTV 1HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.J9bK4W_xwm2hucIMgnpkYQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",045-VTV 2HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.J9bK4W_xwm2hucIMgnpkYQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",066-VTV 2HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv2/tracks-v1a1/mono.m3u8
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.yT6Yq_KaJf7zt2DISv41ZgHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",046-VTV 3HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.yT6Yq_KaJf7zt2DISv41ZgHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",067-VTV 3HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.rP29nFlNKGlHXFgW59CAfAHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",047-VTV 4FHD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.rP29nFlNKGlHXFgW59CAfAHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",068-VTV 4FHD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.D5bmuyokZsXxmHnNacfnGQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",048-VTV 5FHD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.D5bmuyokZsXxmHnNacfnGQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",069-VTV 5FHD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",049-VTV 5FHD Tây Nam Bộ🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",070-VTV 5FHD Tây Nam Bộ🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.IFVVBG4hcceCP27j-GaRJQHaEI?r=0&cb=thfvnext&pid=ImgDet&w=191&h=106&c=7&o=7&rm=3",050-VTV 5FHD Tây Nguyên🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.IFVVBG4hcceCP27j-GaRJQHaEI?r=0&cb=thfvnext&pid=ImgDet&w=191&h=106&c=7&o=7&rm=3",071-VTV 5FHD Tây Nguyên🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/44.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.dyFlY9ffZcH_oIDchx0aoAHaHa?r=0&cb=thfvnext&pid=ImgDet&w=191&h=191&c=7&o=7&rm=3",051-VTV cần thơ FHD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.dyFlY9ffZcH_oIDchx0aoAHaHa?r=0&cb=thfvnext&pid=ImgDet&w=191&h=191&c=7&o=7&rm=3",072-VTV cần thơ FHD🇻🇳
 http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.jY9mS_7B4hgl8DRoudI8tAHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",052-VTV 7HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.jY9mS_7B4hgl8DRoudI8tAHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",073-VTV 7HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/64.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.sT6QLK0QG3fYmuPMGAdZEgAAAA?r=0&cb=thfvnext&pid=ImgDet&w=150&h=150&c=7&o=7&rm=3",053-VTV 8HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.sT6QLK0QG3fYmuPMGAdZEgAAAA?r=0&cb=thfvnext&pid=ImgDet&w=150&h=150&c=7&o=7&rm=3",074-VTV 8HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/65.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/originals/c2/1c/cc/c21ccc0a391b2cb9da55627e2f687ecc.jpg",054-VTV 9HD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/originals/c2/1c/cc/c21ccc0a391b2cb9da55627e2f687ecc.jpg",075-VTV 9HD🇻🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
 
@@ -295,7 +372,10 @@ http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png",-TV5 Monde ASIE SD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h121/index.m3u8
 http://originhd-1.dens.tv/h/h121/index.m3u8
 
@@ -413,6 +493,10 @@ https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.m
 https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",-KBS WORLD HD
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h243/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -434,6 +518,10 @@ https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2c0d36123446531.60eea1a941957.jpg",-KBS KOREA HD
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h241/index.m3u8
 http://originhd-1.dens.tv/h/h241/index.m3u8
 
@@ -501,6 +589,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumen
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/rt_news_channel_logo1.png",-Russia Today SD
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h226/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png",-DW ESPAÑOL HD
@@ -536,7 +628,10 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/australia-tv/index.ts
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-style-fr.png",-TV5 Monde style
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h216/index.m3u8
 
 
@@ -554,6 +649,10 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",-ANIPLUS
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
 
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://i.imgur.com/i1XpLH7.png",154-TOONEE
@@ -707,9 +806,9 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia Indo Sub
-https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
-https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1865,19 +1964,32 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 <=============== INDONESIA TV🇮🇩 =====================>
 
 #EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/indo-wiseplay.png" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TRANS TV.png",-Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TRANS TV.png",-Trans TV Backup
-https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Trans 7-1.png",-Trans7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Trans 7-1.png",-Trans7 TV Backup
-https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",-Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist.m3u8
@@ -1929,42 +2041,47 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",-ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv-id.svg",-ANTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moji-id.svg" group-title="INDONESIA TV🇮🇩",-MOJI TV
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA TV🇮🇩",RTV
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA TV🇮🇩",RTV
-https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-id.png",-BERITA SATU🇲🇾
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h209/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg",-DAAI TV (INDIHOME)
-https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA TV🇮🇩",-CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1979,8 +2096,8 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://news.udx.workers.dev/wion/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png",-Indonesia Movie Channel
-https://cdn09jtedge.indihometv.com/joss/130/imc/playlist.m3u8
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",-Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -2029,79 +2146,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1 group-title="CHANNEL Français" tvg-logo="https://i.imgur.com/8t9mdg9.png",578-Euronews-Français
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 
-<=============== TV KHMER🇰🇭 =====================>
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/cambodia-wiseplay.png" group-title="TV KHMER🇰🇭" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayon_tv.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ បាយ័ន HD🇰🇭
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ BTV NEWS🇰🇭
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ H.M.HDTV🇰🇭
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rasmey-hang-meas-hdtv-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ R.H.M.HDTV🇰🇭
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/town-tv-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ TOWN FHDTV🇰🇭
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
-https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTN HD🇰🇭 
-http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ MyTV🇰🇭 
-http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ CNC HD🇰🇭 
-http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/rnV0Ui1.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ WIKI HD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/iMZLyoX.png",590-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV5 HD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ Fresh News🇰🇭
-http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moi-tv-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ MOI TVHD🇰🇭
-http://202.62.56.22:8080/hls/MOITV.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sea_tv.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ SEATV🇰🇭
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara-tv-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ អប្សរា១១HD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://live.ams.com.kh/app/stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ MSJTVHD🇰🇭
-http://124.248.165.18:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UipBqGYMDyxtbo-y4V4kmj1-WRcrfHHRZNnwrccMkSfkVCUH7mLpHnBN6W-qEZ864CA&usqp=CAU",-ប៉ុស្តិ៍​ទូរទស្សន៍​ Khmer TVHD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
-https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-9-kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV9 CAMHD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
-https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://api.netlinkbroadcaster.com/uploads/netlink_9c548a0a4e.jpg",-ប៉ុស្តិ៍​ទូរទស្សន៍​ NETLINKHD🇰🇭
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png",-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTV8 HD🇰🇭
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
 
 
@@ -2222,6 +2267,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
