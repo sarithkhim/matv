@@ -1033,6 +1033,11 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True Xzyte
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True FILM ASIA
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186467&extension=m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-now-sg.png" group-title="MOVIES",-Hits Now
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1570,13 +1575,9 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tQH0e.png",-NBC Golf HD English
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37436.ts
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/hd-golfeng.stream/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Super Sport Golf-HD-OTT.png",-S-GOLF_CHANNEL HD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350759&extension=ts
@@ -2303,6 +2304,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
