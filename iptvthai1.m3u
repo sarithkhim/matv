@@ -1842,25 +1842,25 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extensio
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",399-SONY SPORTS 1HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",399-SONY SPORTS 1FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",400-SONY SPORTS 2HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",400-SONY SPORTS 2FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",401-SONY SPORTS 3HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",401-SONY SPORTS 3FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",402-SONY SPORTS 4HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",402-SONY SPORTS 4FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",403-SONY SPORTS 5HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",403-SONY SPORTS 5FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2304,6 +2304,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
