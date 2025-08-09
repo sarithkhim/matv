@@ -938,6 +938,11 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h14/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-CCM Sub Thai
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186609&extension=m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png",-Galaxy SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
@@ -1164,11 +1169,12 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",252-History China Sub
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",252-History Thai Sub
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186512&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186514&extension=m3u8
 http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="KNOWLEDGE TV",-Asian Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1587,12 +1593,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/th-sport/golfchannel
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/526px-WWE_Logo.svg.png",-WWE NETWORK HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://d2p372oxiwmcn1.cloudfront.net/hls/720phi/playlist.m3u8
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-https://d15g7z5n3epv7t.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-http://abcnew.site:8880/3ca7123n11/ewfr543ds/1698
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134030&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/526px-WWE_Logo.svg.png",-WWE NETWORK HD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -1724,20 +1727,21 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports HD-OTT.png",-True Sport HD
-https://iptv2.wirdy.workers.dev/02_2sporthd1_720p/chunklist.m3u8
-http://myserver.myphuket.net:25461/test2/test2/58
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186600&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 2HD-OTT.png",-True Sport HD2
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8
-https://playtvthai.github.io/m3u8/sports/tsp2b.m3u8
-https://iptv2.wirdy.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-http://myserver.myphuket.net:25461/test2/test2/59
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186601&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 3HD-OTT.png",-True Sport HD3
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186606&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sport 4HD-OTT.png",-True Sport HD4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1747,12 +1751,13 @@ https://www.livedoomovies.com:4432/02_sport4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sportd 5SD-OTT.png",-True Sport SD5
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186605&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Sports 7SD-OTT.png",-True Sport SD7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein1.jpg",-beIN Sports 1🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
@@ -2286,6 +2291,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
