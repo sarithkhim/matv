@@ -202,6 +202,13 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV THAI🇹🇭" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png",MONO29 PLUS+(3BB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+
 
 <========================= CHINA TV🇨🇳 ====================================>
 
@@ -2305,6 +2312,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
