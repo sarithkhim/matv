@@ -1057,11 +1057,11 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV HD
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/WarnerTV.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV HD BACKUP
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1567,14 +1567,11 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/sky golf-OTT.png",346-SkySports Golf
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83451&extension=m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Tennis-OTT.png",347-NBATV HD
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-nba/playlist.m3u8
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Tennis-OTT.png",True TENNIS
+#EXT-X-VERSION:3
+# High Quality Stream (2.1 Mbps)
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="GOLF & TENNIS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Astro Golf
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -1600,11 +1597,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://th.bing.com/th/id/R.bfda6ae34fd3b9f0a62fac936717e69d?rik=EZ3A0%2fsf%2f0C7BA&riu=http%3a%2f%2fimg3.wikia.nocookie.net%2f__cb20130208041301%2flogopedia%2fimages%2fc%2fc8%2fGolf_Channel_2011.png&ehk=twXiMetI1s8SmSR%2fHzmE%2fOEDeAZXO5tHlmlMDus%2bwr8%3d&risl=&pid=ImgRaw&r=0",353-Golf channel Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/golf2/playlist.m3u8
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/th-sport/golfchannel2/chunks.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186496&extension=m3u8
 
 
 <===================================== SPORTS =================================>
@@ -1767,15 +1762,18 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186601&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",-True Sport HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186606&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-4-th.png",-True Sport HD4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://www.livedoomovies.com:4432/02_sport4_480p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport SD5
 #EXT-X-VERSION:3
@@ -1789,29 +1787,19 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186605&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein1.jpg",-beIN Sports 1🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
-https://switch.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/siamsport-6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
-https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-https://219.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186537&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein2.jpg",-beIN Sports 2🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/bein3.jpg",-beIN Sports 3🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
-https://switch.thaim3u.com/TBttsbFsCChZqAduiyjmrHQ22UGrrro0/siamsport-7/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
-https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",389-SKY SPORTS PREMIER LEAGUE HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
@@ -2317,6 +2305,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
