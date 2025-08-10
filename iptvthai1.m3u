@@ -1932,6 +1932,12 @@ https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/3BB-spot.png" group-title="SPORTS", 3BB Sport One(3BB)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+
 
 <=============== Kids Channels =====================>
 
@@ -2318,6 +2324,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
