@@ -1918,11 +1918,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LFCTV-OTT.png",-LFCTV HD
-#EXTVLCOPT:http-referrer=https://dooballkub.com/
-https://r3-sn-5fo-c37ed9.googleuservideo.com/lfctv/playlist.m3u8
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://looooooool.footfast.net/event/826.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MUTV-HD-OTT.png",-MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -1931,6 +1930,12 @@ https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FB13661E-480C-4755-B4D4-C4C6D8C393FA/3-1x1.png/900",-beIN Sports XTRA
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://looooooool.footfast.net/event/100.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/3BB-spot.png" group-title="SPORTS", 3BB Sport One(3BB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2324,6 +2329,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
