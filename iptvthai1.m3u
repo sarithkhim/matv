@@ -467,7 +467,13 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD
-http://202.147.193.244/live/eds/DW/sa_dash/DW.mpd
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD BACKUP
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -2155,6 +2161,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 
 
 <====================================== Trial ==========================================>
+
 
 
 
