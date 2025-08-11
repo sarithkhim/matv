@@ -651,7 +651,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h216/index.m3u8
 <========================= Kids Channels ====================================>
 
 
-#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/005/051/796/non_2x/kids-channel-logo-vector.jpg" group-title="Kids Channels" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png",150-Cartoon Network FHD
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/005/051/796/non_2x/kids-channel-logo-vector.jpg" group-title="Kids Channels" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png",-Cartoon Network FHD
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -661,7 +661,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",-Boomerang HD
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png",-ANIPLUS
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png",-ANIPLUS SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -674,18 +674,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney.png",-Disney Channel HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.197.59.106:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://sv1.picz.in.th/images/2023/06/27/II07Uy.png",-ZOOMOO Channel
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://sv1.picz.in.th/images/2023/06/20/IHZynV.png",-EBS Kids HD
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://sv1.picz.in.th/images/2023/06/20/IHZynV.png",-EBS Kids SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
@@ -739,13 +728,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids Channels",-ZooMoo FHD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids Channels" tvg-id="Nickelodeon.id", Nickelodeon
+EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids Channels" tvg-id="Nickelodeon.id",-Nickelodeon
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids Channels" tvg-id="NickJr.id" , Nickelodeon Junior
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="Kids Channels",-nick.jr SD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
@@ -2314,6 +2303,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&exte
 
 
 <====================================== Trial ==========================================>
+
 
 
 
