@@ -1276,13 +1276,13 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186512&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186514&extension=m3u8
 http://37.27.111.214:8080/live/27/hls.m3u8
 
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd.png" group-title="KNOWLEDGE TV",-Asian Food Network FHD
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Y_iJ6nP7YIyM9kEL24OS2AHaFd?r=0&cb=thfvnext&pid=ImgDet&w=191&h=141&c=7&o=7&rm=3" group-title="KNOWLEDGE TV",-Asian Food Network FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd.png" group-title="KNOWLEDGE TV",-Asian Food Network FHD
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Y_iJ6nP7YIyM9kEL24OS2AHaFd?r=0&cb=thfvnext&pid=ImgDet&w=191&h=141&c=7&o=7&rm=3" group-title="KNOWLEDGE TV",-Asian Food Network FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -2295,6 +2295,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
