@@ -1225,13 +1225,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png",-TLC FHD 
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-name="" tvg-country="ID" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.z736Tqvuj02Vuc4y9sNZ0QHaE8?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",-TLC FHD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png",-DMAX HD 
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png",-DMAX HD 
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://th.bing.com/th/id/R.cf8e15b319ee2b7d796efd2a895d6f7f?rik=3s8l1ULKq5CwWQ&riu=http%3a%2f%2fwww.astra2sat.com%2fwp-content%2fuploads%2f2014%2f07%2ffood_network.jpg&ehk=3xNibNdht8areGrhr4Uj5CZsoJJK%2fwAzcn3FO4bcb8I%3d&risl=&pid=ImgRaw&r=0" group-title="KNOWLEDGE TV",-Food Network FHD
@@ -1318,7 +1318,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.radiantstudios.co.uk/jobs/download/image.file.8bf4c52403cd38ef.4242435f4c6966657374796c655f30312e706e67.png",-BBC Lifestyle FHD🇵🇭
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png",-Love Nature 4K
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.mYKehvhFkxGJencAgfBvxQAAAA?r=0&cb=thfvnext&pid=ImgDet&w=191&h=107&c=7&o=7&rm=3",-Love Nature 4K
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
@@ -1343,7 +1343,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png",-TLC FHD
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.z736Tqvuj02Vuc4y9sNZ0QHaE8?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",-TLC FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
@@ -2343,6 +2343,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
