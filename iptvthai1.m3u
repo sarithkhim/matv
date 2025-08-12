@@ -2084,8 +2084,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV SD
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV
+#EXTINF:10.080000,
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 
 #EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2100,7 +2104,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA TV🇮🇩",Rajawali TVV SD
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA TV🇮🇩",Rajawali TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
@@ -2161,6 +2165,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 
 
 <====================================== Trial ==========================================>
+
 
 
 
