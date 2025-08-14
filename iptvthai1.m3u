@@ -1799,32 +1799,24 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 <===================================== GOLF & TENNIS =================================>
 
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/sky golf-OTT.png",346-SkySports Golf
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",346-SkySports Golf
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83451&extension=m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/True Tennis-OTT.png",True TENNIS
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True TENNIS
 #EXT-X-VERSION:3
 # High Quality Stream (2.1 Mbps)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=m3u8
 
-#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="GOLF & TENNIS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Astro Golf
+#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="GOLF & TENNIS" tvg-logo="https://clipground.com/images/golf-channel-logo-5.jpg",Astro Golf
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://sv1.picz.in.th/images/2023/11/26/d0tQH0e.png",-NBC Golf HD English
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://th.bing.com/th/id/R.bfda6ae34fd3b9f0a62fac936717e69d?rik=EZ3A0%2fsf%2f0C7BA&riu=http%3a%2f%2fimg3.wikia.nocookie.net%2f__cb20130208041301%2flogopedia%2fimages%2fc%2fc8%2fGolf_Channel_2011.png&ehk=twXiMetI1s8SmSR%2fHzmE%2fOEDeAZXO5tHlmlMDus%2bwr8%3d&risl=&pid=ImgRaw&r=0",-NBC Golf HD English
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Super Sport Golf-HD-OTT.png",-S-GOLF_CHANNEL HD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350759&extension=ts
-http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217828
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/24.m3u8
-http://37.27.111.214:8080/live/13/hls.m3u8
-
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=vfsOuNuV&id=367F1AF7EEAF5F2268B5165E9C25B269D936D666&thid=OIP.vfsOuNuVI5SYM50kpiPx3QAAAA&mediaurl=https%3A%2F%2Fwww.newscaststudio.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fgolf-channel-lpga-logo-300x169.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.bdfb0eb8db95239498339d24a623f1dd%3Frik%3DZtY22WmyJZxeFg%26pid%3DImgRaw%26r%3D0&exph=169&expw=300&q=GOLF+logo&simid=608052595921716911&form=IRPRST&ck=D2C917944C06BD8FF630309E586FA48F&selectedindex=5&itb=1&cw=1222&ch=585&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_OzSW2GiV*cp_DC5058C0CB7B5187BF9148649359EB06*mid_6B7D2EF773376702C40859439AD31B6FC9FB1999*simid_607991504312536184*thid_OIP.OzSW2GiVXtU9FVsbqeFNbQHaCP&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0",-NBC Golf HD
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.orC_FAt-E-qYtelNZx56ogAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",-NBC Golf HD
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134001&extension=m3u8
@@ -2424,6 +2416,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
