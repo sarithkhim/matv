@@ -1824,12 +1824,10 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/24.m3u8
 http://37.27.111.214:8080/live/13/hls.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/ONE GOLF-OTT.png",-ONEGOLF HD
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://blogs.windows.com/wp-content/uploads/prod/2012/06/PGALogo.png",-PGA TOUR HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://jmp2.uk/sam-USBB400000145.m3u8
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=vfsOuNuV&id=367F1AF7EEAF5F2268B5165E9C25B269D936D666&thid=OIP.vfsOuNuVI5SYM50kpiPx3QAAAA&mediaurl=https%3A%2F%2Fwww.newscaststudio.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fgolf-channel-lpga-logo-300x169.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.bdfb0eb8db95239498339d24a623f1dd%3Frik%3DZtY22WmyJZxeFg%26pid%3DImgRaw%26r%3D0&exph=169&expw=300&q=GOLF+logo&simid=608052595921716911&form=IRPRST&ck=D2C917944C06BD8FF630309E586FA48F&selectedindex=5&itb=1&cw=1222&ch=585&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_OzSW2GiV*cp_DC5058C0CB7B5187BF9148649359EB06*mid_6B7D2EF773376702C40859439AD31B6FC9FB1999*simid_607991504312536184*thid_OIP.OzSW2GiVXtU9FVsbqeFNbQHaCP&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0",-NBC Golf HD
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134001&extension=m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://th.bing.com/th/id/R.bfda6ae34fd3b9f0a62fac936717e69d?rik=EZ3A0%2fsf%2f0C7BA&riu=http%3a%2f%2fimg3.wikia.nocookie.net%2f__cb20130208041301%2flogopedia%2fimages%2fc%2fc8%2fGolf_Channel_2011.png&ehk=twXiMetI1s8SmSR%2fHzmE%2fOEDeAZXO5tHlmlMDus%2bwr8%3d&risl=&pid=ImgRaw&r=0",353-Golf channel Thailand
 #EXT-X-VERSION:3
@@ -2426,6 +2424,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
