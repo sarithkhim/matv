@@ -2304,14 +2304,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV SD
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.080000,
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
-
 #EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
@@ -2419,6 +2411,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
