@@ -507,10 +507,10 @@ https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="BREAKING NEWS",-NHK World Japan
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",-NHK World Premium
-https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=191863&extension=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",-KBS WORLD HD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -2416,6 +2416,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
