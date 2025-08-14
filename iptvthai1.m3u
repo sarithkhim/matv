@@ -2214,11 +2214,14 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNm
 
 <=============== INDONESIA TV🇮🇩 =====================>
 
-#EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar
+#EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar Digital
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar&ts=064133_1755147968.ts
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",-Trans TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -2274,9 +2277,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",-SCTV HD
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV&ts=063851_1755161312.ts
 
 #EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti.png",-RCTI SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -2411,6 +2412,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDoma
 
 
 <====================================== Trial ==========================================>
+
 
 
 
