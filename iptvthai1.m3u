@@ -134,6 +134,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",035-MONO29 FHD🇹🇭
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -925,6 +926,13 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",-MONO29 FHD🇹🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -2664,6 +2672,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
