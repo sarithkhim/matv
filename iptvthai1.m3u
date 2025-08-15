@@ -1351,7 +1351,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png" group-title="KNOWLEDGE TV",-ANIMAL SHOW
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png" group-title="KNOWLEDGE TV",-ANIMAL SHOW
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=m3u8
@@ -2005,60 +2005,50 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_14-15-48-580.jpg",-ONE SPORTS
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD1-OTT.png",-True Premier Football HD1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL1.m3u8
-https://playtvthai.github.io/m3u8/sports/epl1.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.lIXxJ7_ItQffH7zI8fMqxgAAAA?r=0&pid=ImgDet&w=191&h=110&c=7&o=7&rm=3" ,Premier Sports 1 IE
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
+https://looooooool.footfast.net/event/771.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD1-OTT.png",-True Premier Football SD1 BACKUP
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
-https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.lIXxJ7_ItQffH7zI8fMqxgAAAA?r=0&pid=ImgDet&w=191&h=110&c=7&o=7&rm=3" ,Premier Sports 1 IE
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://looooooool.footfast.net/event/771.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD2-OTT.png",-True Premier Football HD2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL2.m3u8
-https://playtvthai.github.io/m3u8/sports/epl2.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7eg5-pALIUYFRoS4hWziOQHaEK?r=0&pid=ImgDet&w=191&h=107&c=7&o=7&rm=3" ,Premier Sports 2 IE
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
+https://looooooool.footfast.net/event/799.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD2-OTT.png",-True Premier Football SD2 BACKUP
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
-https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7eg5-pALIUYFRoS4hWziOQHaEK?r=0&pid=ImgDet&w=191&h=107&c=7&o=7&rm=3" ,Premier Sports 2 IE
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://looooooool.footfast.net/event/799.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD3-OTT.png",-True Premier Football HD3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
-https://playtvthai.github.io/m3u8/sports/epl3.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.xFh8VMgohI6vrZErpCLyeQHaEw?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" ,CBS Sports Network (CBSSN)
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiNDNmR2NwMWN4MDOtMGNzgTLxUWN00SNhVDNtcjY4YmM5QjY/master.m3u8
+https://looooooool.footfast.net/event/308.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD3-OTT.png",-True Premier Football HD3 BACKUP
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
-https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.xFh8VMgohI6vrZErpCLyeQHaEw?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" ,CBS Sports Network (CBSSN)
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://looooooool.footfast.net/event/308.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD4-OTT.png",-True Premier Football HD4
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
-https://playtvthai.github.io/m3u8/sports/epl4.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD4-OTT.png",-True Premier Football SD4 BACKUP
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
-https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",-True Premier Football HD5
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
-https://playtvthai.github.io/m3u8/sports/epl5.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Premier-league-HD5-OTT.png",-True Premier Football SD5 BACKUP
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTS",SportsTV
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png",-True Sport HD1
 #EXT-X-VERSION:3
@@ -2658,6 +2648,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
