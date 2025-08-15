@@ -134,12 +134,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",035-MONO29 FHD🇹🇭
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot-hd-th.png",036-MCOT30 FHD🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2664,6 +2664,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
