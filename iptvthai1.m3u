@@ -691,6 +691,14 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.7iBwHwMaAhwxgC6gHmH2vgHaEv?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" group-title="Kids Channels",-Da Vinci Learning
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
+
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://i.imgur.com/i1XpLH7.png",-TOONEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=xxx
@@ -1498,6 +1506,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-url="https://bit.ly/AstroEpg" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv.png",-HGTV🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.z736Tqvuj02Vuc4y9sNZ0QHaE8?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",-TLC FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2228,23 +2244,23 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extensio
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",399-SONY SPORTS 1FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",-SONY SPORTS 1FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",400-SONY SPORTS 2FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",-SONY SPORTS 2FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",401-SONY SPORTS 3FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",-SONY SPORTS 3FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",402-SONY SPORTS 4FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",-SONY SPORTS 4FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",403-SONY SPORTS 5FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",-SONY SPORTS 5FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
@@ -2267,7 +2283,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1", group-title="SPORTS",-NBA TV 🇵🇭
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png", group-title="SPORTS",-NBA TV 🇵🇭
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",-FS 1HD US
@@ -2767,6 +2783,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
