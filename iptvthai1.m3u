@@ -1898,8 +1898,14 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 <===================================== GOLF & TENNIS =================================>
 
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",346-SkySports Golf
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83451&extension=m3u8
+
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True TENNIS
 #EXT-X-VERSION:3
@@ -2144,29 +2150,56 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",389-SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83452&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT FHD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",391-SKY SPORTS MAIN EVENT HD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175175&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",393-SKY SPORTS ACTION HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",-SKY SPORTS ACTION HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83456&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",394-SKY SPORTS MIX HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",-SKY SPORTS ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/53705.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83449&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",395-SKY SPORTS CRICKET HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83454&extension=m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",396-SKY SPORTS F1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83453&extension=m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png",397-SKY Sports+ HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83455&extension=m3u8
@@ -2174,8 +2207,20 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83455&extensio
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",-SKY SPORTS NEWS HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extension=m3u8
 
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",-SKY SPORTS NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
+
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",399-SONY SPORTS 1FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2691,6 +2736,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
