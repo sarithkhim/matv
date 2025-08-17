@@ -182,6 +182,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbtv-channel-7-th.png",041-7CH HD🇹🇭
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2783,6 +2784,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
