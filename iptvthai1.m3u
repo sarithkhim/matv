@@ -137,6 +137,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",035-MONO29 FHD🇹🇭
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2709,6 +2710,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
