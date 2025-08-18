@@ -1852,39 +1852,39 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 <===================================== MALAYSIA TV🇲🇾 =================================>
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV1-HD-OTT.png",322-TV1🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-1-my.png",-TV1🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV2-HD-OTT.png",323-TV2🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-2-my.png",-TV2🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV6-HD-OTT.png",324-TV6🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",-TV6🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV9-HD-OTT.png",-TV9🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-9-my.png",-TV9🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171953.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/TV_Okey_RTM.png",-OKEY🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-okey-my.png",-OKEY🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",-Oh My Ceria!🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-my-ceria-my.png",-Oh My Ceria!🇲🇾
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/BERITA RTM-OTT.png",-BERITA RTM🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-rtm-my.png",-BERITA RTM🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8?id=4
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/Sukan_RTM_1_April.png",-SUKAN RTM🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sukan-my.png",-SUKAN RTM🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=5
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/RTB_Aneka.png",-RTB ANEKA🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.7REL-xRzwG7Bgf3FJzVtWwHaE8?r=0&pid=ImgDet&w=191&h=127&c=7&o=7&rm=3",-RTB ANEKA🇲🇾
 http://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",-TV3🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_my.png",-TV3🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
 #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
@@ -1892,7 +1892,7 @@ http://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://seeklogo.com/images/1/8tv-media-prima-malaysia-logo-D55E64675A-seeklogo.com.png",-8TV🇲🇾
+#EXTINF:-1 group-title="MALAYSIA TV🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/num/8tv-my.png",-8TV🇲🇾
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 
@@ -2394,21 +2394,13 @@ https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 #EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn2.aws-live-streaming.com/lsmscore/monomax3/chunks.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 3" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 3
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-4/chunks.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-3/chunks.m3u8
 
-#EXTINF:-1 tvg-name="true PremiereFootball 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball1.png" group-title="SPORTS", true PremiereFootball 1
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
-#EXTINF:-1 tvg-name="true PremiereFootball 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball2.png" group-title="SPORTS", true PremiereFootball 2
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
 
 
 
@@ -2459,13 +2451,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.JTw5WMSeq-DOI45FI4vj6AAAAA?r=0&cb=thfvnext&pid=ImgDet&w=156&h=156&c=7&o=7&rm=3",-TV One SD
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://p.kindpng.com/picc/s/335-3354310_indonesia-hd-png-download.png",-TV One SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.JTw5WMSeq-DOI45FI4vj6AAAAA?r=0&cb=thfvnext&pid=ImgDet&w=156&h=156&c=7&o=7&rm=3",-TV One FHD
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://p.kindpng.com/picc/s/335-3354310_indonesia-hd-png-download.png",-TV One FHD
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2535,7 +2527,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h209/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg",-DAAI TV (INDIHOME)
+#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",-DAAI TV (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 
@@ -2558,14 +2550,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://images.indihometv.com/assets/88_CITRADANGDUT_2025_03_17_14_47_14.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-dangdut-id.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://images.indihometv.com/assets/88_CITRADANGDUT_2025_03_17_14_47_14.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-dangdut-id.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
@@ -2787,6 +2779,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
