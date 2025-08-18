@@ -1958,60 +1958,6 @@ http://originhd-1.dens.tv/h/h05/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h09/01.m3u8
 http://originhd-1.dens.tv/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", group-title="SPORTS",Astro Grandstand HD
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8
-
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", group-title="SPORTS",Astro Grandstand
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
-https://looooooool.footfast.net/event/123.m3u8
-
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", group-title="SPORTS",Astro Football HD
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UzMkRGNwAzMwQTMtkjN4IWLjVGM00yM5MDZtQTY1gDZ0YGN/master.m3u8
-
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", group-title="SPORTS",Astro Football
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
-https://looooooool.footfast.net/event/124.m3u8
-
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", group-title="SPORTS",Astro Premier League HD
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
-
-#EXTINF:-1 tvg-name="", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", group-title="SPORTS",Astro Premier League
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
-https://looooooool.footfast.net/event/125.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", group-title="SPORTS",Astro Premier League 2 HD
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhRmY3UjM1EzNmJzNtczM4IWLyIjZ00CNkNWYtEmN3cTZzgzN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", group-title="SPORTS",Astro Premier League 2
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
-https://looooooool.footfast.net/event/126.m3u8
-
-#EXTINF:-1  tvg-name="Astro Sports Plus" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS", Astro Sports Plus 🇲🇾
-https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", group-title="SPORTS", Astro Arena 🇲🇾
-https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/lsEzEWY.png", group-title="SPORTS", unifi Sports 1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -2291,20 +2237,8 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",-SPOTV 2HD Indo
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LFCTV-OTT.png",-LFCTV HD
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://looooooool.footfast.net/event/826.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FB13661E-480C-4755-B4D4-C4C6D8C393FA/3-1x1.png/900",-beIN Sports XTRA
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://looooooool.footfast.net/event/100.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2368,8 +2302,98 @@ https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
 https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
 
+<=================================== Astro Group =====================================>
 
-<=============== INDONESIA TV🇮🇩 =====================>
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png", group-title="Astro Group",Astro Grandstand FHD🇲🇾
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8
+
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png", group-title="Astro Group",Astro Grandstand HD🇲🇾
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
+https://looooooool.footfast.net/event/123.m3u8
+
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png", group-title="Astro Group",Astro Football FHD🇲🇾
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UzMkRGNwAzMwQTMtkjN4IWLjVGM00yM5MDZtQTY1gDZ0YGN/master.m3u8
+
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png", group-title="Astro Group",Astro Football HD🇲🇾
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
+https://looooooool.footfast.net/event/124.m3u8
+
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png", group-title="Astro Group",Astro Premier League FHD
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
+
+#EXTINF:-1 tvg-name="", tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png", group-title="Astro Group",Astro Premier League HD🇲🇾
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
+https://looooooool.footfast.net/event/125.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png", group-title="Astro Group",Astro Premier League 2 HD🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.144
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/632437
+#EXTVLCOPT:http-origin=https://www.vidembed.re
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhRmY3UjM1EzNmJzNtczM4IWLyIjZ00CNkNWYtEmN3cTZzgzN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png", group-title="Astro Group",Astro Premier League 2🇲🇾
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
+https://looooooool.footfast.net/event/126.m3u8
+
+#EXTINF:-1  tvg-name="Astro Sports Plus" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png" group-title="Astro Group", Astro Sports Plus FHD🇲🇾
+https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png", group-title="Astro Group", Astro Arena FHD🇲🇾
+https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png", group-title="Astro Group", Astro Arena HD🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/632449
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png", group-title="Astro Group", Astro Arena 2HD🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/632456
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png", group-title="Astro Group", Astro Badminton🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.143
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/632443
+
+#EXTINF:-1 tvg-name="beIN SPORTS HK 1" tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="Astro Group", beIN SPORTS 1🇲🇾
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.163
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/624861
+
+#EXTINF:-1 tvg-name="beIN SPORTS HK 2" tvg-logo="http://tugapt.com/picons/beinsports2hdfr.png" group-title="Astro Group", beIN SPORTS 2🇲🇾
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.164
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/624862
+
+#EXTINF:-1 tvg-name="beIN SPORTS HK 3" tvg-logo="http://tugapt.com/picons/beinsports3hdfr.png" group-title="Astro Group", beIN SPORTS 3🇲🇾
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.164
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/624863
+
+
+
+
+
+
+
+<========================================== INDONESIA TV🇮🇩 =========================================>
 
 #EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2717,6 +2741,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
