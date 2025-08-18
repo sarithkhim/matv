@@ -1929,6 +1929,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186496&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134030&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png",-WWE NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.421
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/226546
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://jmp2.uk/sam-US700005ID.m3u8
 
@@ -2741,6 +2743,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
