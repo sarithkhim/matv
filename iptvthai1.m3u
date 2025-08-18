@@ -1681,39 +1681,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
 
-<===================================== JAPAN TV🇯🇵 =================================>
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",314-NHK G🇯🇵
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",315-WOWOW Prime🇯🇵
-http://103.197.59.106:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png",316-WOWOW Live🇯🇵
-http://103.197.59.106:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png",317-WOWOW Cinema🇯🇵
-http://103.197.59.106:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png",318-Star Channel 1🇯🇵
-http://103.197.59.106:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png",319-Star Channel 2🇯🇵
-http://103.197.59.106:5002/bs27.m3u8?token=guoziyun&gid=bs27&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png",320-Star Channel 3🇯🇵
-http://103.197.59.106:5002/bs28.m3u8?token=guoziyun&gid=bs28&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-
-#EXTINF:-1 group-title="JAPAN TV🇯🇵" tvg-logo="https://sv1.picz.in.th/images/2023/12/23/d0aQysJ.png",321-GREEN CHANNEL🇯🇵
-http://103.197.59.106:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-
 
 <================================================= Mediacorp Singapore ======================================>
 
@@ -1899,19 +1866,19 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 <===================================== KOREA TV🇰🇷 =================================>
 
 
-#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://sv1.picz.in.th/images/2023/12/13/d0PwlhE.png",342-TV CHOSUN🇰🇷
+#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_chosun.png",-TV CHOSUN🇰🇷
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://sv1.picz.in.th/images/2023/12/13/d0PwPYQ.png",343-TV CHOSUN2🇰🇷
+#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chosun-2-kr.png",-TV CHOSUN2🇰🇷
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/ytv-logo.jpg",344-연합뉴스TV🇰🇷
+#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://www.yonhapnewstv.co.kr/asset/img/common/ytv-logo.jpg",-연합뉴스TV🇰🇷
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8
 
-#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://i.ytimg.com/vi/Ojisxc-xhCA/maxresdefault.jpg",345-tvN 뿅뿅 지구오락실🇰🇷
+#EXTINF:-1 group-title="KOREA TV🇰🇷" tvg-logo="https://i.ytimg.com/vi/Ojisxc-xhCA/maxresdefault.jpg",-tvN 뿅뿅 지구오락실🇰🇷
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
 
 
@@ -2329,11 +2296,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://looooooool.footfast.net/event/826.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/MUTV-HD-OTT.png",-MUTV HD
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
@@ -2342,11 +2304,6 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://looooooool.footfast.net/event/100.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/3BB-spot.png" group-title="SPORTS", 3BB Sport One(3BB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2563,7 +2520,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 
 
-
 #EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://i.ytimg.com/vi/xR3VFzylmTw/maxresdefault.jpg",561-SBS 낭만닥터 김사부 시즌2🇰🇷
 https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8
 
@@ -2581,32 +2537,6 @@ https://d1jkdzl8fxsn4u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/sSNhk2g.png",-CNews-Français
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="PREMIERFOOTBALL.ph" tvg-name="PREMIERFOOTBALL" tvg-logo="https://warningfm.github.io/v3/img/QHMhnIC.png?v=1.1.1.1" group-title="Sports Internasional", Premier Football HD
-http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="PREMIERFOOTBALL.ph" tvg-name="PREMIERFOOTBALL" tvg-logo="https://warningfm.github.io/v3/img/QHMhnIC.png?v=1.1.1.1" group-title="Sports Internasional", Premier Football HD
-http://143.44.136.110:6910/001/2/ch00000090990000001128/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="PREMIERFOOTBALL.ph" tvg-name="PREMIERFOOTBALL" tvg-logo="https://warningfm.github.io/v3/img/QHMhnIC.png?v=1.1.1.1" group-title="Sports Internasional", Premier Football HD
-http://143.44.136.110:6910/001/2/ch00000090990000001129/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="PREMIERFOOTBALL.ph" tvg-name="PREMIERFOOTBALL" tvg-logo="https://warningfm.github.io/v3/img/QHMhnIC.png?v=1.1.1.1" group-title="Sports Internasional", Premier Football HD
-http://143.44.136.110:6910/001/2/ch00000090990000001130/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 //========================================================================
@@ -2779,6 +2709,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
