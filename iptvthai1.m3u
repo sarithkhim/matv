@@ -2359,7 +2359,14 @@ https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
 https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-3/chunks.m3u8
 
-
+#EXTINF:-1 tvg-name="true PremiereFootball 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball1.png" group-title="SPORTS", true PremiereFootball 1
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
+#EXTINF:-1 tvg-name="true PremiereFootball 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball2.png" group-title="SPORTS", true PremiereFootball 2
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
 
 
 <=============== INDONESIA TV🇮🇩 =====================>
@@ -2710,6 +2717,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
