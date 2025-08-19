@@ -84,6 +84,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png",023-THAI PBS HD🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png",024-ALTV4🇹🇭
@@ -2800,6 +2803,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
