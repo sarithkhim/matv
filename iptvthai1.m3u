@@ -2047,32 +2047,18 @@ https://looooooool.footfast.net/event/771.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
-https://looooooool.footfast.net/event/799.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7eg5-pALIUYFRoS4hWziOQHaEK?r=0&pid=ImgDet&w=191&h=107&c=7&o=7&rm=3" ,Premier Sports 2 IE
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://looooooool.footfast.net/event/799.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.xFh8VMgohI6vrZErpCLyeQHaEw?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" ,CBS Sports Network (CBSSN)
 #EXTVLCOPT:http-origin=https://www.vidembed.re
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiNDNmR2NwMWN4MDOtMGNzgTLxUWN00SNhVDNtcjY4YmM5QjY/master.m3u8
-https://looooooool.footfast.net/event/308.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" -1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.xFh8VMgohI6vrZErpCLyeQHaEw?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" ,CBS Sports Network (CBSSN)
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://looooooool.footfast.net/event/308.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTS",SportsTV
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png",-True Sport HD1
 #EXT-X-VERSION:3
@@ -2808,6 +2794,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
