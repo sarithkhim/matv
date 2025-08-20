@@ -1253,6 +1253,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True Xzyte HD
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True FILM ASIA SD
@@ -2246,6 +2249,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNm
 https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=m3u8
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
 https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
@@ -2798,6 +2802,7 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 
 <====================================== Trial ==========================================>
+
 
 
 
