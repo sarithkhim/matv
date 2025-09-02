@@ -1,77 +1,77 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-logo=" " group-title="TV KHMER🇰🇭" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
+#EXTINF: -1 group-logo= " " group-title= "TV KHMER🇰🇭" tvg-name= "" tvg-country= "ID" tvg-logo= "https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",002-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",002-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayon_tv.png",003-ប៉ុស្តិ៍​ទូរទស្សន៍​ បាយ័ន HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/bb/bayon_tv.png",003-ប៉ុស្តិ៍​ទូរទស្សន៍​ បាយ័ន HD🇰🇭
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png",004-ប៉ុស្តិ៍​ទូរទស្សន៍​ BTV NEWS🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png",004-ប៉ុស្តិ៍​ទូរទស្សន៍​ BTV NEWS🇰🇭
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png",005-ប៉ុស្តិ៍​ទូរទស្សន៍​ H.M.HDTV🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png",005-ប៉ុស្តិ៍​ទូរទស្សន៍​ H.M.HDTV🇰🇭
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rasmey-hang-meas-hdtv-kh.png",006-ប៉ុស្តិ៍​ទូរទស្សន៍​ R.H.M.HDTV🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/rr/rasmey-hang-meas-hdtv-kh.png",006-ប៉ុស្តិ៍​ទូរទស្សន៍​ R.H.M.HDTV🇰🇭
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/SNTf2r3.png",007-ប៉ុស្តិ៍​ទូរទស្សន៍​ Komsan TV🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://i.imgur.com/SNTf2r3.png",007-ប៉ុស្តិ៍​ទូរទស្សន៍​ Komsan TV🇰🇭
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png",008-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTN HD🇰🇭 
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/cc/ctn-kh.png",008-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTN HD🇰🇭 
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png",009-ប៉ុស្តិ៍​ទូរទស្សន៍​ MyTV🇰🇭 
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png",009-ប៉ុស្តិ៍​ទូរទស្សន៍​ MyTV🇰🇭 
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc-kh.png",010-ប៉ុស្តិ៍​ទូរទស្សន៍​ CNC HD🇰🇭 
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/cc/cnc-kh.png",010-ប៉ុស្តិ៍​ទូរទស្សន៍​ CNC HD🇰🇭 
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/rnV0Ui1.png",011-ប៉ុស្តិ៍​ទូរទស្សន៍​ WIKI HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://i.imgur.com/rnV0Ui1.png",011-ប៉ុស្តិ៍​ទូរទស្សន៍​ WIKI HD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://i.imgur.com/iMZLyoX.png",012-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV5 HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://i.imgur.com/iMZLyoX.png",012-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV5 HD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png",013-ប៉ុស្តិ៍​ទូរទស្សន៍​ Fresh News🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png",013-ប៉ុស្តិ៍​ទូរទស្សន៍​ Fresh News🇰🇭
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moi-tv-kh.png",014-ប៉ុស្តិ៍​ទូរទស្សន៍​ MOI TVHD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/mm/moi-tv-kh.png",014-ប៉ុស្តិ៍​ទូរទស្សន៍​ MOI TVHD🇰🇭
 http://202.62.56.22:8080/hls/MOITV.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sea_tv.png",015-ប៉ុស្តិ៍​ទូរទស្សន៍​ SEATV🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/ss/sea_tv.png",015-ប៉ុស្តិ៍​ទូរទស្សន៍​ SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara-tv-kh.png",016-ប៉ុស្តិ៍​ទូរទស្សន៍​ អប្សរា១១HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/aa/apsara-tv-kh.png",016-ប៉ុស្តិ៍​ទូរទស្សន៍​ អប្សរា១១HD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://live.ams.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png",017-ប៉ុស្តិ៍​ទូរទស្សន៍​ MSJTVHD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png",017-ប៉ុស្តិ៍​ទូរទស្សន៍​ MSJTVHD🇰🇭
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UipBqGYMDyxtbo-y4V4kmj1-WRcrfHHRZNnwrccMkSfkVCUH7mLpHnBN6W-qEZ864CA&usqp=CAU",018-ប៉ុស្តិ៍​ទូរទស្សន៍​ Khmer TVHD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UipBqGYMDyxtbo-y4V4kmj1-WRcrfHHRZNnwrccMkSfkVCUH7mLpHnBN6W-qEZ864CA&usqp=CAU",018-ប៉ុស្តិ៍​ទូរទស្សន៍​ Khmer TVHD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-9-kh.png",019-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV9 CAMHD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/cc/ctv-9-kh.png",019-ប៉ុស្តិ៍​ទូរទស្សន៍​ TV9 CAMHD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
 https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://api.netlinkbroadcaster.com/uploads/netlink_9c548a0a4e.jpg",020-ប៉ុស្តិ៍​ទូរទស្សន៍​ NETLINKHD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://api.netlinkbroadcaster.com/uploads/netlink_9c548a0a4e.jpg",020-ប៉ុស្តិ៍​ទូរទស្សន៍​ NETLINKHD🇰🇭
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png",021-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTV8 HD🇰🇭
+#EXTINF: -1 group-title= "TV KHMER🇰🇭" tvg-logo= "https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png",021-ប៉ុស្តិ៍​ទូរទស្សន៍​ CTV8 HD🇰🇭
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
 <=============== TV THAI🇹🇭 =====================>
