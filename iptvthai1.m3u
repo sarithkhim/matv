@@ -586,13 +586,9 @@ http://202.147.193.244/live/eds/CNBC/sa_dash/CNBC.mpd
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SkyNews.png",-SKY NEWS HD UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",-Fox News HD
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
 https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
