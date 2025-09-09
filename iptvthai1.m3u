@@ -1212,6 +1212,9 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-1-th.png",-True Film1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",-True Film2
@@ -1224,6 +1227,9 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-asian-more-th.png",-True AsianMore
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186507&extension=m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-movie-hits-th.png",-True MovieHit
@@ -1244,7 +1250,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True FILM ASIA SD
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186467&extension=m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-now-sg.png" group-title="MOVIES",-Hits Now FHD
@@ -1409,6 +1416,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-url="https://bit.ly/AstroEpg" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",-Discovery Channel FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1597,12 +1605,21 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6858ee73728018f052a2fbd6993/manifest.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_life.png",-True Explore Life
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_sci.png",-True Explore Sci
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png",-True Explore Wild
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://e113.hellotherepadawan.org/v5/4ERgFNzLugJUuyaBYiXE9Q/1756776501/c9f3cb72feca0d48906cebc62d3b3dd7/i614W8nl7T1Posw4E9lMOg/1756787181/live/vx-origin/sd-expwild_720/chunks.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png" group-title="KNOWLEDGE TV",-Cooking Channel
@@ -2054,18 +2071,10 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186601&extension=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",-True Sport HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186606&extension=m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-4-th.png",-True Sport HD4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport SD5
 #EXT-X-VERSION:3
