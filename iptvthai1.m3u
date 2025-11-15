@@ -1460,12 +1460,8 @@ http://125.227.210.55:8154/VideoInput/play.ts
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",-History FHD🇵🇭
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",-History 2 FHD🇵🇭
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",-History SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
