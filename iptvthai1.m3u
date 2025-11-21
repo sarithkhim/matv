@@ -1419,17 +1419,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png" group-title="KNOWLEDGE TV",-ANIMAL SHOW
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png" group-title="KNOWLEDGE TV",-ANIMAL SHOW
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1775980&extension=ts
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-url="https://bit.ly/AstroEpg" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",-Discovery Channel FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFscPFcF/IMG-2948.png" group-title="KNOWLEDGE TV",-World Animal
+http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yFyB8yK/IMG-3100.png" group-title="KNOWLEDGE TV",-World Science
+http://49.0.64.96:8007/WSCI
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-url="https://bit.ly/AstroEpg" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",-Discovery Channel HD🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -1437,11 +1434,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
-
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-url="https://bit.ly/AstroEpg" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",-Discovery Channel HD🇹🇭
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186437&extension=m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776024&extension=ts
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png",-Discovery Asia FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1970,6 +1964,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186496&extension=
 
 <===================================== SPORTS =================================>
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",-Hi Sport
+http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png",-WWE NETWORK FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2211,20 +2207,19 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 1" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 1
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=m3u8
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn2.aws-live-streaming.com/lsmscore/monomax2/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 3" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 3
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 
 
 
