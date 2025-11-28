@@ -929,6 +929,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",-HBO Asia Thai Sub🇹🇭
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776086&extension=m3u8
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776086&extension=ts&play_token=AFIYZ63fAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -970,6 +971,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 http://125.227.210.55:8151/VideoInput/play.ts
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",-HBO SIGNATURE HD🇹🇭
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776119&extension=m3u8
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776119&extension=ts
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -979,6 +981,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",-HBO HITS FHD🇹🇭
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776088&extension=m3u8
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776088&extension=ts
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -988,6 +991,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",-HBO Family HD🇹🇭
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776089&extension=m3u8
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
