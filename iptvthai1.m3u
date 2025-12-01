@@ -78,8 +78,6 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 
 
 #EXTINF:-1 group-logo=" " group-title="TV THAI🇹🇭" tvg-name="" tvg-country="ID" tvg-logo="https://logowik.com/content/uploads/images/nbt-national-broadcasting-services-of-thailand-20255774.logowik.com.webp",022-NBT-2HD🇹🇭
-https://tv-live.tpchannel.org/live/tv_720p.m3u8
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBT.th" group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt-11-north-th.png", NBT 11 ภาคเหนือ
@@ -117,6 +115,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+https://tv-live.tpchannel.org/live/tv_720p.m3u8
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png",028-TNN16🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
