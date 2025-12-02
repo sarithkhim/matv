@@ -235,10 +235,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 <========================= CHINA TV🇨🇳 ====================================>
 
 #EXTINF:-1 group-logo=" " group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",044-Jiangsu TV🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
-https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",045-Hunan TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -259,16 +256,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-international-channel-cn.png",048-Anhui TV🇨🇳
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",049-Dragon TV🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",050-Shenzen TV🇨🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -437,14 +432,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/789.m3u8
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_1499968=1-mp4a_208000_eng=2.m3u8
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS HD BACKUP
 http://125.227.210.55:8165/VideoInput/play.ts
@@ -578,18 +566,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h241/index.m3u8
 http://originhd-1.dens.tv/h/h241/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc.png",-CNBC Asia FHD
-http://125.227.210.55:8152/VideoInput/play.ts
-http://37.27.111.214:8080/live/102/hls.m3u8
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-cnbc.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc.png",-CNBC Asia Backup
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/CNBC/sa_dash/CNBC.mpd
-http://202.147.193.244/live/eds/CNBC/sa_dash/CNBC.mpd
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc.png",-CNBC Asia SD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SkyNews.png",-SKY NEWS HD UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
