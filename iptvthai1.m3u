@@ -410,12 +410,6 @@ http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h121/index.m3u8
 http://originhd-1.dens.tv/h/h121/index.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="BREAKING NEWS" tvg-id="" ,-RAI Italia SD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
-https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
-
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/top-news-th.png",-TOP NEWS HD
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
@@ -441,8 +435,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD 中文国际🇨🇳
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+http://125.227.210.55:8175/VideoInput/play.ts
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png",-CGTN English SD🇨🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
@@ -470,27 +463,11 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
-https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD BACKUP
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",-Français 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",-Français 24 English Backup
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
-https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang FHD
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
@@ -498,28 +475,16 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://37.27.111.214:8080/live/52/hls.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang FHD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
-#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="BREAKING NEWS",-NHK World Japan FHD
-https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
-
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="BREAKING NEWS",-NHK World Japan SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",-NHK World Premium HD
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=191863&extension=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",-NHK World Premium HD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
@@ -559,7 +524,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h241/index.m3u8
-http://originhd-1.dens.tv/h/h241/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc.png",-CNBC Asia SD
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
@@ -567,52 +531,24 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SkyNews.png",-SKY NEWS HD UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",-Fox News HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
-http://202.147.193.244/live/eds/FoxNews/sa_dash/FoxNews.mpd
-
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",-Fox News SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-EURONEWS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-Euronews SD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-Euronews Backup
-https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",-Bloomberg News
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",-Bloomberg News HD
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",-Bloomberg News Backup
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/34/hls.m3u8
-
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png",-CGTN Documentary HD
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
-https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/rt_news_channel_logo1.png",-Russia Today HD
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel20000153/1024.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/rt_news_channel_logo1.png",-Russia Today SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -630,7 +566,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-news-in.png",-ZEE NEWS HD
 https://news.udx.workers.dev/zeenews/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://th.bing.com/th/id/OIP.UCuUd2QgHW8GYHxOWPXSPQAAAA?rs=1&pid=ImgDetMain",-Astro AWANI HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png",-Astro AWANI HD
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsobHhWXmBplQa5tK1h3nWXvXEOPA90m_Ry8EBvPH7Bq38GkqRbd-qPUZP3LcrQ9m5w&usqp=CAU",-TV5 Monde Info
@@ -664,13 +600,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h216/index.m3u8
 <========================= Kids Channels ====================================>
 
 
-#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/005/051/796/non_2x/kids-channel-logo-vector.jpg" group-title="Kids Channels" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png",-Cartoon Network FHD
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",-Boomerang HD
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
@@ -680,14 +609,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h201/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.7iBwHwMaAhwxgC6gHmH2vgHaEv?r=0&pid=ImgDet&w=191&h=122&c=7&o=7&rm=3" group-title="Kids Channels",-Da Vinci Learning
-https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-
 
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://i.imgur.com/i1XpLH7.png",-TOONEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
