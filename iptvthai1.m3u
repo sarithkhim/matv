@@ -539,6 +539,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-Euronews SD
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",-Euronews HD
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",-Bloomberg News HD
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
