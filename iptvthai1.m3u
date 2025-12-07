@@ -418,6 +418,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776014&extension=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD BACKUP
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 http://125.227.210.55:8166/VideoInput/play.ts
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
