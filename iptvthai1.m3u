@@ -1846,6 +1846,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186496&extension=
 http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png",-WWE NETWORK FHD
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17082
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
