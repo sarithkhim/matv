@@ -2726,7 +2726,48 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
+#EXTINF:-1 tvg-id="EPL-1 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0" group-title="ช่องกีฬา",Premier League 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EPL-2 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/7ka1ta3gldxjyhy7mxh8a/epl2.png?rlkey=w1u2auevfdxr9y1utwjfighil&dl=0" group-title="ช่องกีฬา",Premier League 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPL-3 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/vf9ip98bvwt8xlzauvi55/epl3.png?rlkey=xtqwebs1zrftkped4dykbmsrp&dl=0" group-title="ช่องกีฬา",Premier League 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPL-4 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/bs2nadsf2chbzch8wch2z/epl4.png?rlkey=sgt77cowv1qtthyr4fbw15jlw&dl=0" group-title="ช่องกีฬา",Premier League 4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPL-5 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/m26i5jt3f5hefy3kd2yzg/epl5.png?rlkey=l1176dpa8oe9tpmtwpzzjh19x&dl=0" group-title="ช่องกีฬา",Premier League 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="True Premier 1 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="ช่องกีฬา",True Premier 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True Premier 2 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="ช่องกีฬา",True Premier 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True Premier 3 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg" group-title="ช่องกีฬา",True Premier 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True Premier 4" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg" group-title="ช่องกีฬา",True Premier 4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True Premier 5" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg" group-title="ช่องกีฬา",True Premier 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
