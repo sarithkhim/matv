@@ -1966,6 +1966,33 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/102394
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-1.png" group-title="SPORTS",Now HK Premier Sports 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-2.png" group-title="SPORTS",Now HK Premier Sports 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-2.png" group-title="SPORTS",Now HK Premier Sports 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-4.png" group-title="SPORTS",Now HK Premier Sports 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/now-5.png" group-title="SPORTS",Now HK Premier Sports 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/now-6.png" group-title="SPORTS",Now HK Premier Sports 6
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-1.png" group-title="SPORTS",Now Sports 1 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-2.png" group-title="SPORTS",Now Sports 2 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118745
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-2.png" group-title="SPORTS",Now Sports 3 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118744
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
