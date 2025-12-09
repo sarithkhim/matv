@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-logo=" " group-title="TV KHMER🇰🇭" tvg-name="" tvg-country= "ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
@@ -2014,22 +2012,22 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pJkVVpH.png",-beIN Sports Xtrañ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS",-Hub Premier 1FHD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS",-Hub Premier 1FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS",-Hub Premier 2UHD
+#EXTINF:-1 tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS",-Hub Premier 2UHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112230
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS",-Hub Premier 2FHD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="SPORTS",-Hub Premier 2FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="SPORTS",-Hub Premier 3FHD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="SPORTS",-Hub Premier 3FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="SPORTS",-Hub Premier 4FHD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="SPORTS",-Hub Premier 4FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="SPORTS",-Hub Premier 5FHD
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="SPORTS",-Hub Premier 5FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
 
 #EXTINF:-1 tvg-name="MONO MAX - 1" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 1
