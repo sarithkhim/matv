@@ -1966,6 +1966,21 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/102394
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn1.png" group-title="SPORTS",-TSN1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17181
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn2.png" group-title="SPORTS",-TSN2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17180
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn3.png" group-title="SPORTS",-TSN3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17179
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn4.png" group-title="SPORTS",-TSN4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17178
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn5.png" group-title="SPORTS",-TSN5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/17177
+
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/now-1.png" group-title="SPORTS",Now HK Premier Sports 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 
