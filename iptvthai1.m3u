@@ -1499,6 +1499,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
 
 #EXTINF:-1 tvg-name="MONO MAX - 1" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8
@@ -1507,6 +1508,9 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+
+#EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2 Backup
+http://45.136.252.97:8081/app/monomax-2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 3" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
