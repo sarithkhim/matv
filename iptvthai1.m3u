@@ -1615,11 +1615,20 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
 
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE Backup
+http://178.33.239.54:8080/506/index.m3u8
+
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83452&extension=m3u8
 
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL Backup
+http://178.33.239.54:8080/500/index.m3u8
+
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT Backup
+http://cord-cutter.net:8080/100606595/100606595/137720
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",-SKY SPORTS ACTION HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83456&extension=m3u8
@@ -1627,11 +1636,20 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83456&extensio
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83449&extension=m3u8
 
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX Backup
+http://178.33.239.54:8080/507/index.m3u8
+
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83454&extension=m3u8
 
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET Backup
+http://178.33.239.54:8080/503/index.m3u8
+
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83453&extension=m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 Backup
+http://178.33.239.54:8080/508/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png",-SKY Sports+ HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83455&extension=m3u8
@@ -1641,6 +1659,9 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extensio
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",-SKY SPORTS NFL
+http://178.33.239.54:8080/504/index.m3u8
 
 
 <========================================== SuperSports Group =========================================>
