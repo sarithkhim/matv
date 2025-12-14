@@ -859,6 +859,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png",MONO29 PLUS+ Backup
+http://45.136.252.97:8081/app/mono29plus/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True FilmAsia 
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776052&extension=m3u8
 
