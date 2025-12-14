@@ -1643,6 +1643,78 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83448&extensio
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extension=m3u8
 
 
+<========================================== SuperSports Group =========================================>
+
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",-SuperSports Premier League
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396881&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",-SuperSports Premier League Backup
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815726&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",-SuperSports Football
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396882&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",-SuperSports Football Backup
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815723&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png",-SuperSports Football Plus
+http://vip.sibfungold.net:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52874
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png",-SuperSports Football Plus Backup
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815724&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-laliga-za.png",-SuperSports LALIGA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396880&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-laliga-za.png",-SuperSports LALIGA Backup
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815725&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png",-SuperSport Motorsport
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396874&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png",-SuperSport Blitz
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396873&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png",-SuperSport Golf
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396875&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png",-SuperSport Tennis
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396878&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png",-SuperSport Rugby
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396877&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png",-SuperSport Variety1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396886&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png",-SuperSport Variety2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396885&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png",-SuperSport Variety3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396884&extension=ts
+
+#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",-SuperSport Variety4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396883&extension=ts
+
+<========================================== Astro Group =========================================>
+
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",-Astro Premier League
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34535
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",-Astro Premier League2
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34534
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",-Astro Football
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34531
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://media.licdn.com/dms/image/C560BAQF2c1pfd9hAhA/company-logo_200_200/0/1636044195428?e=2147483647&v=beta&t=29hej187KebPKhbx7ET_ycWhiqUi3zvNKWYxQIhFUYk",-W-Sport
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34532
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",-Astro Grandstand
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34533
+
 
 <========================================== INDONESIA TV🇮🇩 =========================================>
 
@@ -2082,48 +2154,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
-#EXTINF:-1 tvg-id="EPL-1 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0" group-title="ช่องกีฬา",Premier League 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-2 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/7ka1ta3gldxjyhy7mxh8a/epl2.png?rlkey=w1u2auevfdxr9y1utwjfighil&dl=0" group-title="ช่องกีฬา",Premier League 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-3 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/vf9ip98bvwt8xlzauvi55/epl3.png?rlkey=xtqwebs1zrftkped4dykbmsrp&dl=0" group-title="ช่องกีฬา",Premier League 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-4 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/bs2nadsf2chbzch8wch2z/epl4.png?rlkey=sgt77cowv1qtthyr4fbw15jlw&dl=0" group-title="ช่องกีฬา",Premier League 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EPL-5 (dookeela) tvg-logo="https://dl.dropbox.com/scl/fi/m26i5jt3f5hefy3kd2yzg/epl5.png?rlkey=l1176dpa8oe9tpmtwpzzjh19x&dl=0" group-title="ช่องกีฬา",Premier League 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="True Premier 1 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="ช่องกีฬา",True Premier 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="True Premier 2 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="ช่องกีฬา",True Premier 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="True Premier 3 HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg" group-title="ช่องกีฬา",True Premier 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="True Premier 4" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg" group-title="ช่องกีฬา",True Premier 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="True Premier 5" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg" group-title="ช่องกีฬา",True Premier 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
