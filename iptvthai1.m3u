@@ -859,6 +859,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png",MONO29 PLUS+ Backup
+
 http://45.136.252.97:8081/app/mono29plus/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True FilmAsia 
@@ -1255,8 +1256,8 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 <===================================== GOLF & TENNIS =================================>
 
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf FHD
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83451&extension=m3u8
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf HD
+http://cord-cutter.net:8080/100606595/100606595/35240
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1264,8 +1265,11 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83451&extensio
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",True TENNIS
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",-True TENNIS
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776208&extension=m3u8
+
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-channel-thailand-us-th.png",-Golf Channel
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
 
 
 <===================================== SPORTS =================================>
@@ -1312,7 +1316,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png",-True Sport HD1 Backup
-http://45.136.252.97:8081/app/tsp1/playlist.m3u8
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png",-True Sport HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1320,7 +1324,7 @@ http://45.136.252.97:8081/app/tsp1/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png",-True Sport HD2 Backup
-http://45.136.252.97:8081/app/tsp2/playlist.m3u8
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",-True Sport HD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1328,23 +1332,24 @@ http://45.136.252.97:8081/app/tsp2/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png",-True Sport HD3 Backup
-http://45.136.252.97:8081/app/tsp3/playlist.m3u8
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport SD5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport SD5 Backup
-http://45.136.252.97:8081/app/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport HD5
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png",-True Sport SD7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png",-True Sport SD7 Backup
-http://45.136.252.97:8081/app/tsp7/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png",-True Sport HD7 Backup
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",-beIN Sports 1🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1352,7 +1357,7 @@ http://45.136.252.97:8081/app/tsp7/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/bein1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",-beIN Sports 1🇹🇭 Backup
-http://45.136.252.97:8081/app/bein1/playlist.m3u8
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png",-beIN Sports 2🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1360,7 +1365,7 @@ http://45.136.252.97:8081/app/bein1/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/bein2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png",-beIN Sports 2🇹🇭 Backup
-http://45.136.252.97:8081/app/bein2/playlist.m3u8
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png",-beIN Sports 3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1368,52 +1373,61 @@ http://45.136.252.97:8081/app/bein2/playlist.m3u8
 https://cdn1.googlecdn.live/ballsod24hrs/bein3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png",-beIN Sports 3🇹🇭 Backup
-http://45.136.252.97:8081/app/bein3/playlist.m3u8
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png",-Sky SPORTS 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102403
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png",-Sky SPORTS 1 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102403.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png",-Sky SPORTS 2
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102402
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png",-Sky SPORTS 2 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102402.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png",-Sky SPORTS 3
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102401
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png",-Sky SPORTS 3 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102401.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png",-Sky SPORTS 4
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102400
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png",-Sky SPORTS 4 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102400.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png",-Sky SPORTS 5
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102399
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png",-Sky SPORTS 5 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102399.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png",-Sky SPORTS 6
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102398
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png",-Sky SPORTS 6 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102398.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png",-Sky SPORTS 7
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102397
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png",-Sky SPORTS 7 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102397.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png",-Sky SPORTS 8
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102396
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png",-Sky SPORTS 8 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102396.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png",-Sky SPORTS 9
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102395
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png",-Sky SPORTS 9 Backup
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102395.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg",-Sky SPORTS SELECT
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102394
@@ -1463,12 +1477,15 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/118745
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/118744
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="SPORTS",MUTV
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
 http://45.136.252.97:8081/app/mutv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="SPORTS",L.F.C.
+https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 http://45.136.252.97:8081/app/lfctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d14MK3D5/IMG-2486.png" group-title="SPORTS",NBA
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
 http://45.136.252.97:8081/app/nba/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
@@ -1507,6 +1524,7 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",-SPOTV SD Backup
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 http://45.136.252.97:8081/app/spotv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",-SPOTV 2SD
@@ -1514,6 +1532,7 @@ http://45.136.252.97:8081/app/spotv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",-SPOTV 2SD Backup
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 http://45.136.252.97:8081/app/spotv2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey               
@@ -1562,13 +1581,17 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-1/chunks.m3u8
 
+#EXTINF:-1 tvg-name="MONO MAX - 1" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 1 Backup
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=ts&play_token=Qvd1vJgupS
+
 #EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 2" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 2 Backup
-http://45.136.252.97:8081/app/monomax-2/playlist.m3u8
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=ts&play_token=Qvd1vJgupS
 
 #EXTINF:-1 tvg-name="MONO MAX - 3" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1576,6 +1599,7 @@ http://45.136.252.97:8081/app/monomax-2/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 3" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 3 Backup
+https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 http://45.136.252.97:8081/app/monomax-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS",MONO MAX - 4
@@ -1584,6 +1608,7 @@ http://45.136.252.97:8081/app/monomax-3/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 4" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 4 Backup
+https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 http://45.136.252.97:8081/app/monomax-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS",MONO MAX - 5
@@ -1592,6 +1617,7 @@ http://45.136.252.97:8081/app/monomax-4/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 5" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 5 Backup
+https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 http://45.136.252.97:8081/app/monomax-5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS",MONO MAX - 6
@@ -1600,6 +1626,7 @@ http://45.136.252.97:8081/app/monomax-5/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 6" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 6 Backup
+https://ww.dooballfree.vip/live/monomax-6/playlist.m3u8
 http://45.136.252.97:8081/app/monomax-6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS",MONO MAX - 7
@@ -1608,6 +1635,7 @@ http://45.136.252.97:8081/app/monomax-6/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
 
 #EXTINF:-1 tvg-name="MONO MAX - 7" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 7 Backup
+https://ww.dooballfree.vip/live/monomax-7/playlist.m3u8
 http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 <============================================ Sky Sports Group =============================================>
