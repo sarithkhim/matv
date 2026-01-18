@@ -1284,10 +1284,11 @@ http://cord-cutter.net:8080/100606595/100606595/35240
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",-True TENNIS
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776208&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776208&extension=m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-channel-thailand-us-th.png",-Golf Channel
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34613
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
 
 
 <===================================== SPORTS =================================>
