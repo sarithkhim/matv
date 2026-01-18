@@ -425,6 +425,7 @@ http://125.227.210.55:8165/VideoInput/play.ts
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD 中文国际🇨🇳
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34563
 http://125.227.210.55:8175/VideoInput/play.ts
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png",-CGTN English HD🇨🇳
