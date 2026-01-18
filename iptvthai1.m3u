@@ -409,7 +409,8 @@ http://originhd-1.dens.tv/h/h121/index.m3u8
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776014&extension=m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1163749&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776014&extension=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD BACKUP
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -421,13 +422,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS SD BACKUP
 http://125.227.210.55:8165/VideoInput/play.ts
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/789.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/789.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD 中文国际🇨🇳
@@ -1356,7 +1350,7 @@ https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport HD5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png",-True Sport HD5 Backup
 https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png",-True Sport SD7
@@ -1593,7 +1587,6 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
 
 #EXTINF:-1 tvg-name="MONO MAX - 1" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="SPORTS", MONO MAX - 1
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -1653,6 +1646,7 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 <============================================ Sky Sports Group =============================================>
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380095&extension=ts
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83447&extension=m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE Backup
@@ -1674,6 +1668,7 @@ http://cord-cutter.net:8080/100606595/100606595/137720
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83456&extension=m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380097&extension=ts
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83449&extension=m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX Backup
@@ -1686,6 +1681,7 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83454&extensio
 http://178.33.239.54:8080/503/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380093&extension=ts
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83453&extension=m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 Backup
@@ -1702,6 +1698,12 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83446&extensio
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",-SKY SPORTS NFL
 http://178.33.239.54:8080/504/index.m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Tennis
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380098&extension=ts
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Top Event
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380094&extension=ts
 
 
 <========================================== SuperSports Group =========================================>
@@ -1764,17 +1766,29 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396883&extens
 #EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",-Astro Premier League
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34535
 
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",-Astro Premier League Backup
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775975&extension=m3u8
+
 #EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",-Astro Premier League2
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34534
 
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",-Astro Premier League2 Backup
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775976&extension=m3u8
+
 #EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",-Astro Football
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34531
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",-Astro Football Backup
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775978&extension=m3u8
 
 #EXTINF:-1 group-title="Astro Group" tvg-logo="https://media.licdn.com/dms/image/C560BAQF2c1pfd9hAhA/company-logo_200_200/0/1636044195428?e=2147483647&v=beta&t=29hej187KebPKhbx7ET_ycWhiqUi3zvNKWYxQIhFUYk",-W-Sport
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34532
 
 #EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",-Astro Grandstand
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34533
+
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png",-Astro Grandstand Backup
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775977&extension=m3u8
 
 
 <========================================== INDONESIA TV🇮🇩 =========================================>
