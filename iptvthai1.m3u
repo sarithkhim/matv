@@ -238,80 +238,123 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
 <========================= CHINA TV🇨🇳 ====================================>
 
-#EXTINF:-1 group-logo=" " group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu-tv-international-cn.png",044-Jiangsu TV🇨🇳
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4k-cn.png",-CCTV-4k🇨🇳
+http://198.204.240.250:82/live/cctv4k.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",045-Hunan TV🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
-https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",-CCTV-1HD综合🇨🇳
+http://74.91.26.218:82/live/cctv1hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png",046-TVB Xing He🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",-CCTV-1HD综合🇨🇳 Backup
+http://69.30.245.50/live/cctv1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",047-Zhejiang TV🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
-https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png",-CCTV-2HD财经🇨🇳
+http://74.91.26.218:82/live/cctv2hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-international-channel-cn.png",048-Anhui TV🇨🇳
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
-https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png",-CCTV-2HD财经🇨🇳 Backup
+http://69.30.245.50/live/cctv2.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",049-Dragon TV🇨🇳
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",-CCTV-3HD文艺🇨🇳
+http://74.91.26.218:82/live/cctv3hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",050-Shenzen TV🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
-https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",-CCTV-3HD文艺🇨🇳 Backup
+http://69.30.245.50/live/cctv3.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",051-TVBS News🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-cn.png",-CCTV-4HD中文国际🇨🇳
+http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",052-TVBS Asia🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-cn.png",-CCTV-4HD中文国际🇨🇳 Backup
+http://69.30.245.50/live/cctv4.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",053-CCTV 4🇨🇳
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
-https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png",-CCTV-5HD体育🇨🇳
+http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS News🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-news-tw.png",054-TVBS News🇨🇳
-http://125.227.210.55:8186/VideoInput/play.ts
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png",-CCTV-5HD体育🇨🇳 Backup
+http://69.30.245.50/live/cctv5.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="TVBS Asia🇨🇳" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",055-TVBS Asia🇨🇳
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png",-CCTV-6HD电影🇨🇳
+http://74.91.26.218:82/live/cctv6hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png",-CCTV-6HD电影🇨🇳 Backup
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-7-cn.png",-CCTV-7HD国防军事🇨🇳
+http://74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-7-cn.png",-CCTV-7HD国防军事🇨🇳 Backup
+http://69.30.245.50/live/cctv7.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-8-cn.png",-CCTV-8HD电视剧🇨🇳
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-8-cn.png",-CCTV-8HD电视剧🇨🇳 Backup
+http://69.30.245.50/live/cctv8.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-9-cn.png",-CCTV-9HD纪录🇨🇳
+http://74.91.26.218:82/live/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-9-cn.png",-CCTV-9HD纪录🇨🇳 Backup
+http://69.30.245.50/live/cctv9.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-10-cn.png",-CCTV-10HD科教🇨🇳
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-10-cn.png",-CCTV-10HD科教🇨🇳 Backup
+http://69.30.245.50/live/cctv10.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-11-cn.png",-CCTV-11HD戏曲🇨🇳
+http://74.91.26.218:82/live/cctv11hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-11-cn.png",-CCTV-11HD戏曲🇨🇳 Backup
+http://69.30.245.50/live/cctv11.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-12-cn.png",-CCTV-12HD社会与法🇨🇳
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-12-cn.png",-CCTV-12HD社会与法🇨🇳 Backup
+http://69.30.245.50/live/cctv12.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-13-cn.png",-CCTV-13HD新闻🇨🇳
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-13-cn.png",-CCTV-13HD新闻🇨🇳 Backup
+http://go.bkpcp.top/mg/cctv13
+http://69.30.245.50/live/cctv13.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-14-cn.png",-CCTV-14HD少儿🇨🇳
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-14-cn.png",-CCTV-14HD少儿🇨🇳 Backup
+http://69.30.245.50/live/cctv14.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-15-cn.png",-CCTV-15HD音乐🇨🇳
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-15-cn.png",-CCTV-15HD音乐🇨🇳 Backup
+http://69.30.245.50/live/cctv15.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-16-cn.png",-CCTV-16HD奧林匹克🇨🇳
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-16-cn.png",-CCTV-16HD奧林匹克🇨🇳 Backup
+http://69.30.245.50/live/cctv16.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png",-CCTV-17HD奧林匹克🇨🇳
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png",-CCTV-17HD奧林匹克🇨🇳 Backup
+http://69.30.245.50/live/cctv17.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-golf-and-tennis-cn.png",-CCTV-Golf & Tennis🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-soccer-cn.png",-CCTV-Storm Football🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-billiards-cn.png",-CCTV-Billiards🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",056-绍兴新闻综合🇨🇳
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/11/hls.m3u8
-http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/10656
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",057-CCTV-4FHD 中文国际🇨🇳
 http://125.227.210.55:8175/VideoInput/play.ts
@@ -322,12 +365,6 @@ http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
-#EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="CHINA TV🇨🇳",IQIYI 🇲🇾
-https://ott.udptv.xyz/stream/astro/iqiyi/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xing-kong-international-cn.png" group-title="CHINA TV🇨🇳",Xingkong
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 
 <========================= TV VIETNAM ====================================>
 
