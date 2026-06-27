@@ -238,8 +238,47 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 
 <========================= CHINA TV🇨🇳 ====================================>
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4k-cn.png",-CCTV-4k🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/fxusYlX.png",CCTV-4k🇨🇳
 http://198.204.240.250:82/live/cctv4k.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/iqJJTmH.png",CCTV-Golf & Tennis🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/Fy6HkX0.png",CCTV-Storm Football🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/WK3keM9.png",CCTV-Billiards🇨🇳
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/Paig8gG.png",CCTV-Culture of Quality (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/AzpRtCz.png",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/TVs9PBc.png",CCTV-Nostalgia Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/IiiRmrf.png",CCTV-Storm Music (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/rEttkKm.png",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/eFxD3hq.png",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/QlF96eS.png",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/FVbP0aP.png",CCTV-Women's Fashion (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/V2ncOXi.png",CCTV-World Geography (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",-绍兴新闻综合🇨🇳
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",-CCTV-1HD综合🇨🇳
 http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -343,18 +382,6 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png",-CCTV-17HD奧林匹克🇨🇳 Backup
 http://69.30.245.50/live/cctv17.m3u8
-
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-golf-and-tennis-cn.png",-CCTV-Golf & Tennis🇨🇳
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-soccer-cn.png",-CCTV-Storm Football🇨🇳
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://logos.fandom.com/wiki/CCTV-Billiards?file=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png",-CCTV-Billiards🇨🇳
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-url="https://bit.ly/UnifyEpg" tvg-id="绍兴新闻综合🇨🇳" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/绍兴新闻综合.jpg",-绍兴新闻综合🇨🇳
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4FHD 中文国际🇨🇳
 http://125.227.210.55:8175/VideoInput/play.ts
@@ -724,12 +751,23 @@ http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34571
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia SD
+http://54.37.19.157/axn/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",-AXN Asia SD
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775981&extension=m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia SD Backup
+http://cdn.haititivi.com/AXN/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic
+http://88.212.15.19/live/test_black/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic Backup
+http://82.78.243.219:45739/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/47IKxmt.png",AXN White
+http://88.212.15.19/live/test_white/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",-CINEMAX HD🇹🇭
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776056&extension=m3u8
