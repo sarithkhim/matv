@@ -563,7 +563,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h241/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc.png",-CNBC Asia SD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://adtechtoday.com/wp-content/uploads/2025/12/cnbc-new-logo-versant-media-spin-off-2025.png",-CNBC Asia SD
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 
