@@ -298,10 +298,10 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",-CCTV-3HD文艺🇨🇳 Backup
 http://69.30.245.50/live/cctv3.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-cn.png",-CCTV-4HD中文国际🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD中文国际🇨🇳
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-cn.png",-CCTV-4HD中文国际🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD中文国际🇨🇳 Backup
 http://69.30.245.50/live/cctv4.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png",-CCTV-5HD体育🇨🇳
@@ -626,6 +626,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://tplay.dinesh29.com.np/live/tataplay-universal/australia-tv/index.ts
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
+
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/optimized/3X/a/8/a8852485b71eec65d943673f668e0edebeedb087_2_255x250.jpeg",-ABC TV Plus HD
+https://c.mjh.nz/abc-tv-plus.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-style-fr.png",-TV5 Monde style
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
