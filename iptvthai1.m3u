@@ -1110,15 +1110,28 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_discoveryasia.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://125.227.210.55:8154/VideoInput/play.ts
 
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History (720p)
+c
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://82.78.243.219:45739/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.19/live/test_history/playlist.m3u8
+
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mGdui2OAQjymvXwm-BSBWAHaDc?rs=1&pid=ImgDetMain&o=7&rm=3",-History 2 FHD🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",-History SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i.imgur.com/XIfDbGX.png",-History🇹🇭
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",HGTV (1080p)
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg?resize=1200%2C750",-BBC Earthᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
