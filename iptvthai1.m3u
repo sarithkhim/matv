@@ -1357,16 +1357,14 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf HD
 http://cord-cutter.net:8080/100606595/100606595/35240
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png",-SkySports Golf FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports",Golf Zone (1080p)
+http://91.146.94.234:10001/play/a04b
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_tennis.png",-True TENNIS
 http://195.128.27.141:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776208&extension=m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-channel-thailand-us-th.png",-Golf Channel
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",-Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34613
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
 
