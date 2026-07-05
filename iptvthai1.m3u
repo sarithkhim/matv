@@ -461,7 +461,7 @@ http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
 <========================= TV BREAKING NEWS ====================================>
 
 
-#EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png",-TV5 Monde ASIE SD
+#EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://bo-apac.tv5monde.com/sites/default/files/2020-02/TV5_Monde_Asie.png",-TV5 Monde ASIE SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -472,24 +472,23 @@ http://originhd-1.dens.tv/h/h121/index.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/top-news-th.png",-TOP NEWS HD
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1163749&extension=m3u8
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/elZyUjX.png",-CNN Prima News(1080p)
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776014&extension=m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",-CNN NEWS ASIA HD BACKUP
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-http://125.227.210.55:8166/VideoInput/play.ts
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS SD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnqnPqPD_MxDhdXTrAIqFXI6uarBW_jT6iQ&s",-BBC NEWS SD BACKUP
 http://125.227.210.55:8165/VideoInput/play.ts
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD 中文国际🇨🇳
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34563
 http://125.227.210.55:8175/VideoInput/play.ts
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png",-CGTN English HD🇨🇳
@@ -508,12 +507,12 @@ http://line.ottcst.com:80/MWJ2ULTVZ6/VAVXD8F2DH/290981
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png",-CNA FHD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",-CNA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0;Win64;x64) AppleWebkit/537.36(KHTML,like Gecko) Chrome/81.0.4.44.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png",-CNA HD BACKUP
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",-CNA HD BACKUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
@@ -524,14 +523,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png",-Français 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang HD
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1795710359724269568/kRtFQ1eD_400x400.jpg",-Arirang HD
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang.png",-Arirang SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1795710359724269568/kRtFQ1eD_400x400.jpg",-Arirang SD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="BREAKING NEWS",-NHK World Japan SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
