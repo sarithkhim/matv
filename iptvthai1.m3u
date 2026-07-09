@@ -1415,6 +1415,12 @@ http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/04/Fox-Corporation-Logo-Vector.jpg",-FOX 26 HD
 http://206.212.244.63/64/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/04/Fox-Corporation-Logo-Vector.jpg",-FOX 26 HD
+http://206.212.244.63/65/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/04/Fox-Corporation-Logo-Vector.jpg",-FOX 26 HD
+http://206.212.244.63/63/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png",-WWE NETWORK FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/17082
 #KODIPROP:inputstream.adaptive.license_type=clearkey
