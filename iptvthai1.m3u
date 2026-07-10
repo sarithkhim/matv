@@ -1421,6 +1421,15 @@ http://206.212.244.63/65/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/04/Fox-Corporation-Logo-Vector.jpg",-FOX 26 HD
 http://206.212.244.63/63/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewscripps.brightspotcdn.com/78/22/b1a229594f5aab507c5d79c7fcd4/scripps-fox13-1.jpg",-FOX 13 Seattle WA (KCPQ)
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.squarespace-cdn.com/content/v1/647f8b3a0d161b1d8003486c/cf3b6334-89cb-4f5b-ae45-3714fcecd95c/Fox_11_Los_Angeles_logo.jpg",-FOX 11 Green Bay WI (WLUK) (1080p)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/KOKH-TV_logo.png",-FOX 25 Oklahoma City OK (KOKH) (1080p)
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png",-WWE NETWORK FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/17082
 #KODIPROP:inputstream.adaptive.license_type=clearkey
