@@ -541,6 +541,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png",-CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://babaktv.com/wp-content/uploads/2022/11/DW-English.jpg",-DW English FHD
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
