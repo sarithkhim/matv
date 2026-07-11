@@ -219,8 +219,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-3-th.png",039-CH3HD🇹🇭
-https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776006&extension=m3u8
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://photos.live-tv-channels.org/tv-logo/amarin-34-hd-8122-w360.webp",040-AMARIN34HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
