@@ -1391,6 +1391,9 @@ https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://i.imgur.com/J0TY9dG.png",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://thegolfwire.com/wp-content/uploads/2020/06/cbs-pga-nbc.png",CBS PGA TOUR
+http://stream.cammonitorplus.net/1798/index.m3u8
+
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports",Golf Zone (1080p)
 http://91.146.94.234:10001/play/a04b
 
