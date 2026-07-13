@@ -863,8 +863,7 @@ http://103.137.83.62:9090/play/20/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+http://103.137.83.62:9090/play/22/index.m3u8
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -895,20 +894,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h202/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",-Celestial Movies SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h14/index.m3u8
+http://103.137.83.62:9090/play/24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-CCM
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h31/index.m3u8
+http://103.137.83.62:9090/play/23/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-CCM SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -1454,7 +1443,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/17082
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png",-FIGHT SPORTS SD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+http://103.137.83.62:9090/play/34/index.m3u8
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
