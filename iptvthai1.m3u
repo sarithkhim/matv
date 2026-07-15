@@ -1809,35 +1809,20 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396883&extens
 <========================================== Astro Group =========================================>
 
 
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",-Astro Premier League
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34535
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +8 (576p)
+http://188.113.190.13/1/video.m3u8
 
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",-Astro Premier League Backup
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775975&extension=m3u8
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One HD (720p)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",-Astro Premier League2
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34534
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +9 (576p)
+http://188.113.190.13/2/video.m3u8
 
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",-Astro Premier League2 Backup
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775976&extension=m3u8
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +10 (576p)
+http://188.113.190.13/3/video.m3u8
 
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",-Astro Football
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34531
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",-Astro Football Backup
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775978&extension=m3u8
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://media.licdn.com/dms/image/C560BAQF2c1pfd9hAhA/company-logo_200_200/0/1636044195428?e=2147483647&v=beta&t=29hej187KebPKhbx7ET_ycWhiqUi3zvNKWYxQIhFUYk",-W-Sport
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34532
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",-Astro Grandstand
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34533
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png",-Astro Grandstand Backup
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775977&extension=m3u8
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png",-Astro Cricket
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775974&extension=m3u8
+#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +11 (576p)
+http://188.113.190.13/4/video.m3u8
 
 
 <========================================== INDONESIA TV🇮🇩 =========================================>
