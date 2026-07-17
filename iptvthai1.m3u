@@ -1598,14 +1598,21 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",-EUROSPORT 2HD Backup
 http://145.239.5.177/530/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",-FS 1HD US
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/O9BapV9.png",-FS 1HD US
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png",-FS 2HD US
-https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LHtxKI8.png",-FS 2HD US
+https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
 https://fl4.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="SPORTS",-Fox Sports Premium (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23054
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="SPORTS",-Fox Soccer Plus (720p)
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",-SPOTV SD
 http://103.137.83.62:9090/play/32/index.m3u8
