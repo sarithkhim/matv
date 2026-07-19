@@ -1015,7 +1015,7 @@ http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776247&e
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776050&extension=m3u8
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776050&extension=m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.brandfetch.io/idpHGbw__k/w/2048/h/2048/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1781859799172",-MCE HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxOShh15OP7q9LIJQiQFgx5sTKwCu07NGmW2_li6oEuZ1vHaRrj8Ck00&s=10",-MCE HD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
