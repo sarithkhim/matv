@@ -1015,12 +1015,12 @@ http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776247&e
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776050&extension=m3u8
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776050&extension=m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://village-emploi.fr/wp-content/uploads/2020/05/Logo-MCETV-header.png",-MCE HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.brandfetch.io/idpHGbw__k/w/2048/h/2048/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1781859799172",-MCE HD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h258/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV🇹🇭
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776044&extension=m3u8
