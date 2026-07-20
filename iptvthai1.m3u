@@ -1071,8 +1071,8 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776182&exte
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776182&extension=m3u8
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776182&extension=m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317",-Star Movies Select HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/sOYAnTB.png",-Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",-Bollywood-HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -1412,8 +1412,8 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://thegolfwire.com/wp-content/uploads/2020/06/cbs-pga-nbc.png",CBS PGA TOUR
 http://stream.cammonitorplus.net/1798/index.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports",Golf Zone (1080p)
-http://91.146.94.234:10001/play/a04b
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://golf-pass.brightspotcdn.com/dims4/default/715968b/2147483647/strip/true/crop/549x549+140+0/resize/1200x1200!/format/webp/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2F65%2Fba%2F920cfc254071895a5eebfc537226%2Fgp-byline-copy.jpg" group-title="Sports",GolfPass (1080p)
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU2V30wcG_K9VLKPtjQFzEmStC5xth2xt6VanHjkwslaHyi5cGHPD5Nk&s=10",Golf Channel Latin America
 http://72.1.184.5:8089/play/a0cw/index.m3u8
