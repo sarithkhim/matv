@@ -1625,6 +1625,9 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23054
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="SPORTS",-Fox Soccer Plus (720p)
 http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="SPORTS",-FTF Sports (720p)
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",-SPOTV SD
 http://103.137.83.62:9090/play/32/index.m3u8
 
