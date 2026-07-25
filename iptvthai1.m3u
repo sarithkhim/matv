@@ -1741,62 +1741,61 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 <============================================ Sky Sports Group =============================================>
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD02
 https://xemzi.short.gy/2000002
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE Backup
-http://178.33.239.54:8080/506/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD18
+https://xemzi.short.gy/2000018
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL HD03
 https://xemzi.short.gy/2000003
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL Backup
-http://178.33.239.54:8080/500/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",390-SKY SPORTS FOOTBALL HD17
+https://xemzi.short.gy/2000017
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT HD01
 https://xemzi.short.gy/2000001
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT Backup
-http://cord-cutter.net:8080/100606595/100606595/137720
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS MAIN EVENT HD16
+https://xemzi.short.gy/2000016
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",-Sky Sports Golf HD (1080p)
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png",-Sky Sports Golf HD09
 https://xemzi.short.gy/2000009
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=380097&extension=ts
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83449&extension=m3u8
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX Backup
-http://178.33.239.54:8080/507/index.m3u8
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD
-https://xemzi.short.gy/2000006
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET Backup
-http://178.33.239.54:8080/503/index.m3u8
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD
-https://xemzi.short.gy/2000005
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 Backup
-http://178.33.239.54:8080/508/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png",-SKY Sports+ HD
-https://xemzi.short.gy/2000004
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",-SKY SPORTS NEWS HD
-https://xemzi.short.gy/2000007
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD08
 https://xemzi.short.gy/2000008
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",-SKY SPORTS NFL
-http://178.33.239.54:8080/504/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",-SKY SPORTS MIX HD15
+https://xemzi.short.gy/2000015
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Tennis
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD06
+https://xemzi.short.gy/2000006
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",-SKY SPORTS CRICKET HD14
+https://xemzi.short.gy/2000014
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD05
+https://xemzi.short.gy/2000005
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",-SKY SPORTS F1 HD13
+https://xemzi.short.gy/2000013
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png",-SKY Sports+ HD04
+https://xemzi.short.gy/2000004
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",-SKY SPORTS NEWS HD07
+https://xemzi.short.gy/2000007
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD10
 https://xemzi.short.gy/2000010
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Top Event
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",-SKY SPORTS NFL12
+https://xemzi.short.gy/2000012
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS MIX19
+https://xemzi.short.gy/2000019
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Action11
 https://xemzi.short.gy/2000011
 
 
