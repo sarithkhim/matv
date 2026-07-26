@@ -1422,8 +1422,9 @@ https://d2icntm6fhxrry.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU2V30wcG_K9VLKPtjQFzEmStC5xth2xt6VanHjkwslaHyi5cGHPD5Nk&s=10",Golf Channel Latin America
 http://72.1.184.5:8089/play/a0cw/index.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",-Golf Channel
-http://23.237.104.106:8080/USA_GOLF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="GOLF & TENNIS",Golf Channel (1080p)
+https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",-Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -1435,6 +1436,9 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&exte
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",-Hi Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="EDGEsport.uk@SD" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="SPORTS",EDGEsport (576p)
+https://sra72yz.s.gy/EDGE_SPORTS_SD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="SPORTS",TSN1 (1080p)
 http://40.160.24.55/TSN_1/index.m3u8
