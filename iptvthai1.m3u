@@ -1749,16 +1749,16 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 <============================================ Sky Sports Group =============================================>
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD02
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE HD02
 https://xemzi.short.gy/2000002
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",-SKY SPORTS PREMIER LEAGUE HD190
-https://xemzi.short.gy/2000190
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE HD101
+https://xemzi.short.gy/1000002
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",-SKY SPORTS FOOTBALL HD03
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",-SKY SPORTS FOOTBALL HD03
 https://xemzi.short.gy/2000003
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",-SKY SPORTS FOOTBALL HD20
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",-SKY SPORTS FOOTBALL HD20
 https://xemzi.short.gy/1000020
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS NEWS HD01
