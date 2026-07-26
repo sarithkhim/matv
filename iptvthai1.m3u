@@ -773,6 +773,9 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776086&exten
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.png",-Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
