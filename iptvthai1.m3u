@@ -948,12 +948,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h21/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/5q0nLwINeBs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDVXqacsItWZqw6FkwKjmPNWklE3A",-Cinema World SD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h202/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="MOVIES",-CinemaWorld (720p)
+https://cdn.qd.je/163189/cinemaworld
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",-Celestial Movies SD
 http://103.137.83.62:9090/play/24/index.m3u8
