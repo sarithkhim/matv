@@ -477,7 +477,7 @@ https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Vnnna1C.png",-VTV 5FHD🇻🇳 Backup
-https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5/live-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",070-VTV 5FHD Tây Nam Bộ🇻🇳
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
@@ -485,15 +485,17 @@ https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/xiuHjEQ.png",070-VTV 5FHD Tây Nam Bộ🇻🇳 Backup
-https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Hlcnqqt.png",071-VTV 5FHD Tây Nguyên🇻🇳
+https://live-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Hlcnqqt.png",071-VTV 5FHD Tây Nguyên🇻🇳 Backup
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/44.m3u8
 
-#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/736x/6c/d1/f5/6cd1f5f0779078e1f3265d0e684b63d4--vi%E1%BB%87t-nam-television.jpg",072-VTV cần thơ FHD🇻🇳
+#EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/736x/6c/d1/f5/6cd1f5f0779078e1f3265d0e684b63d4--vi%E1%BB%87t-nam-television.jpg",-VTV cần thơ FHD🇻🇳
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 
