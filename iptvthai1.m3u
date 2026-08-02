@@ -3,6 +3,27 @@
 #EXTINF:-1 group-logo=" " group-title="TV KHMER🇰🇭" tvg-name="" tvg-country= "ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳030
+http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳031
+http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳032
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳033
+http://nmk.ioapk.com:5050/4gtv-live033/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳034
+http://nmk.ioapk.com:5050/4gtv-live034/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳035
+http://nmk.ioapk.com:5050/4gtv-live035/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳036
+http://nmk.ioapk.com:5050/4gtv-live036/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳037
+http://nmk.ioapk.com:5050/4gtv-live037/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳039
+http://nmk.ioapk.com:5050/4gtv-live039/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳040
+http://nmk.ioapk.com:5050/4gtv-live040/index.m3u8
+
 #EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",002-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
@@ -1106,26 +1127,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h15/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳138
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳130
-http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳131
-http://nmk.ioapk.com:5050/4gtv-live131/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳132
-http://nmk.ioapk.com:5050/4gtv-live132/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳133
-http://nmk.ioapk.com:5050/4gtv-live133/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳134
-http://nmk.ioapk.com:5050/4gtv-live134/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳135
-http://nmk.ioapk.com:5050/4gtv-live135/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳136
-http://nmk.ioapk.com:5050/4gtv-live136/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳137
-http://nmk.ioapk.com:5050/4gtv-live137/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳139
-http://nmk.ioapk.com:5050/4gtv-live139/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳140
-http://nmk.ioapk.com:5050/4gtv-live140/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
