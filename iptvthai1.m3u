@@ -1254,10 +1254,14 @@ https://i.mjh.nz/.r/sky-hgtv.m3u8
 http://185.102.171.218/BBCEarth/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="KNOWLEDGE TV",BBC Earth Czechia
-http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+c
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="KNOWLEDGE TV",BBC Earth Greece
 http://185.102.171.218/BBCEarth/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="KNOWLEDGE TV",BBC First Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.29/live/bbc_first/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",-TLC FHD
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776070&extension=m3u8
