@@ -1253,9 +1253,11 @@ https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg",-BBC Earthᴸᴼᵂ
 http://185.102.171.218/BBCEarth/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.mYKehvhFkxGJencAgfBvxQAAAA?r=0&cb=thfvnext&pid=ImgDet&w=191&h=107&c=7&o=7&rm=3" group-title="KNOWLEDGE TV",-Love Nature SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="KNOWLEDGE TV",BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="KNOWLEDGE TV",BBC Earth Greece
+http://185.102.171.218/BBCEarth/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",-TLC FHD
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776070&extension=m3u8
