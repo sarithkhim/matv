@@ -1891,7 +1891,8 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE HD02
 https://xemzi.short.gy/2000002
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",-SKY SPORTS FOOTBALL HD03
@@ -1904,16 +1905,19 @@ https://xemzi.short.gy/1000020
 https://xemzi.short.gy/1000001
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.ytimg.com/vi/h1mb9mNx5zc/hqdefault.jpg",-SKY SPORTS MAIN EVENT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Sport_Golf_-_Logo_2026.svg/1280px-Sky_Sport_Golf_-_Logo_2026.svg.png",-Sky Sports Golf HD
 https://xemzi.short.gy/2000009
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/960px-Sky_Sport_Mix_Logo_2022.svg.png",-SKY SPORTS MIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
 https://xemzi.short.gy/2000008
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sky_Sport_Max_-_Logo_2026.svg/960px-Sky_Sport_Max_-_Logo_2026.svg.png",-SKY SPORTS MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
 https://xemzi.short.gy/2000015
 
@@ -1921,6 +1925,7 @@ https://xemzi.short.gy/2000015
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sky_Sports_Cricket_-_Logo_2025.svg/960px-Sky_Sports_Cricket_-_Logo_2025.svg.png",-SKY SPORTS CRICKET Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 https://xemzi.short.gy/2000014
 
@@ -1928,6 +1933,7 @@ https://xemzi.short.gy/2000014
 https://xemzi.short.gy/2000005
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png",-SKY SPORTS F1 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 https://xemzi.short.gy/2000013
 
@@ -1942,9 +1948,6 @@ https://xemzi.short.gy/2000010
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",-SKY SPORTS NFL12
 https://xemzi.short.gy/2000012
-
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS MIX19
-https://xemzi.short.gy/2000019
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-tennis-uk.png",-SKY SPORTS Action11
 https://xemzi.short.gy/2000011
