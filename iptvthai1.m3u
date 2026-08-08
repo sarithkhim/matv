@@ -560,6 +560,31 @@ https://live-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="TV VIETNAM🇻🇳",-HTV Thể thaoHD🇻🇳 Backup
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="TV VIETNAM🇻🇳",ON Kids🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="TV VIETNAM🇻🇳",ON Life🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="TV VIETNAM🇻🇳",ON Movies🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png" group-title="TV VIETNAM🇻🇳",ON Vie Drama🇻🇳
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png" group-title="TV VIETNAM🇻🇳",ON Vie Drama🇻🇳 Backup
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision/latest?cb=20251220172737&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Phimvet🇻🇳 Backup
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/ON_Cine_logo.png/revision/latest?cb=20210910161929&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Cine🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/ON_BiBi_Tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest?cb=20241022005743&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON BIBBI🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
+
 
 <========================= TV BREAKING NEWS ====================================>
 
