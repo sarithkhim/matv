@@ -440,6 +440,9 @@ http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",-CCTV-5+ Backup🇨🇳
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+
 
 <========================= TV VIETNAM ====================================>
 
