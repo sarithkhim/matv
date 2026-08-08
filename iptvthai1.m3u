@@ -584,6 +584,25 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/ON_BiBi_Tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest?cb=20241022005743&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON BIBBI🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/ON_E_Channel_08-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20231122022922&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON E Channel🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/ON_Style.png/revision/latest?cb=20230228111231&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Style🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/ON_Music.png/revision/latest?cb=20240912153122" group-title="TV VIETNAM🇻🇳",ON Music🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Trending_TV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_09-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20250111103016&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON TrenJing🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_VFamily_-_Copyright_by_VTVcab_logo.png/revision/latest/scale-to-width-down/1200?cb=20230420065849&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON VFamily🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON info🇻🇳
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+
 
 
 <========================= TV BREAKING NEWS ====================================>
