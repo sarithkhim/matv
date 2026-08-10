@@ -280,6 +280,9 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg",Harbin Comprehensive News Channel🇨🇳
 https://stream.hrbtv.net/xwzh/playlist.m3u8
 
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/6YPZc24.png",Channel 8🇨🇳
+https://cdn.qd.je/163189/ch8
+
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",CCTV-4 America🇨🇳
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
