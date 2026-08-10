@@ -611,7 +611,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="TV VIETNAM🇻🇳",SCTV2 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="TV VIETNAM🇻🇳",SCTV3 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="TV VIETNAM🇻🇳",SCTV3 Backup
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="TV VIETNAM🇻🇳",SCTV4 (720p)
