@@ -857,10 +857,18 @@ http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=4944
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Kids Channels",Disney Channel
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Kids Channels",Disney Channel Backup
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Kids Channels",Disney Junior
+http://190.93.224.42/DISNEY-JR/index.m3u8
 https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Kids Channels",Disney Junior Backup
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Kids Channels",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -877,8 +885,12 @@ http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png",-Nickelodeon SD
+http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png",-Nickelodeon Backup
+http://stream.mcquack.net/443/index.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids Channels" tvg-id="Cartoon Network" ,Cartoon Network HD🇵🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -888,6 +900,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
 #EXTINF:-1 group-title="Kids Channels" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png",-DreamWorks SD
+https://cdn12.178.indevs.in/163189/dreamworks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
@@ -895,8 +908,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="Kids Channels",-nick.jr SD
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="Kids Channels",-nick.jr Backup
+http://stream.mcquack.net/220/index.m3u8
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="Kids Channels",-nick.jr Asia🇨🇳
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -914,6 +934,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
 #EXTINF:-1 group-title="Kids Channels" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",NICKELODEON🇹🇭
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
