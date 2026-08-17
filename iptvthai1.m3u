@@ -1671,7 +1671,7 @@ http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png",-UFC Fight Pass
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/v2/icons/channels/v2/141-setanta-sports-hd.png" group-title="SPORTS",Setanta Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS",Setanta Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
 
@@ -1693,7 +1693,7 @@ http://stream.mcquack.net/234/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="SPORTS",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/234/index.m3u8
+http://stream.mcquack.net/235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="SPORTS",Setanta Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
