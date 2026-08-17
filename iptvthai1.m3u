@@ -296,7 +296,13 @@ http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong_cn_satellite.png",Guangdong Satellite TV🇨🇳
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/6YPZc24.png",Channel 8🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-greater-bay-area-satellite-tv-cn.png",Guangdong TV America🇨🇳
+https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangzhou-tv-cn.png",Guangzhou TV🇨🇳
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/M8_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025742",Channel 8🇨🇳
 https://cdn.qd.je/163189/ch8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",CCTV-4 America🇨🇳
@@ -1702,28 +1708,19 @@ http://88.212.15.19/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk@SD" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="SPORTS",EDGEsport (576p)
 https://sra72yz.s.gy/EDGE_SPORTS_SD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1 Eurasia (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/234/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2 Eurasia (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/235/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHAP4p0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports+ Ukraine (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/390/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports Select 1 HD (720p)
-http://tvsen7.aynascope.net/sspts1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (720p)
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="SPORTS",TSN1 (1080p)
+https://7nyaler.streamhostingcdn.top/stream/44/index.m3u8
 http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="SPORTS",TSN2 (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="SPORTS",TSN2
+https://7nyaler.streamhostingcdn.top/stream/75/index.m3u8
 http://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="SPORTS",TSN3 (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="SPORTS",TSN3
+https://7nyaler.streamhostingcdn.top/stream/71/index.m3u8
 http://40.160.24.55/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="SPORTS",TSN4 (1080p)
 http://40.160.24.55/TSN_4/index.m3u8
