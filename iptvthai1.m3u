@@ -1669,6 +1669,9 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&exte
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",-Hi Sport
 http://49.0.64.96:8007/HiSports
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="SPORTS",Premier Football (1080p)
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png",-UFC Fight Pass
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
