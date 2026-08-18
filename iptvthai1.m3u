@@ -2028,17 +2028,17 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 <============================================ Sky Sports Group =============================================>
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20Premier%20League-OTT.png",-SKY SPORTS PREMIER LEAGUE HD02
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsPremierLeague-OTT.jpg",-SKY SPORTS PREMIER LEAGUE HD02
 https://xemzi.short.gy/2000002
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsPremierLeague-OTT.jpg",-SKY SPORTS PREMIER LEAGUE Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",-SKY SPORTS FOOTBALL HD03
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsFootball-OTT.jpg",-SKY SPORTS FOOTBALL HD03
 https://xemzi.short.gy/2000003
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",-SKY SPORTS FOOTBALL Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsFootball-OTT.jpg",-SKY SPORTS FOOTBALL Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 https://xemzi.short.gy/1000020
@@ -2046,14 +2046,14 @@ https://xemzi.short.gy/1000020
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS NEWS HD01
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sky_Sports_Main_Event_UHD_logo.jpg/960px-Sky_Sports_Main_Event_UHD_logo.jpg",-SKY SPORTS MAIN EVENT HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsMainEvent-OTT.jpg",-SKY SPORTS MAIN EVENT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Sport_Golf_-_Logo_2026.svg/1280px-Sky_Sport_Golf_-_Logo_2026.svg.png",-Sky Sports Golf HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsGolf-OTT.jpg",-Sky Sports Golf HD
 https://xemzi.short.gy/2000009
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/960px-Sky_Sport_Mix_Logo_2022.svg.png",-SKY SPORTS MIX HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsMix-OTT.jpg",-SKY SPORTS MIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
 https://xemzi.short.gy/2000008
@@ -2063,18 +2063,18 @@ https://xemzi.short.gy/2000008
 https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sky_Sports_Cricket_-_Logo_2025.svg/960px-Sky_Sports_Cricket_-_Logo_2025.svg.png",-SKY SPORTS CRICKET HD
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsCricket-OTT.jpg",-SKY SPORTS CRICKET HD
 https://xemzi.short.gy/2000006
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sky_Sports_Cricket_-_Logo_2025.svg/960px-Sky_Sports_Cricket_-_Logo_2025.svg.png",-SKY SPORTS CRICKET Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsCricket-OTT.jpg",-SKY SPORTS CRICKET Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 https://xemzi.short.gy/2000014
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20F1-OTT.png",-SKY SPORTS F1 HD05
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/SkySportsF1-OTT.png",-SKY SPORTS F1 HD05
 https://xemzi.short.gy/2000005
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20F1-OTT.png",-SKY SPORTS F1 Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/SkySportsF1-OTT.png",-SKY SPORTS F1 Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 https://xemzi.short.gy/2000013
@@ -2085,14 +2085,14 @@ https://xemzi.short.gy/2000004
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",-SKY SPORTS NEWS HD18
 https://xemzi.short.gy/1000018
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",-SKY SPORTS Racing HD10
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsRacing-OTT.jpg",-SKY SPORTS Racing HD10
 https://xemzi.short.gy/2000010
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sky_Sport_Action_HD.svg/960px-Sky_Sport_Action_HD.png",-SKY SPORTS Action Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsAction-OTT.jpg",-SKY SPORTS Action Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sky_Sport_Action_HD.svg/960px-Sky_Sport_Action_HD.png",-SKY SPORTS Action
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://burning-pink-msbrqz1e.edgeone.dev/SkySportsAction-OTT.jpg",-SKY SPORTS Action
 https://xemzi.short.gy/2000011
 
 
