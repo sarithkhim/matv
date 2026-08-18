@@ -2028,7 +2028,7 @@ http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 <============================================ Sky Sports Group =============================================>
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE HD02
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20Premier%20League-OTT.png",-SKY SPORTS PREMIER LEAGUE HD02
 https://xemzi.short.gy/2000002
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sport_Premier_League_DE_logo_v2.png",-SKY SPORTS PREMIER LEAGUE Backup
@@ -2071,10 +2071,10 @@ https://xemzi.short.gy/2000006
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 https://xemzi.short.gy/2000014
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png",-SKY SPORTS F1 HD05
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20F1-OTT.png",-SKY SPORTS F1 HD05
 https://xemzi.short.gy/2000005
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png",-SKY SPORTS F1 Backup
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://apparent-maroon-a6zrrvwc.edgeone.dev/Sky%20Sports%20F1-OTT.png",-SKY SPORTS F1 Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 https://xemzi.short.gy/2000013
