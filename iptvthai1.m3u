@@ -839,6 +839,9 @@ https://streaming.livescorethai.net/iptv/fr-tv5pacific.stream/playlist.m3u8
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/qQ33TVM.png",-ABC Australia (480p)
+https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IjSkPjezek4r6de2fvyxdfo4qw6eNqjvqMpFVEOxz6XHhPhKGVn_P8DCyjPFujPzg_4&usqp=CAU",-ABC AUSTRALIA HD
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 https://tplay.dinesh29.com.np/live/tataplay-universal/australia-tv/index.ts
@@ -1028,6 +1031,9 @@ http://125.227.210.55:4050/VideoInput/play.ts
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 http://103.137.83.62:9090/play/21/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia (480p)
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia SD Backup
 http://znty.dyndns.org:5010/hls/axn.m3u8
