@@ -305,6 +305,9 @@ https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangzhou-tv-cn.png",Guangzhou TV🇨🇳
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png" group-title="CHINA TV🇨🇳",Anhui TV🇨🇳
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/M8_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025742",Channel 8🇨🇳
 https://cdn.qd.je/163189/ch8
 
