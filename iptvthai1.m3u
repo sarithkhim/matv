@@ -2047,6 +2047,14 @@ https://xemzi.short.gy/2000002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/ygjf2H0j/Sky-Sports-Austria.jpg",-Sky Sport austria 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/2LdtkWph/Sky-Sport-Bundesliga.jpg",-Sky Sport Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
+
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL HD03
 https://xemzi.short.gy/2000003
 
