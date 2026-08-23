@@ -360,22 +360,22 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",-CCTV-1HD综合🇨🇳
-http://go.bkpcp.top/mg/cctv1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+http://go.bkpcp.top/mg/cctv1
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",-CCTV-1HD综合🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/TpA3cUl.png",-CCTV-1HD综合🇨🇳 Backup
 http://69.30.245.50/live/cctv1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",-CCTV-2HD财经🇨🇳
 http://74.91.26.218:82/live/cctv2hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",-CCTV-2HD财经🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/ILamhwU.png",-CCTV-2HD财经🇨🇳 Backup
 http://69.30.245.50/live/cctv2.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",-CCTV-3HD文艺🇨🇳
 http://74.91.26.218:82/live/cctv3hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",-CCTV-3HD文艺🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/iFlkIuw.png",-CCTV-3HD文艺🇨🇳 Backup
 http://69.30.245.50/live/cctv3.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",-CCTV-4HD中文国际🇨🇳
@@ -394,75 +394,75 @@ http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",-CCTV-6HD电影🇨🇳
 http://74.91.26.218:82/live/cctv6hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",-CCTV-6HD电影🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/rFiaef7.png",-CCTV-6HD电影🇨🇳 Backup
 http://69.30.245.50/live/cctv6.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",-CCTV-7HD国防军事🇨🇳
 http://74.91.26.218:82/live/cctv7hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",-CCTV-7HD国防军事🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/CKcPMQC.png",-CCTV-7HD国防军事🇨🇳 Backup
 http://69.30.245.50/live/cctv7.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",-CCTV-8HD电视剧🇨🇳
 http://74.91.26.218:82/live/cctv8hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",-CCTV-8HD电视剧🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/GyHaZ8X.png",-CCTV-8HD电视剧🇨🇳 Backup
 http://69.30.245.50/live/cctv8.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",-CCTV-9HD纪录🇨🇳
 http://74.91.26.218:82/live/cctv9hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",-CCTV-9HD纪录🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/3tivvMm.png",-CCTV-9HD纪录🇨🇳 Backup
 http://69.30.245.50/live/cctv9.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",-CCTV-10HD科教🇨🇳
 http://74.91.26.218:82/live/cctv10hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",-CCTV-10HD科教🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/sSSO7UD.png",-CCTV-10HD科教🇨🇳 Backup
 http://69.30.245.50/live/cctv10.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",-CCTV-11HD戏曲🇨🇳
 http://74.91.26.218:82/live/cctv11hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",-CCTV-11HD戏曲🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/CjOWx7L.png",-CCTV-11HD戏曲🇨🇳 Backup
 http://69.30.245.50/live/cctv11.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",-CCTV-12HD社会与法🇨🇳
 http://74.91.26.218:82/live/cctv12hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",-CCTV-12HD社会与法🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/3yTuiOM.png",-CCTV-12HD社会与法🇨🇳 Backup
 http://69.30.245.50/live/cctv12.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",-CCTV-13HD新闻🇨🇳
 http://74.91.26.218:82/live/cctv13hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",-CCTV-13HD新闻🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/6MTar6J.png",-CCTV-13HD新闻🇨🇳 Backup
 http://go.bkpcp.top/mg/cctv13
 http://69.30.245.50/live/cctv13.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",-CCTV-14HD少儿🇨🇳
 http://74.91.26.218:82/live/cctv14hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",-CCTV-14HD少儿🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/c5SXW7i.png",-CCTV-14HD少儿🇨🇳 Backup
 http://69.30.245.50/live/cctv14.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg",-CCTV-15HD音乐🇨🇳
 http://74.91.26.218:82/live/cctv15hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg",-CCTV-15HD音乐🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/CCV0eRG.png",-CCTV-15HD音乐🇨🇳 Backup
 http://69.30.245.50/live/cctv15.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg",-CCTV-16HD奧林匹克🇨🇳
 http://go.bkpcp.top/mg/cctv16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg",-CCTV-16HD奧林匹克🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/ZzV6JQp.png",-CCTV-16HD奧林匹克🇨🇳 Backup
 http://69.30.245.50/live/cctv16.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",-CCTV-17HD奧林匹克🇨🇳
 http://74.91.26.218:82/live/cctv17hd.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",-CCTV-17HD奧林匹克🇨🇳 Backup
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/jSQURxS.png",-CCTV-17HD奧林匹克🇨🇳 Backup
 http://69.30.245.50/live/cctv17.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",-CCTV-4FHD 中文国际🇨🇳
@@ -474,7 +474,7 @@ http://125.227.210.55:8177/VideoInput/play.ts
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",-CCTV-5+ Backup🇨🇳
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://i.imgur.com/OK8mdJV.png",-CCTV-5+ Backup🇨🇳
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 
