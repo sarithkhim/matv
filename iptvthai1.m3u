@@ -30,8 +30,8 @@ http://nmk.ioapk.com:5050/4gtv-live054/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳055
 http://nmk.ioapk.com:5050/4gtv-live055/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="iTVHD.kh@SD" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="TV KHMER🇰🇭",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 
 #EXTINF:-1 group-title="TV KHMER🇰🇭" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png",002-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក២ HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
