@@ -3,33 +3,6 @@
 #EXTINF:-1 group-logo=" " group-title="TV KHMER🇰🇭" tvg-name="" tvg-country= "ID" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png",001-ប៉ុស្តិ៍​ទូរទស្សន៍​ ទទក HD🇰🇭
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳043
-http://nmk.ioapk.com:5050/4gtv-live043/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳044
-http://nmk.ioapk.com:5050/4gtv-live044/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳045
-http://nmk.ioapk.com:5050/4gtv-live045/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳046
-http://nmk.ioapk.com:5050/4gtv-live046/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳047
-http://nmk.ioapk.com:5050/4gtv-live047/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳048
-http://nmk.ioapk.com:5050/4gtv-live048/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳049
-http://nmk.ioapk.com:5050/4gtv-live049/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳050
-http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳051
-http://nmk.ioapk.com:5050/4gtv-live051/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳052
-http://nmk.ioapk.com:5050/4gtv-live052/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳053
-http://nmk.ioapk.com:5050/4gtv-live053/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳054
-http://nmk.ioapk.com:5050/4gtv-live054/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇨🇳055
-http://nmk.ioapk.com:5050/4gtv-live055/index.m3u8
-
 #EXTINF:-1 tvg-id="iTVHD.kh@SD" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="TV KHMER🇰🇭",iTV HD
 https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 
@@ -275,7 +248,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png",042-PPTV36HD🇹🇭
-https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+https://live-us1.thaimomo.com/live-as/chpptv-1/chunklist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -679,6 +652,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 
 #EXTINF:-1 group-logo="https://c.tenor.com/c3dHVjwgeYgAAAAM/bbc-breaking-news.gif" group-title="BREAKING NEWS" tvg-name="" tvg-country="ID" tvg-logo="https://bo-apac.tv5monde.com/sites/default/files/2020-02/TV5_Monde_Asie.png",-TV5 Monde ASIE SD
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -787,6 +761,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h241/index.m3u8
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://adtechtoday.com/wp-content/uploads/2025/12/cnbc-new-logo-versant-media-spin-off-2025.png",-CNBC Asia SD Backup
+http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
 http://rezofoot.tv/CNBC/index.m3u8
 http://206.212.244.63/41/index.m3u8
 
@@ -983,17 +958,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 <========================= MOVIES Channels ====================================>
 
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",-HBO Asia Thai Sub🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776086&extension=m3u8
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776086&extension=ts&play_token=AFIYZ63fAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.png",-Star Channel
 http://znty.dyndns.org:5010/hls/fox.m3u8
 
@@ -1059,62 +1023,6 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/47IKxmt.png",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",-CINEMAX HD🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776056&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776056&extension=m3u8
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",-HBO SIGNATURE HD🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776119&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776119&extension=m3u8
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776119&extension=ts
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",-HBO HITS FHD🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776088&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776088&extension=m3u8
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776088&extension=ts
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",-HBO HITS FHD Backup
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34540
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",-HBO Family HD🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776089&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776089&extension=m3u8
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://th.bing.com/th/id/OIP.vF_a-YD2BsCAUgxG4IvmzAAAAA?rs=1&pid=ImgDetMain",-HITS SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="thrill" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",-thrill SD
-http://103.137.83.62:9090/play/20/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="HITSMovies" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://th.bing.com/th/id/OIP.MM231kfEl67vu_XQmCk8vwAAAA?rs=1&pid=ImgDetMain",-HITS Movies SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
@@ -1142,68 +1050,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="MOVIES",-CinemaWorld (720p)
 https://cdn.qd.je/163189/cinemaworld
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",-Celestial Movies SD
-http://103.137.83.62:9090/play/24/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-CCM
-http://103.137.83.62:9090/play/23/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url=" " tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-CCM SD
-https://streams.comclark.com/pknsd/celestial/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png",-Galaxy SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png",-Galaxy Premium SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",Indonesia Movie Channel SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",-My CINEMA FHD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h192/index.m3u8
-https://op-group1-densxvisionhd-1.dens.tv/h/h80/index.m3u8
-https://op-group1-densxvisionhd-1.dens.tv/h/h192/01.m3u8
-http://originhd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg",-My CINEMA ASIA FHD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h193/index.m3u8
-http://originhd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg",-My Family Channel FHD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h194/index.m3u8
-https://op-group1-densxvisionhd-1.dens.tv/h/h81/index.m3u8
-http://originhd-1.dens.tv/h/h194/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="MOVIES",-Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png",-KIX SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png",-ONE TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Asian-Hits.jpg",-Asian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
@@ -1220,52 +1070,12 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://img2.pic.in.th/pic/logo_mono29plus0e509b4a491c24bb9672677f67da122f.png",MONO29 PLUS+ Backup
 http://45.136.252.97:8081/app/mono29plus/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True FilmAsia
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776052&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776052&extension=m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-asian-more-th.png",-True AsianMore
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776170&extension=m3u8
-http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1775982&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=186507&extension=m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186507&extension=m3u8
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-movie-hits-th.png",-True MovieHit
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=186532&extension=m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186532&extension=m3u8
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_series.png",-True Series HD
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=186586&extension=m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=m3u8
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True Xzyte HD
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776247&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776247&extension=m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-thaifilm-th.png",-True ThaiFilm HD
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776050&extension=m3u8
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776050&extension=m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxOShh15OP7q9LIJQiQFgx5sTKwCu07NGmW2_li6oEuZ1vHaRrj8Ck00&s=10",-MCE HD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV🇹🇭
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776044&extension=m3u8
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&extension=ts
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png",-Warner TV FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
