@@ -83,20 +83,32 @@ https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 <=============== TV MYANMA =====================>
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="TV MYANMA",MRTV (720p)
-https://asia.sipradius.net/cache/SEAGames4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="TV MYANMA",MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4i1VBb.png" group-title="TV MYANMA",MRTV 4 (720p)
-https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="TV MYANMA",MRTV Backup
+http://203.81.84.130/hls/mwd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="TV MYANMA",MRTV Entertainment
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="TV MYANMA",MRTV Farmer
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="TV MYANMA",MRTV News
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-news-mm.png" group-title="TV MYANMA",MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="TV MYANMA",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="Movies",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Entertainment",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 
 <=============== TV THAI🇹🇭 =====================>
@@ -283,6 +295,12 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png" group-title="CHINA TV🇨🇳",Anhui TV🇨🇳
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nei-monggol-tv-cn.png" group-title="CHINA TV🇨🇳",Nei Monggol TV
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nei-monggol-tv-2-mongolian-culture-channel-cn.png" group-title="CHINA TV🇨🇳",Nei Monggol TV2
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/M8_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025742",Channel 8🇨🇳
 https://cdn.qd.je/163189/ch8
@@ -771,6 +789,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.postimg.cc/wyR0nYxv/zee-news.jpg",-ZEE NEWS HD
 https://news.udx.workers.dev/zeenews/index.m3u8
 
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/sSNhk2g.png",-CNews-Français
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsobHhWXmBplQa5tK1h3nWXvXEOPA90m_Ry8EBvPH7Bq38GkqRbd-qPUZP3LcrQ9m5w&usqp=CAU",-TV5 Monde Info
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
@@ -793,6 +814,9 @@ http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/optimized/3X/a/8/a8852485b71eec65d943673f668e0edebeedb087_2_255x250.jpeg",-ABC TV Plus HD
 https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="Travel",Global Trekker (720p)
+http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 
 
 <========================= Kids Channels ====================================>
@@ -1305,6 +1329,10 @@ http://originhd-1.dens.tv/h/h05/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h09/01.m3u8
 http://originhd-1.dens.tv/h/h09/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgeQKE7MKKOYBdOVmKZVwTVbGrMsJm9aDq3m-FRHIYUyjtikvKqHUHq1w&s=10" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Eurosport 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png",-EUROSPORT 1HD UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1368,18 +1396,21 @@ https://xemzi.short.gy/2000002
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/ygjf2H0j/Sky-Sports-Austria.jpg",-Sky Sport austria 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/2LdtkWph/Sky-Sport-Bundesliga.jpg",-Sky Sport Bundesliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL HD03
 https://xemzi.short.gy/2000003
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 https://xemzi.short.gy/1000020
 
@@ -1387,19 +1418,22 @@ https://xemzi.short.gy/1000020
 https://xemzi.short.gy/1000001
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sx8wYwcC/Sky-Sports-Main-Event-OTT.jpg",-SKY SPORTS MAIN EVENT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/mDdqGRWK/Sky-Sports-Golf-OTT.jpg",-Sky Sports Golf HD
 https://xemzi.short.gy/2000009
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/bwX5P34S/Sky-Sports-Mix-OTT.jpg",-SKY SPORTS MIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
 https://xemzi.short.gy/2000008
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sky_Sport_Max_-_Logo_2026.svg/960px-Sky_Sport_Max_-_Logo_2026.svg.png",-SKY SPORTS MAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
 https://xemzi.short.gy/2000015
 
@@ -1407,7 +1441,8 @@ https://xemzi.short.gy/2000015
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg",-SKY SPORTS CRICKET Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 https://xemzi.short.gy/2000014
 
@@ -1415,7 +1450,8 @@ https://xemzi.short.gy/2000014
 https://xemzi.short.gy/2000005
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/T36X0ddj/Sky-Sports-F1-OTT.jpg",-SKY SPORTS F1 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 https://xemzi.short.gy/2000013
 
@@ -1429,451 +1465,14 @@ https://xemzi.short.gy/1000018
 https://xemzi.short.gy/2000010
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action
 https://xemzi.short.gy/2000011
 
-
-<========================================== SuperSports Group =========================================>
-
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",-SuperSports Premier League
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396881&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",-SuperSports Premier League Backup
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815726&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",-SuperSports Football
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396882&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",-SuperSports Football Backup
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815723&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png",-SuperSports Football Plus
-http://vip.sibfungold.net:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52874
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png",-SuperSports Football Plus Backup
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815724&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-laliga-za.png",-SuperSports LALIGA
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396880&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-laliga-za.png",-SuperSports LALIGA Backup
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1815725&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png",-SuperSport Motorsport
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396874&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png",-SuperSport Blitz
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396873&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png",-SuperSport Golf
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396875&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png",-SuperSport Tennis
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396878&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png",-SuperSport Rugby
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396877&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png",-SuperSport Variety1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396886&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png",-SuperSport Variety2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396885&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png",-SuperSport Variety3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396884&extension=ts
-
-#EXTINF:-1 group-title="SuperSports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",-SuperSport Variety4
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:1D:12:9D&stream=396883&extension=ts
-
-<========================================== Astro Group =========================================>
-
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +8 (576p)
-http://188.113.190.13/1/video.m3u8
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One HD (720p)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +9 (576p)
-http://188.113.190.13/2/video.m3u8
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +10 (576p)
-http://188.113.190.13/3/video.m3u8
-
-#EXTINF:-1 group-title="Astro Group" tvg-logo="https://i.imgur.com/RUSX0rX.png",Channel One +11 (576p)
-http://188.113.190.13/4/video.m3u8
-
-
-<========================================== INDONESIA TV🇮🇩 =========================================>
-
-#EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 group-logo="" group-title="INDONESIA TV🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",-Indosiar Digital
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",-Trans TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",-Trans TV FHD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemeshield1-voe.sysln.id/live/eds/Trans/mpd/Trans.mpd
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",-Trans7 TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",-Trans7 TV FHD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",-Metro TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png",-Metro TV FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://p.kindpng.com/picc/s/335-3354310_indonesia-hd-png-download.png",-TV One SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://op-group1-densxvisionhd-1.dens.tv/h/h40/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://p.kindpng.com/picc/s/335-3354310_indonesia-hd-png-download.png",-TV One FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",-SCTV FHD
-http://filex.tv:8080//live/uk007/000920/302301.ts
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",-SCTV Digital
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36 itu
-https://popmi.my.id/tes.m3u8?id=204
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti.png",-RCTI SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA TV🇮🇩", MNCTV World ᴸᴼᵂ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png",-Kompas TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png",-ANTV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.W0R2ydOSGq1M4_3rwZZdOgHaFY?r=0&cb=thfvnext&pid=ImgDet&w=191&h=138&c=7&o=7&rm=3" group-title="INDONESIA TV🇮🇩",-MOJI TV SD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-id=" " tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA TV🇮🇩",-DAAI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA TV🇮🇩",Rajawali TV SD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
-
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA TV🇮🇩",Rajawali TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-id.png",-BERITA SATU🇲🇾
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h209/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",-DAAI TV (INDIHOME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA TV🇮🇩",-CNBC Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA TV🇮🇩",-CNN Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/87/f8/41/87f84145-0df7-f4fa-a8f2-4292d77e32bc/App_Icon-marketing.lsr/600x600bb.jpg",-WION NEWSHD
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-https://news.udx.workers.dev/wion/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png",-Indonesia Movie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-dangdut-id.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-dangdut-id.png" group-title="INDONESIA TV🇮🇩", Citra Dangdut
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png" group-title="INDONESIA TV🇮🇩",Citra Entertainment HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
-
-#EXTINF:-1 group-title="INDONESIA TV🇮🇩" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png",Citra Drama HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
-
-
-#EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://i.ytimg.com/vi/xR3VFzylmTw/maxresdefault.jpg",561-SBS 낭만닥터 김사부 시즌2🇰🇷
-https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8
-
-#EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://i.pinimg.com/originals/ee/db/78/eedb7861ba20254db924aa00a4e7f578.jpg",562-JTBC 아는형님🇰🇷
-https://d39o9ct24vg5rr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iz74ur8nyyt8f/FC00000013.m3u8
-
-#EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://th.bing.com/th/id/OIP.FOP5_UO1F6bXx7DxMJkTXAAAAA?rs=1&pid=ImgDetMain",563-MBC 아빠! 어디가?🇰🇷
-https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8
-
-#EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20230426T013732SQUARE.png_20230426013732.png",564-tvN 응답하라 1997🇰🇷
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL KOREA🇰🇷" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4600004BQ_20230614T012831SQUARE.png_20230614012832.png",565-JTBC SKY캐슬🇰🇷
-https://d1jkdzl8fxsn4u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-78wsn9flpkj0j/FC00000006.m3u8
-
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/sSNhk2g.png",-CNews-Français
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-
-
-//========================================================================
-🔸🔸 Collected by playlist >>> Sports Vidio
-//========================================================================
-
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-1.jpg" group-title="Sports Vidio",Champions TV 1 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="Sports Vidio",Champions TV 2 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
-https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-3.jpg" group-title="Sports Vidio",Champions TV 3 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="Sports Vidio",Champions TV 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="Sports Vidio",Champions TV 6 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports Vidio",Premier League HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9353&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="Sports Vidio",Spotv HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17139&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="Sports Vidio",Spotv 2 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="Sports Vidio",Bein Sports 1 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6299&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="Sports Vidio",Bein Sports 2 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17875&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="Sports Vidio",Bein Sports 3 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6317&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="Sports Vidio", NBA TV FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6717&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions Golf 1" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-1-c968f8.jpg" group-title="Sports Vidio",Champions Golf 1 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18189&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="Champions Golf 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-golf-2-5c9462.jpg" group-title="Sports Vidio",Champions Golf 2 FHD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18190&type=drm
-http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
-
-
-
-#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
-
-#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
-
-#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8
-
-#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8
-
+<============================================ ช่อง 3BBTV =============================================>
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่อง3BBTV", NBT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1938,12 +1537,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่อง3BBTV",TRUE4U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
 #EXTINF:-1 tvg-id="GMM 25.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="ช่อง3BBTV", GMM 25
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1963,10 +1564,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
 #EXTINF:-1 tvg-id="MCOT HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="ช่อง3BBTV", MCOT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
 #EXTINF:-1 tvg-id="ONE31 HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="ช่อง3BBTV", ONE31 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2001,6 +1604,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ช่อง3BBTV", PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2012,370 +1616,67 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
 #EXTINF:-0 group-title="ช่อง3BBTV" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
 #EXTINF:-0 group-title="ช่อง3BBTV" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
 #EXTINF:-0 group-title="ช่อง3BBTV" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO Hits
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
 #EXTINF:-0 group-title="ช่อง3BBTV" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd?ck=eyJmNDhjYWJhNDY2Mzk0ZTkzYjUwNzgwZjIxNzk4Nzg3YSI6IjlhMDc0YTEwZGI0MzQyZTc5MzcwNzZiM2U1MmY2MDI5In0%3D&headers=eyJvcmlnaW4iOiJodHRwczovL2F5YS1zdHJlYW1lcjIuY2RuLjNiYnR2LmNvbTo4NDQzLzNiYi9saXZlLzEwNy8xMDcubXBkIn0%3D&image=aHR0cHM6Ly8zYmJ0di5jby50aC93cC1jb250ZW50L3RoZW1lcy9jaGFuZ3dhdHRhbmEvaW1nL2NoYW5uZWwvbmV3MjAyMi9DaW5lbWF4LnBuZw%3D%3D&title=CINEMAX
+
 #EXTINF:-1 tvg-id="MONO29 Plus.th" tvg-name="MonoPlus" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่อง3BBTV", 3BB-MONO PLUS
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="ช่อง3BBTV",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",CARTOONITO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
 #EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",NICK JR 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
-#EXTINF:-1 tvg-id="3BB Sports One.th" tvg-name="3BB Sports One.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="ช่อง3BBTV", 3BB Sport One
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="ช่อง3BBTV",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
-#EXTINF:-1 group-title="ช่อง3BBTV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVER
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/14/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/16/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/25/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/27/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/30/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/34/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Zona DAZN35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/35/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga38
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/42/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/44/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga52
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/53/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/54/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/55/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/56/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/58/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/60/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/62/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/63/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/64/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/66/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga68
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/68/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/69/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Laliga70
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/70/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySports cricket9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston71
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/71/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston72
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston73
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/73/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston74
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/74/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston75
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/75/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston76
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/76/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/78/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston80
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston81
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/81/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston82
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston83
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/83/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston85
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/85/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston86
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/86/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston87
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/87/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston88
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/88/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston89
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/90/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston91
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/91/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston92
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/92/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/93/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston95
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/95/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston96
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/96/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston97
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/97/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston98
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/98/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston99
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/99/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jop3Vip.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",NBC Sport Boston100
 
 
 
