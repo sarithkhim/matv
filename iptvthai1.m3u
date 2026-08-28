@@ -815,7 +815,7 @@ http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/optimized/3X/a/8/a8852485b71eec65d943673f668e0edebeedb087_2_255x250.jpeg",-ABC TV Plus HD
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="Travel",Global Trekker (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="BREAKING NEWS",Global Trekker (720p)
 http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 
 
