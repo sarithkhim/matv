@@ -806,11 +806,8 @@ https://streaming.livescorethai.net/iptv/fr-tv5pacific.stream/playlist.m3u8
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IjSkPjezek4r6de2fvyxdfo4qw6eNqjvqMpFVEOxz6XHhPhKGVn_P8DCyjPFujPzg_4&usqp=CAU",-ABC AUSTRALIA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-https://tplay.dinesh29.com.np/live/tataplay-universal/australia-tv/index.ts
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/70.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/optimized/3X/a/8/a8852485b71eec65d943673f668e0edebeedb087_2_255x250.jpeg",-ABC TV Plus HD
 https://c.mjh.nz/abc-tv-plus.m3u8
@@ -823,6 +820,9 @@ http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Kids Channels",Cartoon
 http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Kids Channels",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Kids Channels",Disney Channel
 http://15.204.246.24:8080/DisneyHD/index.m3u8
