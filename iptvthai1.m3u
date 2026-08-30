@@ -704,6 +704,9 @@ http://originhd-1.dens.tv/h/h121/index.m3u8
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/top-news-th.png",-TOP NEWS HD
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png" group-title="BREAKING NEWS",BN Channel (1080p)
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://i.imgur.com/elZyUjX.png",-CNN Prima News(1080p)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776014&extension=m3u8
@@ -965,6 +968,10 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="MOVIES",Asianet HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia SD
 http://125.227.210.55:4050/VideoInput/play.ts
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
@@ -1133,6 +1140,11 @@ http://185.102.171.218/BBCEarth/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="KNOWLEDGE TV",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="KNOWLEDGE TV",BBC Earth Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="KNOWLEDGE TV",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
