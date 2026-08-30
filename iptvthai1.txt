@@ -3,23 +3,23 @@
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",1
-https://op-group1-densxvisionhd-1.dens.tv/h/h1/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",2
-https://op-group1-densxvisionhd-1.dens.tv/h/h2/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",3
-https://op-group1-densxvisionhd-1.dens.tv/h/h3/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",4
-https://op-group1-densxvisionhd-1.dens.tv/h/h4/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",5
-https://op-group1-densxvisionhd-1.dens.tv/h/h5/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",6
-https://op-group1-densxvisionhd-1.dens.tv/h/h6/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",7
-https://op-group1-densxvisionhd-1.dens.tv/h/h7/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",8
-https://op-group1-densxvisionhd-1.dens.tv/h/h8/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",9
-https://op-group1-densxvisionhd-1.dens.tv/h/h9/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",10
 https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",11
