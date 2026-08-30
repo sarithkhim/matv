@@ -2,41 +2,42 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-logo="http://gmlive.ddns.net:5000/MyWeb/logo/LAO-Wiseplay.png" group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png",MV LAO TV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://sv1.picz.in.th/images/2023/06/21/IaV7bZ.png",ไทไชโย🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao-star-la.png",LAO STAR HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/94.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latv-la.png",LATV HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/326.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lntv-1-la.png",LNTV 1🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/327.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_national_tv3.png",LNTV 3HD🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/327.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/estv.png",Lao ESTV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/328.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_ps_tv.png",Lao PSTV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://gmtv.ddns.net:2566/live/Lao2025/Lao2025/325.m3u8
-
-#EXTINF:-1 group-title="TV LAOS🇱🇦" tvg-name="" tvg-country="ID" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/โอ้เมืองลาว-kun5g.png",โอ้เมืองลาว TV🇱🇦
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",1
+https://op-group1-densxvisionhd-1.dens.tv/h/h1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",2
+https://op-group1-densxvisionhd-1.dens.tv/h/h2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",3
+https://op-group1-densxvisionhd-1.dens.tv/h/h3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",4
+https://op-group1-densxvisionhd-1.dens.tv/h/h4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",5
+https://op-group1-densxvisionhd-1.dens.tv/h/h5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",6
+https://op-group1-densxvisionhd-1.dens.tv/h/h6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",7
+https://op-group1-densxvisionhd-1.dens.tv/h/h7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",8
+https://op-group1-densxvisionhd-1.dens.tv/h/h8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",9
+https://op-group1-densxvisionhd-1.dens.tv/h/h9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",10
+https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",11
+https://op-group1-densxvisionhd-1.dens.tv/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",12
+https://op-group1-densxvisionhd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",13
+https://op-group1-densxvisionhd-1.dens.tv/h/h13/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",14
+https://op-group1-densxvisionhd-1.dens.tv/h/h14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",15
+https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",16
+https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",17
+https://op-group1-densxvisionhd-1.dens.tv/h/h17/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Test",18
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
 <========================= TV THAI ====================================>
 
