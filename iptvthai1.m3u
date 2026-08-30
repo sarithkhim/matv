@@ -480,6 +480,15 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="General;News",Dong Nai TV 1HD🇻🇳
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",Dong Nai TV 2HD🇻🇳
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6P39BiA.png" group-title="Undefined",Dong Nai TV 3HD🇻🇳
+https://dethich.pw/dongnai3/index.m3u8
+
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv1-20133318.logowik.com.webp",-VTV 1HD🇻🇳
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
