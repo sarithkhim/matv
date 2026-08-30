@@ -281,6 +281,20 @@ https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-satellite-tv-cn.png",BRTV 北京卫视🇨🇳
 http://go.bkpcp.top/mg/bjws
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="CHINA TV🇨🇳",Dragon TV
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h05/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="CHINA TV🇨🇳",Phoenix Chinese
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h07/01.m3u8
+
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus TV🇨🇳
 https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
 
@@ -709,11 +723,18 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png",-CCTV-4HD 中文国际🇨🇳
 http://125.227.210.55:8175/VideoInput/play.ts
 
-#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.png",-CGTN English HD🇨🇳
+#EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png",-CGTN English HD🇨🇳
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="BREAKING NEWS",CGTN Documentary
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="BREAKING NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqPqc_YrzXfv3eOUyoNQ3G_vwgQ72Zc46oFVy_a7BPJoxZuNbqbd2eWix8dTcqNWfDGk&usqp=CAU",-ABC NEWS LINE HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
