@@ -494,13 +494,13 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTVLCOPT:http-Origin=https://xemtruyenhinh.xyz
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="General;News",Dong Nai TV 1HD🇻🇳
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQyioVa.png" group-title="TV VIETNAM🇻🇳",Dong Nai TV 1HD🇻🇳
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",Dong Nai TV 2HD🇻🇳
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="TV VIETNAM🇻🇳",Dong Nai TV 2HD🇻🇳
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6P39BiA.png" group-title="Undefined",Dong Nai TV 3HD🇻🇳
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6P39BiA.png" group-title="TV VIETNAM🇻🇳",Dong Nai TV 3HD🇻🇳
 https://dethich.pw/dongnai3/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv1-20133318.logowik.com.webp",-VTV 1HD🇻🇳
@@ -1008,6 +1008,10 @@ http://54.37.19.157/axn/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Backup
 http://ikitv.sqn.at:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="MOVIES",AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
