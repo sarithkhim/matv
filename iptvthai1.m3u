@@ -947,6 +947,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png" group-title="MOVIES",Midnight Pulp (1080p)
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cps67hs.png" group-title="MOVIES",Asianet Movies HD (1080p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 http://149.71.34.166:8000/play/a06e/index.m3u8
@@ -1000,11 +1003,11 @@ https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 http://103.137.83.62:9090/play/21/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Backup
+http://ikitv.sqn.at:8000/play/a013/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic Backup
-http://82.78.243.219:45739/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
