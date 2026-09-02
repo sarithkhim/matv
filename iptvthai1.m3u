@@ -947,6 +947,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJ19QiuCohbuNgGsBCDSg6e8IMHANGGbGhWWNatPb&s",HBO Asia
+http://ikitv.sqn.at:8000/play/a024/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png" group-title="MOVIES",Midnight Pulp (1080p)
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 
