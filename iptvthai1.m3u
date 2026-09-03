@@ -1451,15 +1451,11 @@ http://stream.mcquack.net/192/index.m3u8
 http://145.239.5.177/530/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/O9BapV9.png",-FS 1HD US
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LHtxKI8.png",-FS 2HD US
-https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
-https://fl4.moveonjoy.com/FOX_Sports_2/index.m3u8
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="SPORTS",-FTF Sports (720p)
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
