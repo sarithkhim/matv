@@ -291,6 +291,9 @@ http://go.bkpcp.top/mg/bjws
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h05/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="CHINA TV🇨🇳",Dragon TV International🇨🇳
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="CHINA TV🇨🇳",Phoenix Chinese🇨🇳
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
@@ -507,6 +510,7 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 https://dethich.pw/dongnai3/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv1-20133318.logowik.com.webp",-VTV 1HD🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv1/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
@@ -524,6 +528,7 @@ https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/qWWpYRR.png",-VTV 2HD🇻🇳 Backup
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv2/master.m3u8
 #EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
@@ -533,6 +538,7 @@ https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 http://125hvt.ddns.net:21585/vtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/4lJG1fu.png",-VTV 3HD🇻🇳 Backup
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv3/master.m3u8
 #EXTVLCOPT:http-origin: https://player.streamingtvguides.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
@@ -543,6 +549,7 @@ https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/WsLLmR2.png",-VTV 4FHD🇻🇳 Backup
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv4/master.m3u8
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.D5bmuyokZsXxmHnNacfnGQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",-VTV 5FHD🇻🇳
@@ -551,9 +558,11 @@ https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Vnnna1C.png",-VTV 5FHD🇻🇳 Backup
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv5/master.m3u8
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",-VTV 5FHD Tây Nam Bộ🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv5tnb/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
@@ -563,6 +572,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-5-tay-nguyen-vn.png",-VTV 5FHD Tây Nguyên🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv5tn/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Hlcnqqt.png",-VTV 5FHD Tây Nguyên🇻🇳 Backup
@@ -579,6 +589,7 @@ http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.jY9mS_7B4hgl8DRoudI8tAHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",-VTV 7HD🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv7/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/64.m3u8
@@ -587,6 +598,7 @@ http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/64.m3u8
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv82811.logowik.com.webp",-VTV 8HD🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv8/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv8/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/65.m3u8
@@ -595,6 +607,7 @@ http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/65.m3u8
 https://live.fptplay53.net/live/media/vtv8/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/originals/c2/1c/cc/c21ccc0a391b2cb9da55627e2f687ecc.jpg",-VTV 9HD🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv9/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
 http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
@@ -602,13 +615,15 @@ http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/QiY55sy.png",-VTV 9HD🇻🇳 Backup
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-10-vn.png" group-title="TV VIETNAM🇻🇳",-VTV 10HD🇻🇳 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-10-vn.png" group-title="TV VIETNAM🇻🇳",-VTV 10HD🇻🇳
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/vtv6/master.m3u8
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="TV VIETNAM🇻🇳",-VTV 10HD🇻🇳 Backup
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/htv-the-thao-vn.png" group-title="TV VIETNAM🇻🇳",-HTV Thể thaoHD🇻🇳
+https://dethich.pw/htvthethao/index.m3u8
 https://live-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="TV VIETNAM🇻🇳",-HTV Thể thaoHD🇻🇳 Backup
