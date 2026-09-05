@@ -83,10 +83,10 @@ https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 <=============== TV MYANMA =====================>
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="TV MYANMA",MRTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png" group-title="TV MYANMA",MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="TV MYANMA",MRTV Backup
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png" group-title="TV MYANMA",MRTV Backup
 http://203.81.84.130/hls/mwd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports",MRTV Sports
@@ -104,7 +104,7 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="TV MYANMA",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
-#EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="TV MYANMA",MWD Documentary
+#EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png" group-title="TV MYANMA",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="TV MYANMA",MWD Movies
@@ -208,7 +208,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono-29-th.png",035-MONO29 FHD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/mm/monomax-sports-th.png",035-MONO29 FHD🇹🇭
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
@@ -243,7 +243,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-3-th.png",039-CH3HD🇹🇭
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 
-#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://photos.live-tv-channels.org/tv-logo/amarin-34-hd-8122-w360.webp",040-AMARIN34HD🇹🇭
+#EXTINF:-1 group-title="TV THAI🇹🇭" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmep2qWcW_dRwwMijumrDB_eCZ6IQGt607aNUnSQ4fw&s=10",040-AMARIN34HD🇹🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
