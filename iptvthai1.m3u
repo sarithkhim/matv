@@ -1378,6 +1378,13 @@ http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="SPORTS",Premier Football (1080p)
 https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 1HD
+http://66.102.126.10:8000/play/a004/index.m3u8
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 5HD
+http://66.102.126.10:8000/play/a010/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png",-UFC Fight Pass
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
