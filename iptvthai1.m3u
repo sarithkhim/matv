@@ -997,7 +997,11 @@ http://66.102.126.10:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="MOVIES",Colors Infinity HD (1080p)
 http://66.102.126.10:8000/play/a014/index.m3u8
 
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://archive.org/download/chris-kenny_live_TvHd/Logos/&tv%20hd.png" group-title="MOVIES",&TV HD (1080p)
+http://202.70.146.135:8000/play/a06c/index.m3u8
 
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/56ae202a8ead0e9c3a8b45b0/1565806603214/adcf17f35ca60ce4664fc78fdbfc081f.png?tx=w_350" group-title="MOVIES",&PICTURES HD (1080p)
+http://202.70.146.135:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg",-Cine+ Frisson (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -1170,6 +1174,9 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 tvg-logo="https://imagescdn.designweek.co.uk/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="KNOWLEDGE TV",Animal planet
+http://66.102.126.10:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="KNOWLEDGE TV",Crime + Investigation Asia (1080p)
 http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
