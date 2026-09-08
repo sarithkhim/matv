@@ -990,84 +990,20 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 <========================= Kids Channels ====================================>
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/previews/005/051/796/non_2x/kids-channel-logo-vector.jpg" group-title="Kids Channels" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png",150-Cartoon Network HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)09
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png",151-Cartoon Network HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/CartoonNetwork.m3u8
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)10
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://f.ptcdn.info/918/080/000/rwhsxz1haoI1c7GhS5xf-o.jpg",152-True SPARK Play
-https://zeestb.cdn77.icu/love4all.php?id=186591&extension=ts
-http://37.27.111.214:8080/live/105/hls.m3u8
-http://178.162.225.129:2082/Tourobox1-Cbh5VinFcR/j8teVflblY/733
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)11
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png",153-Boomerang
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://i.imgur.com/i1XpLH7.png",154-TOONEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=xxx
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Animax.png",155-ANIMAX HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.197.59.106:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png",156-Nickelodeon Junior (INDIHOME)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6 VLC
-#EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Windows NT 6.1; rv:109.0) Gecko/20100101 Firefox/115.0
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney.png",157-Disney Channel HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.197.59.106:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://sv1.picz.in.th/images/2023/06/27/II07Uy.png",158-ZOOMOO Channel
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://sv1.picz.in.th/images/2023/06/20/IHZynV.png",159-EBS Kids HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="http://gmlive.ddns.net:5000/MyWeb/logo/on-kids.png",160-cartoonclub
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w846301590.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/36.m3u8
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png",161-nick.jr HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/206.m3u8
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/22/hls.m3u8
-
-#EXTINF:-1 group-title="Kids Channels" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png",162-Nickelodeon HD
-#EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
-http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)12
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
 
 <===================================== HBO FMX =================================>
