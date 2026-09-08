@@ -990,20 +990,126 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 <========================= Kids Channels ====================================>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)01
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)02
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)03
+https://shd-amg-fast.edgenextcdn.net/tx003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)04
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)05
+https://shd-amg-fast.edgenextcdn.net/tx005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)06
+https://shd-amg-fast.edgenextcdn.net/tx006/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)07
+https://shd-amg-fast.edgenextcdn.net/tx007/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)08
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)09
 https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)10
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)11
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)12
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)13
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)14
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)15
+https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)16
+https://shd-amg-fast.edgenextcdn.net/tx016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)17
+https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)18
+https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)19
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)20
+https://shd-amg-fast.edgenextcdn.net/tx020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)21
+https://shd-amg-fast.edgenextcdn.net/tx021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)22
+https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)23
+https://shd-amg-fast.edgenextcdn.net/tx023/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)24
+https://shd-amg-fast.edgenextcdn.net/tx024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)25
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)26
+https://shd-amg-fast.edgenextcdn.net/tx026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)27
+https://shd-amg-fast.edgenextcdn.net/tx027/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)28
+https://shd-amg-fast.edgenextcdn.net/tx028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)29
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)30
+https://shd-amg-fast.edgenextcdn.net/tx030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)31
+https://shd-amg-fast.edgenextcdn.net/tx031/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)32
+https://shd-amg-fast.edgenextcdn.net/tx032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)33
+https://shd-amg-fast.edgenextcdn.net/tx033/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)34
+https://shd-amg-fast.edgenextcdn.net/tx034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)35
+https://shd-amg-fast.edgenextcdn.net/tx035/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)36
+https://shd-amg-fast.edgenextcdn.net/tx036/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)37
+https://shd-amg-fast.edgenextcdn.net/tx037/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)38
+https://shd-amg-fast.edgenextcdn.net/tx038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)39
+https://shd-amg-fast.edgenextcdn.net/tx039/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Kids Channels",Movies Thriller (1080p)40
+https://shd-amg-fast.edgenextcdn.net/tx040/playlist.m3u8
 
 
 <===================================== HBO FMX =================================>
