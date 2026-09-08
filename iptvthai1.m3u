@@ -986,6 +986,21 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eVqPfRk.png" group-title="Movies",Hollywood Ukraine (576p)
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action10
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action11
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller12
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller13
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOGJwuhewomjHN1RIvmYUtoyxf-4yEYoC6tlATm4bVDEmmEcllOgxwj5f&s=10" group-title="Movies;Series",HBO Movies (720p)
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
