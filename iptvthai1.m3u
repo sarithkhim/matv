@@ -992,6 +992,9 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Sony Entertainment Television HD
 http://202.70.146.135:8000/play/a005/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="MOVIES",StarPlus HD
+http://202.70.146.135:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVqPfRk.png" group-title="Movies",Hollywood Ukraine (576p)
 http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 
