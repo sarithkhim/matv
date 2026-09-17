@@ -328,8 +328,8 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png" group-title="CHINA TV🇨🇳",Anhui TV🇨🇳
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="CHINA TV🇨🇳",DaAi 2🇨🇳
-http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="CHINA TV🇨🇳",Hunan TV (4K)🇨🇳
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nei-monggol-tv-cn.png" group-title="CHINA TV🇨🇳",Nei Monggol TV🇨🇳
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
@@ -1283,11 +1283,9 @@ http://82.78.243.219:45739/play/a01f/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.19/live/test_history/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mGdui2OAQjymvXwm-BSBWAHaDc?rs=1&pid=ImgDetMain&o=7&rm=3",-History 2 FHD🇵🇭
-http://45.190.28.50/H2_HD/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a03r
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mGdui2OAQjymvXwm-BSBWAHaDc?rs=1&pid=ImgDetMain&o=7&rm=3",-History 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_h2/playlist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mGdui2OAQjymvXwm-BSBWAHaDc?rs=1&pid=ImgDetMain&o=7&rm=3",-History 2 FHD
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
@@ -1669,7 +1667,9 @@ https://xemzi.short.gy/2000008
 https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
 https://xemzi.short.gy/2000015
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg",-SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg" http-user-agent="Mozilla" group-title="SkySports Group",-Sky Sports Cricket HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg",-SKY SPORTS CRICKET Backup
