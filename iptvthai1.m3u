@@ -1025,22 +1025,16 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVqPfRk.png" group-title="Movies",Hollywood Ukraine (576p)
 http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action10
-https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller13
-https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOGJwuhewomjHN1RIvmYUtoyxf-4yEYoC6tlATm4bVDEmmEcllOgxwj5f&s=10" group-title="Movies;Series",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOGJwuhewomjHN1RIvmYUtoyxf-4yEYoC6tlATm4bVDEmmEcllOgxwj5f&s=10" group-title="Movies;Series",HBO Movies (720p)
-http://tvsen7.aynascope.net/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsTAsli8hKy8ltVQ44JT4FXZ2AAO_yfi9FHWgN7aIPgL-7fcrHQUpk-Hn&s=10" group-title="Movies;Series",HBO Hits (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsTAsli8hKy8ltVQ44JT4FXZ2AAO_yfi9FHWgN7aIPgL-7fcrHQUpk-Hn&s=10" group-title="Movies;Series",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies HD (1080p)
@@ -1434,21 +1428,18 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://i.imgur.com/J0TY9dG.png",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://thegolfwire.com/wp-content/uploads/2020/06/cbs-pga-nbc.png",CBS PGA TOUR
-http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="GOLF & TENNIS",Tennis Channel (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="GOLF & TENNIS",Tennis Channel 2 (1080p)
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://golf-pass.brightspotcdn.com/dims4/default/715968b/2147483647/strip/true/crop/549x549+140+0/resize/1200x1200!/format/webp/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2F65%2Fba%2F920cfc254071895a5eebfc537226%2Fgp-byline-copy.jpg" group-title="Sports",GolfPass (1080p)
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU2V30wcG_K9VLKPtjQFzEmStC5xth2xt6VanHjkwslaHyi5cGHPD5Nk&s=10",Golf Channel Latin America
-http://72.1.184.5:8089/play/a0cw/index.m3u8
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="GOLF & TENNIS",Golf Channel (1080p)
-https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
-http://23.237.104.106:8080/USA_GOLF/index.m3u8
-
-#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golfplus-thailand-us-th.png",-Golf Channel
-http://58.8.186.128:10006/bysid/2611
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",-Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34613
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
