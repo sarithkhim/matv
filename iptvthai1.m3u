@@ -1476,7 +1476,7 @@ https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOBACb6.png" group-title="SPORTS",Setanta Sports 2HD
-https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/setanta_sports_2_hd/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="SPORTS",Setanta Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
