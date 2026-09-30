@@ -1280,8 +1280,11 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagescdn.designweek.co.uk/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="KNOWLEDGE TV",Animal planet
 http://66.102.126.10:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="KNOWLEDGE TV",Crime + Investigation Asia (1080p)
-http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Entertainment",Crime + Investigation CEE
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Entertainment",Crime + Investigation Polsat (1080p)
+http://57.128.231.171:8080/285/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://znaki.fm/static/content/thumbs/1600x900/d/6e/4jmrkp---c16x9x50px50p--c5bfd7245597721fc8d7ce722359a6ed.jpg" group-title="KNOWLEDGE TV",Great British Menu (720p)
 https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
