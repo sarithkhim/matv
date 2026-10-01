@@ -1048,35 +1048,24 @@ http://51.75.127.199:3141/starmovies/index.m3u8
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMaa.in@SD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="MOVIES",Star Maa (576p)
-http://51.75.127.199:3141/starmaa/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="MOVIES",Star Maa Gold (576p)
 http://51.75.127.199:3141/starmaagold/index.m3u8
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Movies (576p)
-http://51.75.127.199:3141/starmaamovies/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Music (576p)
-http://51.75.127.199:3141/starmaamusic/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="MOVIES",Star Gold 2 (576p)
-http://51.75.127.199:3141/stargold2/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@SD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="MOVIES",Star Gold (576p)
 http://51.75.127.199:3141/stargold/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@SD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select (576p)
-http://51.75.127.199:3141/stargoldselect/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select HD (1080p)
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="MOVIES",Star Jalsha (576p)
-http://51.75.127.199:3141/starjalsha/index.m3u8
+
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="MOVIES",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Entertainment",Fox (Poland) (1080p)
+#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="MOVIES",Fox (Poland) (1080p)
 http://57.128.231.171:8080/249/index.m3u8
-#EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Entertainment",Fox (Russia) (576p)
+#EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="MOVIES",Fox (Russia) (576p)
 http://stream.mcquack.net/182/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-logo="https://television-b26f.kxcdn.com/wp-content/uploads/2015/08/amc-banner-600x600.jpg" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="MOVIES",AMC Europe Romania
@@ -1279,38 +1268,38 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary",Terra Mater WILD (1080p)
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="KNOWLEDGE TV",Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary",Terra Mater WILD English (1080p)
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="KNOWLEDGE TV",Terra Mater WILD English (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentary",Viasat Explore (Czech Republic)
+#EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="KNOWLEDGE TV",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentary",Viasat History (Czech Republic)
+#EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="KNOWLEDGE TV",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Documentary",viju Explore (576p)
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="KNOWLEDGE TV",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Documentary",viju History (576p)
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="KNOWLEDGE TV",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",viju Nature (576p)
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="KNOWLEDGE TV",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Comedy",viju+ Comedy HD (1080p)
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="KNOWLEDGE TV",viju+ Comedy HD (1080p)
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Movies",viju+ Megahit HD (1080p)
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="MOVIES",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="Documentary",viju+ Planet HD (1080p)
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="KNOWLEDGE TV",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Movies",viju+ Premiere HD (1080p)
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="MOVIES",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",viju+ Serial HD (1080p)
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="MOVIES",viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport (576p)
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="SPORTS",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 
 
