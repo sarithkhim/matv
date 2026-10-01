@@ -1037,10 +1037,47 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsTAsli8hKy8ltVQ44JT4FXZ2AAO_yfi9FHWgN7aIPgL-7fcrHQUpk-Hn&s=10" group-title="Movies;Series",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies HD (1080p)
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies FHD
+http://51.75.127.199:3141/starmovieshd/index.m3u8
 http://66.102.126.10:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies SD
+http://51.75.127.199:3141/starmovies/index.m3u8
+
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies Select HD (1080p)
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMaa.in@SD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="MOVIES",Star Maa (576p)
+http://51.75.127.199:3141/starmaa/index.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMaaGold.in@SD" tvg-logo="https://i.imgur.com/8v4JXYu.png" group-title="MOVIES",Star Maa Gold (576p)
+http://51.75.127.199:3141/starmaagold/index.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Movies (576p)
+http://51.75.127.199:3141/starmaamovies/index.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Movies HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540" group-title="MOVIES",Star Maa Music (576p)
+http://51.75.127.199:3141/starmaamusic/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="MOVIES",Star Gold 2 (576p)
+http://51.75.127.199:3141/stargold2/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@SD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="MOVIES",Star Gold (576p)
+http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@SD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select (576p)
+http://51.75.127.199:3141/stargoldselect/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select HD (1080p)
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="MOVIES",Star Jalsha (576p)
+http://51.75.127.199:3141/starjalsha/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="MOVIES",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Entertainment",Fox (Poland) (1080p)
+http://57.128.231.171:8080/249/index.m3u8
+#EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Entertainment",Fox (Russia) (576p)
+http://stream.mcquack.net/182/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-logo="https://television-b26f.kxcdn.com/wp-content/uploads/2015/08/amc-banner-600x600.jpg" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="MOVIES",AMC Europe Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
