@@ -1310,8 +1310,11 @@ http://stream.mcquack.net/311/index.m3u8
 http://stream.mcquack.net/333/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagescdn.designweek.co.uk/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="KNOWLEDGE TV",Animal planet
-http://66.102.126.10:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvsJIIrhA9HczD8dnNRSYYOB1ENho3Rw34KBN7gNU1A&s" group-title="KNOWLEDGE TV",Discovery Channel
+http://57.128.231.171:8080/282/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="KNOWLEDGE TV",Da Vinci (Poland) (1080p)
+http://57.128.231.171:8080/284/index.m3u8
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="KNOWLEDGE TV",Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
@@ -1532,6 +1535,30 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&exte
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",-Hi Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Canal%2B_Sport_%282013%29.svg/revision/latest/scale-to-width-down/1000?cb=20230904003541" group-title="SPORTS",Canal+ Sport FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Canal%2B_Sport2.jpg" group-title="SPORTS",Canal+ Sport 2FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal%2B_Sport_3.png" group-title="SPORTS",Canal+ Sport 3FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="SPORTS",Canal+ Sport 4FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/250px-CANAL%2B_Sport_5.png" group-title="SPORTS",Canal+ Sport 5FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/8/8c/Canal%2B_Sport_6_logo_2024-obecnie.png/revision/latest/scale-to-width-down/1080?cb=20250306112819&path-prefix=pl" group-title="SPORTS",Canal+ Sport 6FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFMifhftzMSt4WD0uv-x9fKTCr3UxLiFjpxZcby1V4w&s" group-title="SPORTS",Canal+ Sport 7FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Canal%2B_Sport_8_CZ_%26_SK.svg/revision/latest/scale-to-width-down/300?cb=20231206094359" group-title="SPORTS",Canal+ Sport 8FHD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
