@@ -1204,8 +1204,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h21/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h219/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",-Celestial Classic Movies
-http://58.8.186.128:10003/bysid/2318
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" group-title="MOVIES",Sun TV HD (1080p)
+http://103.151.60.162:2122/play/a02a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="MOVIES",-CinemaWorld Backup
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
