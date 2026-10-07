@@ -996,30 +996,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-movie-hits-th.png",-True Movie Hit
-http://58.8.186.128:10003/bysid/2325
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-thaifilm-th.png",-True Thai Film
-http://58.8.186.128:10003/bysid/2326
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png",-True Film Asia
-http://58.8.186.128:10004/bysid/2416
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-1-th.png",-True Film 1
-http://58.8.186.128:10004/bysid/2415
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",-True Film 2
-http://58.8.186.128:10004/bysid/2432
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_series.png",-True Series
-http://58.8.186.128:10005/bysid/2511
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png",-True X-ZYTE
-http://58.8.186.128:10005/bysid/2512
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-asian-more-th.png",-True AsianMore
-http://58.8.186.128:10006/bysid/2613
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="MOVIES",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 
@@ -1029,19 +1005,35 @@ http://202.70.146.135:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="MOVIES",StarPlus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eVqPfRk.png" group-title="Movies",Hollywood Ukraine (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eVqPfRk.png" group-title="MOVIES",Hollywood Ukraine (576p)
 http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="MOVIES",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="MOVIES",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOGJwuhewomjHN1RIvmYUtoyxf-4yEYoC6tlATm4bVDEmmEcllOgxwj5f&s=10" group-title="Movies;Series",HBO Movies (720p)
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="MOVIES",HBO
+http://103.151.60.162:2122/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="MOVIES",Star Gold 2 (576p)
+http://51.75.127.199:3141/stargold2/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="MOVIES",Star Gold 2 HD (1080p)
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarGold.in@SD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="MOVIES",Star Gold (576p)
+http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="MOVIES",Star Gold HD (1080p)
+http://103.185.24.134:3001/Star-Gold/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@SD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select (576p)
+http://51.75.127.199:3141/stargoldselect/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIES",Star Gold Select HD (1080p)
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOGJwuhewomjHN1RIvmYUtoyxf-4yEYoC6tlATm4bVDEmmEcllOgxwj5f&s=10" group-title="MOVIES",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsTAsli8hKy8ltVQ44JT4FXZ2AAO_yfi9FHWgN7aIPgL-7fcrHQUpk-Hn&s=10" group-title="Movies;Series",HBO Hits (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsTAsli8hKy8ltVQ44JT4FXZ2AAO_yfi9FHWgN7aIPgL-7fcrHQUpk-Hn&s=10" group-title="MOVIES",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies FHD
@@ -1054,6 +1046,9 @@ http://51.75.127.199:3141/starmovies/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies Select HD (1080p)
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies Select HD Backup
+http://103.151.60.162:2122/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="MOVIES",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -1212,8 +1207,11 @@ http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="MOVIES",-Movies Now HD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="MOVIES",-Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movies",Movies Now HD (1080p)
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgi5EyJpwh6hhlRp6TPDw9btvTOvqLGtPo54q94t0o6Q&s=10",-Asian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
@@ -1316,6 +1314,9 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvsJIIrhA9HczD8dnNRSYYOB1ENho3Rw34KBN7gNU1A&s" group-title="KNOWLEDGE TV",Discovery Channel
 http://57.128.231.171:8080/282/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFeXa8KfhSIYVKcgmPVdsbsZYPsSSYVVZCMDUW4j1Fg&s" group-title="KNOWLEDGE TV",Animal Planet
+http://103.151.60.162:2122/play/a01l/index.m3u8
+
 #EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="KNOWLEDGE TV",Da Vinci (Poland) (1080p)
 http://57.128.231.171:8080/284/index.m3u8
 
@@ -1341,6 +1342,7 @@ http://49.0.64.96:8007/WSCI
 http://51.75.127.199:3141/natgeohd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28HvwfkJ/IMG-4560.png" group-title="KNOWLEDGE TV",Nat Geo Wild SD
+http://103.151.60.162:2122/play/a01f/index.m3u8
 http://51.75.127.199:3141/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Asia
@@ -1538,6 +1540,22 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&exte
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",-Hi Sport
 http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 1HD
+http://103.151.60.162:2122/play/a01c/index.m3u8
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 2HD
+http://103.151.60.162:2122/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",Sony Sports Ten 3HD
+http://103.151.60.162:2122/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 5HD
+http://103.151.60.162:2122/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="SPORTS",Sony SAB (576p)
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Canal%2B_Sport_%282013%29.svg/revision/latest/scale-to-width-down/1000?cb=20230904003541" group-title="SPORTS",Canal+ Sport FHD
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
