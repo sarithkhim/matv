@@ -1048,7 +1048,7 @@ http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies Select HD Backup
-http://103.151.60.162:2122/play/a02l/index.m3u8
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="MOVIES",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -1173,7 +1173,7 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 http://88.212.15.19/live/test_white/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Movies",HITS Movies (576p)
-http://103.151.60.162:2122/play/a01h/index.m3u8
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",-tvN SD
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -1342,7 +1342,7 @@ http://49.0.64.96:8007/WSCI
 http://51.75.127.199:3141/natgeohd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28HvwfkJ/IMG-4560.png" group-title="KNOWLEDGE TV",Nat Geo Wild SD
-http://103.151.60.162:2122/play/a01f/index.m3u8
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 http://51.75.127.199:3141/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Asia
@@ -1542,17 +1542,17 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&exte
 http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 1HD
-http://103.151.60.162:2122/play/a01c/index.m3u8
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 2HD
-http://103.151.60.162:2122/play/a01b/index.m3u8
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",Sony Sports Ten 3HD
-http://103.151.60.162:2122/play/a01t/index.m3u8
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="SPORTS",Sony Sports Ten 5HD
-http://103.151.60.162:2122/play/a028/index.m3u8
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="SPORTS",Sony SAB (576p)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
@@ -1589,18 +1589,6 @@ https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png",-UFC Fight Pass
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORTS",Arena Sport Premium M1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM1P
-
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORTS",Arena Sport Premium M2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM2P
-
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="SPORTS",Arena Sport Premium M3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM3P
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS",Setanta Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
