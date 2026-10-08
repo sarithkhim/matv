@@ -299,6 +299,9 @@ http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="CHINA TV🇨🇳",Golden Jade13
 http://103.172.187.30:12000/stream/mytv/null-13/master.m3u8
 
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/dgtv1.jpg" group-title="CHINA TV🇨🇳",Dongguan Comprehensive News Channel🇨🇳
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="CHINA TV🇨🇳",TVBS-Asia🇨🇳
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
@@ -327,6 +330,9 @@ https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
 
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangzhou-tv-cn.png",Guangzhou TV🇨🇳
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+#EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="CHINA TV🇨🇳",Xizang TV Chinese🇨🇳
+https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png" group-title="CHINA TV🇨🇳",Anhui TV🇨🇳
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
@@ -1152,8 +1158,8 @@ https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 http://103.137.83.62:9090/play/21/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Philippines
-https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia FHD
+http://103.185.24.134:3001/AXN-HD/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Backup
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -1343,9 +1349,15 @@ http://49.0.64.96:8007/WSCI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCtT2nFg/IMG-4562.png" group-title="KNOWLEDGE TV",National Geographic HD
 http://51.75.127.199:3141/natgeohd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HvwfkJ/IMG-4560.png" group-title="KNOWLEDGE TV",Nat Geo Wild SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCtT2nFg/IMG-4562.png" group-title="KNOWLEDGE TV",National Geographic FHD
+http://103.185.24.134:3001/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HvwfkJ/IMG-4560.png" group-title="KNOWLEDGE TV",Nat Geo Wild FHD
 http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 http://51.75.127.199:3141/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="KNOWLEDGE TV",National Geographic Wild (India) HD (1080p)
+http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History Asia
 #EXTVLCOPT:http-user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1719,7 +1731,6 @@ http://stream.mcquack.net/192/index.m3u8
 http://145.239.5.177/530/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/O9BapV9.png",-FS 1HD US
-https://tvsen7.aynascope.net/foxsports1/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LHtxKI8.png",-FS 2HD US
@@ -2016,11 +2027,20 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 
 
+<===================================== Indonesia =================================>
 
 
+#EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Indonesia",GTV (Indonesia) HD (1080p)
+http://202.150.172.59/GTVHD/index.m3u8
 
+#EXTINF:-1 tvg-id="Indosiar.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
 
+#EXTINF:-1 tvg-id="iNews.id@HD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="Indonesia",iNews HD (1080p)
+http://202.150.172.59/iNews/index.m3u8
 
+#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia",RCTI HD (1080p)
+http://202.150.172.59/RCTIHD/index.m3u8
 
 
 
