@@ -346,9 +346,6 @@ http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nei-monggol-tv-2-mongolian-culture-channel-cn.png" group-title="CHINA TV🇨🇳",Nei Monggol TV2🇨🇳
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/M8_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025742",Channel 8🇨🇳
-https://cdn.qd.je/163189/ch8
-
 #EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",CCTV-4 America🇨🇳
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
@@ -1691,6 +1688,9 @@ http://originhd-1.dens.tv/h/h05/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h09/01.m3u8
 http://originhd-1.dens.tv/h/h09/index.m3u8
 
+#EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="SPORTS",Motorvision (1080p)
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgeQKE7MKKOYBdOVmKZVwTVbGrMsJm9aDq3m-FRHIYUyjtikvKqHUHq1w&s=10" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Eurosport 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
@@ -2031,9 +2031,40 @@ http://202.150.172.59/iNews/index.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia",RCTI HD (1080p)
 http://202.150.172.59/RCTIHD/index.m3u8
 
+#EXTINF:-1 tvg-id="MNCTV.id@HD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="Indonesia",MNCTV HD
+http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI HD (1080i)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+
+<===================================== Singapore =================================>
 
 
 
+#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/M8_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025742",Channel 8🇨🇳
+https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 5🇨🇳
+https://cdn.qd.je/163189/ch5
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 1🇨🇳
+https://cdn.qd.je/163189/ch1
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 2🇨🇳
+https://cdn.qd.je/163189/ch2
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 3🇨🇳
+https://cdn.qd.je/163189/ch3
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 4🇨🇳
+https://cdn.qd.je/163189/ch4
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 6🇨🇳
+https://cdn.qd.je/163189/ch6
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHINA TV🇨🇳",Channel 7🇨🇳
+https://cdn.qd.je/163189/ch7
 
 
 
