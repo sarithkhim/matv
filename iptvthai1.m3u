@@ -900,6 +900,14 @@ http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Kids Channels",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids Channels",Cartoonito Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids Channels",Cartoon Network Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids Channels",Baby Time
 http://178.134.1.158:8081/babytime/index.m3u8
 
@@ -1006,6 +1014,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="MOVIES",HBO Asia HD
+https://2x2.me/yTKXaE
+
+#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="MOVIES",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="MOVIES",HBO Hits Asia HD (1080p)
+https://2x2.me/BbwzPx
+
 #EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="MOVIES",Warner TV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -1053,11 +1069,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies FHD
-http://51.75.127.199:3141/starmovieshd/index.m3u8
-http://66.102.126.10:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies SD
-http://51.75.127.199:3141/starmovies/index.m3u8
+http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="MOVIES",Star Movies Select HD (1080p)
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
@@ -1158,6 +1170,9 @@ http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia FHD
 http://103.185.24.134:3001/AXN-HD/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Malaysia
+https://2x2.me/5aE8sA
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Backup
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1167,6 +1182,9 @@ http://ikitv.sqn.at:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="MOVIES",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/viasat_film/index.m3u8
+
+#EXTINF:-1 tvg-id="KCM.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="MOVIES",KCM India (1080p)
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/Peo1QiZ.png",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
@@ -1280,6 +1298,9 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 tvg-id="HGTVAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="KNOWLEDGE TV",HGTV Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=99
 
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="KNOWLEDGE TV",Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
