@@ -1014,6 +1014,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="MOVIES",KIX (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
 #EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="MOVIES",HBO Asia HD
 https://2x2.me/yTKXaE
 
