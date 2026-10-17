@@ -1851,12 +1851,14 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 <============================================ Sky Sports Group =============================================>
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/VN05tsDT/Sky-Sports-Premier-League-OTT.jpg",-SKY SPORTS PREMIER LEAGUE HD02
-https://xemzi.short.gy/2000002
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIERLEAGUE/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/VN05tsDT/Sky-Sports-Premier-League-OTT.jpg",-SKY SPORTS PREMIER LEAGUE Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/ygjf2H0j/Sky-Sports-Austria.jpg",-Sky Sport austria 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1869,7 +1871,9 @@ https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL HD03
-https://xemzi.short.gy/2000003
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_FOOTBALL/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1877,28 +1881,30 @@ https://xemzi.short.gy/2000003
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 https://xemzi.short.gy/1000020
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS NEWS HD01
-https://xemzi.short.gy/1000001
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",-SKY SPORTS NEWS HD
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sx8wYwcC/Sky-Sports-Main-Event-OTT.jpg",-SKY SPORTS MAIN EVENT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_MAINEVENT/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/mDdqGRWK/Sky-Sports-Golf-OTT.jpg",-Sky Sports Golf HD
-https://xemzi.short.gy/2000009
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_GOLF/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/bwX5P34S/Sky-Sports-Mix-OTT.jpg",-SKY SPORTS MIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
-https://xemzi.short.gy/2000008
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_MIX/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sky_Sport_Max_-_Logo_2026.svg/960px-Sky_Sport_Max_-_Logo_2026.svg.png",-SKY SPORTS MAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
-https://xemzi.short.gy/2000015
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg" http-user-agent="Mozilla" group-title="SkySports Group",-Sky Sports Cricket HD
 #EXTVLCOPT:http-user-agent=Mozilla
@@ -1906,19 +1912,19 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/C5BvTqNn/Sky-Sports-Cricket-OTT.jpg",-SKY SPORTS CRICKET Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-https://xemzi.short.gy/2000014
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_CRICKET/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/T36X0ddj/Sky-Sports-F1-OTT.jpg",-SKY SPORTS F1 HD05
-https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="SkySports Group",Sky Sports NFL (720p)
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/T36X0ddj/Sky-Sports-F1-OTT.jpg",-SKY SPORTS F1 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
-https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
-https://xemzi.short.gy/2000013
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/T36X0ddj/Sky-Sports-F1-OTT.jpg",-SKY SPORTS F1
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png",-SKY Sports+ HD04
 https://xemzi.short.gy/2000004
