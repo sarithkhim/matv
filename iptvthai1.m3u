@@ -1011,7 +1011,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 
-<========================= MOVIES Channels ====================================>
+<========================= MOVIES ====================================>
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
@@ -1019,6 +1019,15 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="MOVIES",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+#EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="MOVIES",HBO (Czech Republic)
+http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="MOVIES",HBO 2 (Czech Republic)
+http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="MOVIES",HBO 3 (Czech Republic)
+http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="MOVIES",Cinemax Asia HD
 http://125.227.210.55:1001/VideoInput/play.ts
