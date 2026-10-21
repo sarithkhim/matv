@@ -543,6 +543,7 @@ http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/vZYlGIW.png",-VTV 1HD🇻🇳 Backup
 #EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
+https://dethich.pw/vtv1/index.m3u8
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.J9bK4W_xwm2hucIMgnpkYQHaFj?r=0&cb=thfvnext&pid=ImgDet&w=191&h=143&c=7&o=7&rm=3",-VTV 2HD🇻🇳
@@ -592,6 +593,7 @@ https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/xiuHjEQ.png",-VTV 5FHD Tây Nam Bộ🇻🇳 Backup
+https://dethich.pw/vtv5tnb/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 
@@ -600,6 +602,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manife
 https://live-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.imgur.com/Hlcnqqt.png",-VTV 5FHD Tây Nguyên🇻🇳 Backup
+https://dethich.pw/vtv5tn/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTVLCOPT:http-referrer=http://player.streamingtvguides.com/
