@@ -1031,6 +1031,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bZWoDTg.png",-Cine Sony (1080p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IONPlus.us@East" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="MOVIES",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="MOVIES",ION TV (720p)
+http://23.237.104.106:8080/USA_ION/index.m3u8
+
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="MOVIES",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 
