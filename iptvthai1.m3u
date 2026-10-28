@@ -331,7 +331,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong_cn_satellite.png",Guangdong Satellite TV🇨🇳
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 
-#EXTINF:-1 group-title="CHINA TV🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-greater-bay-area-satellite-tv-cn.png",Guangdong TV America🇨🇳
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-greater-bay-area-satellite-tv-cn.png",Guangdong TV America🇨🇳
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
 
 #EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangzhou-tv-cn.png",Guangzhou TV🇨🇳
