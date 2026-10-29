@@ -687,10 +687,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="ONO2TV.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png" group-title="TV VIETNAM🇻🇳",ON O2TV🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest?cb=20240816025529&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Vie Drama🇻🇳
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="TV VIETNAM🇻🇳",ON Vie Drama🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/ON_Phim_Vi%E1%BB%87t_logo_09-03-2022.png/revision/latest?cb=20230606021312&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Phimvet🇻🇳
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="TV VIETNAM🇻🇳",ON Phim Viet🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" group-title="TV VIETNAM🇻🇳",ON Cine🇻🇳
@@ -699,10 +699,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/ON_BiBi_Tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest?cb=20241022005743&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON BIBBI🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/ON_E_Channel_08-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20231122022922&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON E Channel🇻🇳
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png" group-title="TV VIETNAM🇻🇳",ON E Channel🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/ON_Style.png/revision/latest?cb=20230228111231&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Style🇻🇳
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFw65Mtk/IMG-2529.webp" group-title="TV VIETNAM🇻🇳",ON Style🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHk2gv86/IMG-2524.webp" group-title="TV VIETNAM🇻🇳",ON Music🇻🇳
@@ -1615,6 +1615,9 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png" group-title="GOLF & TENNIS",SBS Golf
 https://xyktmobile00.s.gy/PPV922_GOLF_TV
+
+#EXTINF:-1 group-title="GOLF & TENNIS" tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg",Sportcast Golf Channel
+http://125.227.210.55:3059/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="GOLF & TENNIS",Tennis Channel (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
