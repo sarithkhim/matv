@@ -665,6 +665,8 @@ https://dethich.pw/htvthethao/index.m3u8
 https://live-a.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="TV VIETNAM🇻🇳",-HTV Thể thaoHD🇻🇳 Backup
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1344040,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
+http://27.67.80.202:18080//304_3.m3u8?AdaptiveType=HLS&SessionID=8331b1d6-b0b6-4ec9-bf15-9fcf0134ac4a&MinBw=0&MaxBw=2000000
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="TV VIETNAM🇻🇳",ON Kids🇻🇳
@@ -1392,11 +1394,9 @@ http://103.151.60.162:2122/play/a01l/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="KNOWLEDGE TV",Animal Planet
+http://125.227.210.55:3054/VideoInput/play.ts
 http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.15.17/live/animal_hun/index.m3u8
-
-#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="KNOWLEDGE TV",Da Vinci (Poland) (1080p)
-http://57.128.231.171:8080/284/index.m3u8
 
 #EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="KNOWLEDGE TV",Da Vinci Vietnam
 https://vmttv.dpdns.org/tv360/?id=davinci-hd
