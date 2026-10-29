@@ -678,9 +678,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="TV VIETNAM🇻🇳",ON Movies🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest?cb=20240816025529&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON Vie Drama🇻🇳
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png" group-title="TV VIETNAM🇻🇳",ON Vie Giai Tri🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
