@@ -1231,8 +1231,8 @@ http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia FHD
 http://103.185.24.134:3001/AXN-HD/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Malaysia
-https://2x2.me/5aE8sA
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png",AXN Asia Backup
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
