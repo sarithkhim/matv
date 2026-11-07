@@ -1656,8 +1656,8 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34613
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
 
-#EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="GOLF & TENNIS",Golf Channel Backup
-https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="GOLF & TENNIS",Golf Channel (United States) (576p)
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
 
 <===================================== SPORTS =================================>
 
@@ -1669,6 +1669,14 @@ http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.cz@HD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="SPORTS",Sport2 HD
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="SPORTS",beIN Sports USA (576p)
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="News;SPORTS",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV.hk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/960px-ViuTV_logo.svg.png" group-title="SPORTS",ViuTV (1080i)
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
