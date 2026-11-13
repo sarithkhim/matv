@@ -1253,11 +1253,8 @@ http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="MOVIES",-Movies Now HD
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="MOVIES",-Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movies",Movies Now HD (1080p)
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgi5EyJpwh6hhlRp6TPDw9btvTOvqLGtPo54q94t0o6Q&s=10",-Asian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
@@ -1279,29 +1276,12 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action SD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h15/index.m3u8
-https://op-group1-densxvisionhd-1.dens.tv/h/h15/02.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock X Stream
-http://58.8.186.128:10007/bysid/2811
-http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
+http://103.253.74.210:7070/stream/95/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",-Rock Action🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",-Rock Entertainment SD
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
-https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",-Rock Entertainment🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1309,7 +1289,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h16/index.m3u8
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",-Rock Entertainment HD🇹🇭
-http://58.8.186.128:10006/bysid/2612
+http://103.253.74.210:7070/stream/96/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/sOYAnTB.png",-Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
@@ -1901,9 +1881,7 @@ http://109.169.87.42:8080/stream/3/index.m3u8
 https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/VN05tsDT/Sky-Sports-Premier-League-OTT.jpg",-SKY SPORTS PREMIER LEAGUE Backup
-#EXTVLCOPT:http-referrer=https://stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+http://94.130.48.67:8042/stream/52/index.m3u8
 
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/LsFFyHHM/Sky-Sports-Football-OTT.jpg",-SKY SPORTS FOOTBALL HD03
 #EXTVLCOPT:http-referrer=https://stmify.com/
@@ -1973,11 +1951,57 @@ https://xemzi.short.gy/2000010
 #EXTVLCOPT:http-referrer=https://player.streamingtvguides.com/
 https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 
-#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action52
-http://94.130.48.67:8042/stream/52/index.m3u8
-
 #EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action54
 http://94.130.48.67:8042/stream/54/index.m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action40
+http://94.130.48.67:8042/stream/40/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action41
+http://94.130.48.67:8042/stream/41/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action42
+http://94.130.48.67:8042/stream/42/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action43
+http://94.130.48.67:8042/stream/43/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action44
+http://94.130.48.67:8042/stream/44/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action45
+http://94.130.48.67:8042/stream/45/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action46
+http://94.130.48.67:8042/stream/46/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action47
+http://94.130.48.67:8042/stream/47/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action48
+http://94.130.48.67:8042/stream/48/index.m3u8
+
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action57
+http://94.130.48.67:8042/stream/57/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action58
+http://94.130.48.67:8042/stream/58/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action59
+http://94.130.48.67:8042/stream/59/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action60
+http://94.130.48.67:8042/stream/60/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action61
+http://94.130.48.67:8042/stream/61/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action62
+http://94.130.48.67:8042/stream/62/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action63
+http://94.130.48.67:8042/stream/63/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action64
+http://94.130.48.67:8042/stream/64/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action65
+http://94.130.48.67:8042/stream/65/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action66
+http://94.130.48.67:8042/stream/66/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action67
+http://94.130.48.67:8042/stream/67/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action68
+http://94.130.48.67:8042/stream/68/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action69
+http://94.130.48.67:8042/stream/69/index.m3u8
+#EXTINF:-1 group-title="SkySports Group" tvg-logo="https://i.postimg.cc/Sxqw8gdg/Sky-Sports-Action-OTT.jpg",-SKY SPORTS Action70
+http://94.130.48.67:8042/stream/70/index.m3u8
+
 
 <============================================ ช่อง 3BBTV =============================================>
 
