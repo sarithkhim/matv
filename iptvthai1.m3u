@@ -723,13 +723,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHk2gv86/IMG-2524.webp" group-title="TV VIETNAM🇻🇳",ON Music🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Trending_TV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_09-04-2023.png/revision/latest/scale-to-width-down/1200?cb=20250111103016&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON TrenJing🇻🇳
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="TV VIETNAM🇻🇳",ON TrenJing🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_VFamily_-_Copyright_by_VTVcab_logo.png/revision/latest/scale-to-width-down/1200?cb=20230420065849&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON VFamily🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" group-title="TV VIETNAM🇻🇳",ON info🇻🇳
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png" group-title="TV VIETNAM🇻🇳",ON info🇻🇳
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="TV VIETNAM🇻🇳",SCTV2 (720p)
